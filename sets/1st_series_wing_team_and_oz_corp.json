@@ -267,6 +267,78 @@
             "ms_type": [],
             "card_number": "MS-012",
             "rarity": "C"
+        },
+        {
+            "card_type": "Pilot",
+            "corps_symbol": "WG",
+            "price": "1",
+            "card_name": "Heero Yuy",
+            "effect": "Increase your Clash Points by 1. Destroy this Pilot to destroy an opposing Pilot card of your choice.",
+            "card_number": "PL-001",
+            "rarity": "R"
+        },
+        {
+            "card_type": "Pilot",
+            "corps_symbol": "WG",
+            "price": "1",
+            "card_name": "Duo Maxwell",
+            "effect": "Draw one card from your Supply Base when a M.S. card with this Pilot attached is not Defended.",
+            "card_number": "PL-002",
+            "rarity": "U"
+        },
+        {
+            "card_type": "Pilot",
+            "corps_symbol": "WG",
+            "price": "1",
+            "card_name": "Trowa Barton",
+            "effect": "Send a card of your choice from the opponent's hand to the Dry Dock when a M.S. card with this Pilot attached is not Defended.",
+            "card_number": "PL-003",
+            "rarity": "U"
+        },
+        {
+            "card_type": "Pilot",
+            "corps_symbol": "WG",
+            "price": "1",
+            "card_name": "Quatre Raberba Winner",
+            "effect": "A M.S. card with this Pilot attached can Defend with an additional M.S. card.",
+            "card_number": "PL-004",
+            "rarity": "U"
+        },
+        {
+            "card_type": "Pilot",
+            "corps_symbol": "WG",
+            "price": "1",
+            "card_name": "Chang Wufei",
+            "effect": "Increase your Clash Points by 1 each time you discard from your Supply Base (maximum 2 cards).",
+            "card_number": "PL-005",
+            "rarity": "U"
+        },
+        {
+            "card_type": "Pilot",
+            "corps_symbol": "WG",
+            "price": "1",
+            "card_name": "Relena Darlian",
+            "effect": "Place this Pilot on your M.S. Dock. Send 3 cards from your Supply Base to the Dry Dock to skip both players next Attack Phase. This card remains in effect until destroyed.",
+            "card_number": "PL-006",
+            "rarity": "R"
+        },
+        {
+            "card_type": "Pilot",
+            "corps_symbol": "WG",
+            "price": "1",
+            "card_name": "Sally Po",
+            "effect": "If the battle ends in a tie, both M.S. cards are returned to each player's hand.",
+            "card_number": "PL-007",
+            "rarity": "C"
+        },
+        {
+            "card_type": "Pilot",
+            "corps_symbol": "WG",
+            "price": "1",
+            "card_name": "Doctor J",
+            "effect": "Place this Pilot on your M.S. Dock to reduce a WG M.S. card's Price by 1. This card remains in effect until destroyed.",
+            "card_number": "PL-008",
+            "rarity": "C"
         }
     ]
 }
