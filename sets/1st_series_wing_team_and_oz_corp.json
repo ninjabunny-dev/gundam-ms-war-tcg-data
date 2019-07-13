@@ -339,6 +339,20 @@
             "effect": "Place this Pilot on your M.S. Dock to reduce a WG M.S. card's Price by 1. This card remains in effect until destroyed.",
             "card_number": "PL-008",
             "rarity": "C"
+        },
+        {
+            "card_type": "Mission Objective",
+            "team_name": "OZ Team",
+            "objective": "Score 6 War Experience Points",
+            "rebel_forces_name": "The World Nation Forces",
+            "rebel_forces_effect": "Rebel Forces become Active when you've scored 4 War Experience Points"
+        },
+        {
+            "card_type": "Mission Objective",
+            "team_name": "OZ Team",
+            "objective": "Score 4 War Experience Points and destroy 1 Battlefield cards.",
+            "rebel_forces_name": "The World Nation Forces",
+            "rebel_forces_effect": "Rebel Forces become Active when you meet one of the two Mission Objectives."
         }
     ]
 }
