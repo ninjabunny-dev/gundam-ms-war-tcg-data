@@ -1,28 +1,27 @@
 {
     "set_name": "1st Series: Wing Team & Oz Corp",
-    "cards" : [
-        {
+    "cards": [{
             "card_type": "Mission Objective",
             "team_name": "Wing Gundam Team",
             "objective": "Score 3 War Experience Points and destroy 2 Battlefield cards.",
             "rebel_forces_name": "White Fang",
-            "rebel_forces_effect":"Rebel Forces become Active when you meet one of the two Mission Objectives."
+            "rebel_forces_effect": "Rebel Forces become Active when you meet one of the two Mission Objectives."
         },
         {
             "card_type": "Mission Objective",
             "team_name": "Wing Gundam Team",
             "objective": "Score 5 War Experience Points",
             "rebel_forces_name": "White Fang",
-            "rebel_forces_effect":"Rebel Forces become Active when you've scored 3 War Experience Points"
+            "rebel_forces_effect": "Rebel Forces become Active when you've scored 3 War Experience Points"
         },
         {
             "card_type": "Battlefield",
             "corps_symbol": "WG",
             "price": "2",
-            "card_name":"Liberation Army Village",
-            "battle_scars":"Destroy one of your M.S. Cards.",
-            "effect":{
-                "phase":["Preliminary Phase"],
+            "card_name": "Liberation Army Village",
+            "battle_scars": "Destroy one of your M.S. Cards.",
+            "effect": {
+                "phase": ["Preliminary Phase"],
                 "text": "You may draw as many cards into your hand as you discard to the Dry Dock."
             },
             "requirements": "More than 1 WG M.S. card.",
@@ -34,42 +33,96 @@
             "corps_symbol": "WG",
             "price": "2",
             "card_name": "Singapore Space Base",
-            "battle_scars":"Destroy one of your M.S. Cards.",
-            "effect":{
-                "phase":["Attack Phase"],
+            "battle_scars": "Destroy one of your M.S. Cards.",
+            "effect": {
+                "phase": ["Attack Phase"],
                 "text": "All your M.S. cards now have the M.S. Type of your choice."
             },
             "requirements": "More than 2 WG M.S. card.",
-            "card_number":"BF-002",
-            "rarity":"C"
+            "card_number": "BF-002",
+            "rarity": "C"
         },
         {
             "card_type": "Battlefield",
             "corps_symbol": "WG",
-            "price":"2",
-            "card_name":"Sanc Kingdom",
-            "battle_scars":"Destroy all your Pilot cards.",
-            "effect":{
-                "phase":["Attack Phase"],
+            "price": "2",
+            "card_name": "Sanc Kingdom",
+            "battle_scars": "Destroy all your Pilot cards.",
+            "effect": {
+                "phase": ["Attack Phase"],
                 "text": "An opponent's M.S. card of your choice receives 3 points of Battle Damages."
             },
-            "requirements":"More than 1 WG Pilot card.",
-            "card_number":"BF-003",
-            "rarity":"R"
+            "requirements": "More than 1 WG Pilot card.",
+            "card_number": "BF-003",
+            "rarity": "R"
         },
         {
-            "card_type":"Battlefield",
-            "corps_symbol":"WG",
-            "price":"2",
-            "card_name":"L2 Colony",
-            "battle_scars":"Discard your entire hand",
-            "effect":{
-                "phase":["Attack Phase", "Strategic Phase"],
-                "text":"Destroy an opposing Pilot card of your choice each time you discard from your hand."
+            "card_type": "Battlefield",
+            "corps_symbol": "WG",
+            "price": "2",
+            "card_name": "L2 Colony",
+            "battle_scars": "Discard your entire hand",
+            "effect": {
+                "phase": ["Attack Phase", "Strategic Phase"],
+                "text": "Destroy an opposing Pilot card of your choice each time you discard from your hand."
             },
-            "requirements":"More than 1 WG Pilot card.",
-            "card_number":"BF-004",
-            "rarity":"R"
+            "requirements": "More than 1 WG Pilot card.",
+            "card_number": "BF-004",
+            "rarity": "R"
+        },
+        {
+            "card_type": "Event",
+            "corps_symbol": "WG",
+            "price": "3",
+            "card_name": "Operation Meteor",
+            "effect": "Return 3 card of your choic from the Dry Dock to your Supply Base and reshuffle.",
+            "card_number": "EV-001",
+            "rarity": "R"
+        },
+        {
+            "card_type": "Event",
+            "corps_symbol": "WG",
+            "price": "2",
+            "card_name": "Shocking Reply",
+            "effect": "Destroy one opposing Pilot card of your choice.",
+            "card_number": "EV-002",
+            "rarity": "U"
+        },
+        {
+            "card_type": "Event",
+            "corps_symbol": "WG",
+            "price": "2",
+            "card_name": "Rebel Factor",
+            "effect": "Return a WG M.S. card of your choice from the Dry Dock to the bottom of your Supply Base.",
+            "card_number": "EV-003",
+            "rarity": "C"
+        },
+        {
+            "card_type": "Event",
+            "corps_symbol": "WG",
+            "price": "2",
+            "card_name": "Support of Maganac Corps",
+            "effect": "Increase your Clash Points by 2",
+            "card_number": "EV-004",
+            "rarity": "C"
+        },
+        {
+            "card_type": "Event",
+            "corps_symbol": "WG",
+            "price": "2",
+            "card_name": "Highly Trained Pilot",
+            "effect": "Attach to a M.S. card to make it immune from Even card effects during the turn.",
+            "card_number": "EV-005",
+            "rarity": "C"
+        },
+        {
+            "card_type": "Event",
+            "corps_symbol": "WG",
+            "price": "1",
+            "card_name": "Nation of Total Pacifism",
+            "effect": "Play before opponent's Attack Phase. Opponent must skip Attack Phase.",
+            "card_number": "EV-006",
+            "rarity": "C"
         }
     ]
 }
