@@ -1871,6 +1871,105 @@
             "ms_type":[],
             "number":"MS-066",
             "rarity":"H"
+        },
+        {
+            "type":"Pilot",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name": "Milliardo Peacecraft",
+            "effect":"Increase your Clash Points by 1 each time you discard from your hand.",
+            "number":"PL-028",
+            "rarity":"H"
+        },
+        {
+            "type":"Pilot",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Treize Khushrenada",
+            "effect":"Increase your Clash Points by 1. A M.S. card with this Pilot attached can't be Defended by more thatn 2 M.S. cards.",
+            "number":"PL-029",
+            "rarity":"G"
+        },
+        {
+            "type":"Pilot",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Lady Une",
+            "effect":"Decrease all Attacking M.S. cards' Clash Points by 1 when a M.S. card with this Pilot attached Defends.",
+            "number":"PL-030",
+            "rarity":"H"
+        },
+        {
+            "type":"Pilot",
+            "corps_symbol":"OZ",
+            "price":"1",
+            "name":"Lucrezia Noin",
+            "effect":"Add 'Preemptive Strike' and increase your Clash Points by 1 when Attacking or Defending with Zechs Merquise or Milliardo Peacecraft.",
+            "number":"PL-031",
+            "rarity":"H"
+        },
+        {
+            "type":"Pilot",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Dorothy Catalonia",
+            "effect":"Increase your Clash Points by 1. Return this Pilot to your hand when a M.S. card with this Pilot attached is destroyed.",
+            "number":"PL-032",
+            "rarity":"R"
+        },
+        {
+            "type":"Pilot",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Tubarov",
+            "effect":"Increase youe Clash Points by 2 when this Pilot is attached with Taurus, Taurus (Flying Mode) or Virgo.",
+            "number":"PL-033",
+            "rarity":"U"
+        },
+        {
+            "type":"Pilot",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Quinze",
+            "effect":"Place this Pilot on your M.S. Dock. Increase an opponent's Rebel Forces' Clash Points by 1. This card remains in effect until destroyed.",
+            "number":"PL-034",
+            "rarity":"R"
+        },
+        {
+            "type":"Pilot",
+            "corps_symbol":"OZ",
+            "price":"1",
+            "name":"Otto",
+            "effect":"When a M.S. card with this Pilot attached is not Defended, destroy this Pilot to destroy a Battlefield card.",
+            "number":"PL-035",
+            "rarity":"C"
+        },
+        {
+            "type":"Pilot",
+            "corps_symbol":"OZ",
+            "price":"1",
+            "name":"Duke Dermail",
+            "effect":"Place this Pilot on your M.S. Dock to reduce one of your OZ Pilot card's Price by 1. This card remains in effect until destroyed.",
+            "number":"PL-036",
+            "rarity":"U"
+        },
+        {
+            "type":"Pilot",
+            "corps_symbol":"OZ",
+            "price":"1",
+            "name":"Muller",
+            "effect":"Destroy this Pilot to destroy an attached Pilot card of your choice on opponent's M.S. Dock.",
+            "number":"PL-037",
+            "rarity":"C"
+        },
+        {
+            "type":"Pilot",
+            "corps_symbol":"OZ",
+            "price":"1",
+            "name":"Hilde Schbeiker",
+            "effect":"Before a battle with a WG Pilot Attacking or Defending you may return this Pilot and the WG Pilot to your hand.",
+            "number":"PL-038",
+            "rarity":"C"
         }
     ]
 }
