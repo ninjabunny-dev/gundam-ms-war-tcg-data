@@ -1325,6 +1325,312 @@
             "effect":"Place this Pilot on your M.S. Dock. Send 3 cards from your Supply Base to the Dry Dock to move a Pilot card of your choile to the bottom of your Supply Base. This card remains in effect until destroyed.",
             "number":"PL-027",
             "rarity":"R"
+        },
+        {
+            "type": "Battlefield",
+            "corps_symbol": "OZ",
+            "price": "2",
+            "name": "Europe Air Force Base",
+            "battle_scars": "Destroy one your Pilot cards.",
+            "effect": {
+                "phase": ["Preliminary Phase"],
+                "text": "Return an OZ Pilot card of your choice from the Dry Dock to the bottom of your Supply Base."
+            },
+            "requirements": "More than 2 OZ M.S. cards.",
+            "number": "BF-017",
+            "rarity": "C"
+        },
+        {
+            "type":"Battlefield",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"The Treize Fleet",
+            "battle_scars":"Destroy one of your OZ M.S. Cards.",
+            "effect":{
+                "phase":["Attack Phase"],
+                "text":"An opponent's M.S. card with no Pilot attached can't Attack."
+            },
+            "requirements":"More than 1 OZ Pilot card.",
+            "number":"BF-018",
+            "rarity":"R"
+        },
+        {
+            "type":"Battlefield",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Romereller Foundation's HQ",
+            "battle_scars":"Send your entire hand to the Defunct Pile.",
+            "effect":{
+                "phase":["Attack Phase"],
+                "text":"Reduce an OZ card's Price by 2 if the Price is more than 4."
+            },
+            "requirements":"More than 2 OZ Pilot cards.",
+            "number":"BF-019",
+            "rarity":"H"
+        },
+        {
+            "type":"Battlefield",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"The Lunar Base",
+            "battle_scars":"Discard your entire hand",
+            "effect":{
+                "phase":["Strategic Phase"],
+                "text":"Reduce the Price of Taurus, Virgo or Virgo II by 2."
+            },
+            "requirements":"More than 2 OZ Pilot cards.",
+            "number":"BF-020",
+            "rarity":"U"
+        },
+        {
+            "type":"Battlefield",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"South Pole Base",
+            "battle_scars":"Skip your next turn.",
+            "effect":{
+                "phase":["Strategic Phase"],
+                "text":"Only one M.S. card can Attack."
+            },
+            "requirements":"More than 1 OZ M.S. card.",
+            "number":"BF-021",
+            "rarity":"U"
+        },
+        {
+            "type":"Battlefield",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Under the North Russian Sea",
+            "battle_scars":"Destroy one of your M.S. Type 'Sea' cards.",
+            "effect":{
+                "phase":["Attack Phase"],
+                "text":"Increase all M.S. Type 'Sea' crads' Clash Points by 1."
+            },
+            "requirements":"More than 1 M.S. Type 'Sea' card.",
+            "number":"BF-022",
+            "rarity":"R"
+        },
+        {
+            "type":"Battlefield",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Old Space Colony",
+            "battle_scars":"Destroy one of your OZ M.S. Cards.",
+            "effect":{
+                "phase":["Strategic Phase"],
+                "text":"An opponent of your choice can't attach any Pilot cards."
+            },
+            "requirements":"More than 2 OZ M.S. cards.",
+            "number":"BF-023",
+            "rarity":"C"
+        },
+        {
+            "type":"Battlefield",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Urban Area",
+            "battle_scars":"Destroy one of your OZ M.S. Cards.",
+            "effect":{
+                "phase":["Attack Phase"],
+                "text":"Destroy a Pilot card placed on M.S. Dock before Attack Phase"
+            },
+            "requirements":"More than 1 OZ M.S. card.",
+            "number":"BF-024",
+            "rarity":"U"
+        },
+        {
+            "type":"Battlefield",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"C421 Space Colony",
+            "battle_scars":"Discard 3 Suppy Base cards.",
+            "effect":{
+                "phase":["Strategic Phase"],
+                "text":"Increase all opposing WG M.S. cards' Price by 1."
+            },
+            "requirements":"More than 1 OZ M.S. card.",
+            "number":"BF-025",
+            "rarity":"C"
+        },
+        {
+            "type": "Event",
+            "corps_symbol": "OZ",
+            "price": "5",
+            "name": "White Fang",
+            "effect": "Activate a player with an OZ Mission Objective's Rebel Forces regardless of the Requirements.",
+            "number": "EV-032",
+            "rarity": "R"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"The World Nation Forces",
+            "effect":"A M.S. card can Defend with an additional M.S. card for this turn.",
+            "number":"EV-033",
+            "rarity":"C"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"3",
+            "name":"Vanquished",
+            "effect":"Send a M.S. card in play to the Defunct pile.",
+            "number":"EV-034",
+            "rarity":"R"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Message From Treize Khushrenada",
+            "effect":"Return all Pilot cards (even your own) to each player's Supply Base and reshuffle.",
+            "number":"EV-035",
+            "rarity":"U"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Commander",
+            "effect":"A Pilot card's effect applies to an additional M.S. card with an attached Pilot for this turn.",
+            "number":"EV-036",
+            "rarity":"C"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Assassin's Bullet",
+            "effect":"Void a Pilot card's effect.",
+            "number":"EV-037",
+            "rarity":"R"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"1",
+            "name":"Encouragement",
+            "effect":"Change one in play card's to OZ Corps.",
+            "number":"EV-038",
+            "rarity":"C"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Military Action",
+            "effect":"Destroy a WG Battlefield card.",
+            "number":"EV-039",
+            "rarity":"U"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"1",
+            "name":"Research Group",
+            "effect":"Select a M.S. card of your choice from your Supply Base. Shuffle the rest of the cards and put the selected M.S. card on top.",
+            "number":"EV-040",
+            "rarity":"U"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Camouflage",
+            "effect":"Void the destruction of a M.S. card.",
+            "number":"EV-041",
+            "rarity":"U"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Loner",
+            "effect":"Increase the Clash Points of a M.S. card with no Pilot attached by 2.",
+            "number":"EV-042",
+            "rarity":"U"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"1",
+            "name":"Rose Essence",
+            "effect":"Draw 2 cards from your Supply Base.",
+            "number":"EV-043",
+            "rarity":"R"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"3",
+            "name":"Decoy",
+            "effect":"Destroy a M.S. card to void Battle Damge for this turn.",
+            "number":"EV-044",
+            "rarity":"R"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"4",
+            "name":"The Alliance Summit",
+            "effect":"Repeat Attack Phase (one time only).",
+            "number":"EV-045",
+            "rarity":"C"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"4",
+            "name":"MD Control Device",
+            "effect":"All M.S. cards with no Pilots attached are considered to have an effect of the Pilot you choose for this turn.",
+            "number":"EV-046",
+            "rarity":"R"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Single Combat",
+            "effect":"Only one of each player's M.S. cards (and any attached Pilot) may battle this turn. Each player chooses the opposing card that will participate in this battle.",
+            "number":"EV-047",
+            "rarity":"R"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"3",
+            "name":"Self-Sacrifice",
+            "effect":"Destroy a M.S. card to send a number of cards equal to the card's Clash Points from your opponents's hand to the Dry Dock.",
+            "number":"EV-048",
+            "rarity":"G"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"Special Attack Corps",
+            "effect":"Destroy an opponent's Battlefield card if a M.S. card of your choice is not Defended.",
+            "number":"EV-049",
+            "rarity":"C"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"2",
+            "name":"M.S. Transport",
+            "effect":"Move an OZ M.S. card from the Dry Dock to the top of your Supply Deck.",
+            "number":"EV-050",
+            "rarity":"C"
+        },
+        {
+            "type":"Event",
+            "corps_symbol":"OZ",
+            "price":"0",
+            "name":"Pinned Down",
+            "effect":"A M.S. card with an attached Pilot can't Attack.",
+            "number":"EV-051",
+            "rarity":"C"
         }
     ]
 }
