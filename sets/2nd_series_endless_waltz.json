@@ -1,0 +1,20 @@
+{
+  "set_name": "2nd Series: Endless Waltz",
+  "info": "The second booster pack series released for Gundam M.S War was based on the movie for Gundam Wing titled 'Endless Waltz'. This included all the Gundams in their custom variations as well as the pilots in their movie outfit variations. There was no starter deck for this series. The booster packs had the name 'Gundam M.S. War Gundam-W Endless Waltz' instead of 'Gundam M.S War'. The booster pack also states both factions 'OZ Corp / Wing Gundam Team' on the front.",
+  "cards": [
+    {
+      "type": "Battlefield",
+      "corps_symbol": "OZ",
+      "price": "3",
+      "name": "X-18999",
+      "battle_scars": "Opponent draws 3 cards from Supply Base.",
+      "effect": {
+        "phase": ["Preliminary Phase"],
+        "text": "Each time you pay 5 or more Prices during the Strategic Phase, you may place one OZ M.S. card without paying its Price during your next Preliminary Phase."
+      },
+      "requirements": "More than 2 OZ Pilot cards.",
+      "number": "BF-026",
+      "rarity": "U"
+    }
+  ]
+}
