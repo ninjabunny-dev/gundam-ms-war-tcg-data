@@ -15,6 +15,104 @@
       "requirements": "More than 2 OZ Pilot cards.",
       "number": "BF-026",
       "rarity": "U"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "WG",
+      "price": "3",
+      "name": "L1 Colony",
+      "battle_scars": "Destroy a Pilot card of your opponent's choice.",
+      "effect": {
+        "phase": ["Preliminary Phase"],
+        "text": "Return a WG Pilot card of your choice from the Dry Dock to your hand at the beginning of each turn."
+      },
+      "requirements": "More that 1 WG Pilot card.",
+      "number": "BF-027",
+      "rarity": "C"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "OZ",
+      "price": "2",
+      "name": "Satellite MO-III",
+      "battle_scars": "Opponent scores 1 War Experience Point.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase all Serpent M.S. cards' Clash Points by 2. They also add Preemptive Strike."
+      },
+      "requirements": "More that 1 OZ M.S. card.",
+      "number": "BF-028",
+      "rarity": "H"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "WG",
+      "price": "3",
+      "name": "The Gundam Scrap Heap",
+      "battle_scars": "Hold one card and discard the rest of your hand.",
+      "effect": {
+        "phase": ["Preliminary Phase"],
+        "text": "Return a WG M.S. card of your choice from the Dry Dock to your hand at the beginning of each turn."
+      },
+      "requirements": "More that 2 WG Pilot cards.",
+      "number": "BF-029",
+      "rarity": "R"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "OZ",
+      "price": "2",
+      "name": "In the Atmosphere",
+      "battle_scars": "Destroy a M.S. card of opponent's choice",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "All Atacking or Defending players receive 3 Battle Damages to each Supply Base."
+      },
+      "requirements": "More that 2 OZ Pilot cards.",
+      "number": "BF-030",
+      "rarity": "U"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "WG",
+      "price": "3",
+      "name": "In the Satellite's Orbit",
+      "battle_scars": "Return a M.S. card from the M.S. Dock to the bottom of Supply Base.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "All Attacking WG M.S. cards add Preemptive Strike."
+      },
+      "requirements": "More that 1 WG M.S. card.",
+      "number": "BF-031",
+      "rarity": "U"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "OZ",
+      "price": "2",
+      "name": "Mariemaia Army Headquarters",
+      "battle_scars": "Send all Pilot cards in play to the Defunct Pile.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Destroy an unattacked Pilot card placed on M.S. Dock when Attacking M.S. cards are not Defended."
+      },
+      "requirements": "More that 1 WG M.S. card.",
+      "number": "BF-032",
+      "rarity": "C"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "OZ",
+      "price": "4",
+      "name": "The Government-General",
+      "battle_scars": "Opponent scores 2 War Experience Points.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Reduce Battle Damages to your Supply Base by 2."
+      },
+      "requirements": "More that 1 OZ M.S. card.",
+      "number": "BF-033",
+      "rarity": "R"
     }
   ]
 }
