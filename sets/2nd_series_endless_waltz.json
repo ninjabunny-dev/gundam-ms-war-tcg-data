@@ -113,6 +113,204 @@
       "requirements": "More that 1 OZ M.S. card.",
       "number": "BF-033",
       "rarity": "R"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "WG",
+      "price": "1",
+      "name": "Preventer",
+      "effect": "Move a Pilot card of your choice from the Suppy Base to your hand and reshuffle Supply Base.",
+      "number": "EV-052",
+      "rarity": "U"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "OZ",
+      "price": "0",
+      "name": "Neo Titanium",
+      "effect": "Move this card from your hand to the Dry Dock to pay 3 OZ Prices.",
+      "number": "EV-053",
+      "rarity": "R"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "WG",
+      "price": "2",
+      "name": "The Anniversary of the War's End",
+      "effect": "All players return entire hand to each Supply Base and reshuffle. Then all redraw 3 cards from the top of each Supply Base.",
+      "number": "EV-054",
+      "rarity": "C"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "OZ",
+      "price": "2",
+      "name": "Snatch",
+      "effect": "Take the effect from opponent's unattached Pilot card on M.S. Dock and apply it to yourself for this turn only.",
+      "number": "EV-055",
+      "rarity": "C"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "OZ",
+      "price": "2",
+      "name": "Rally of Mariemaia Army",
+      "effect": "Return all OZ M.S. cards (even your own) to the M.S. Dock.",
+      "number": "EV-056",
+      "rarity": "R"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "WG",
+      "price": "1",
+      "name": "Colony Infiltration",
+      "effect": "You may see an opponent's hand.",
+      "number": "EV-057",
+      "rarity": "C"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "WG",
+      "price": "2",
+      "name": "Single Flower",
+      "effect": "Draw 3 cards from your Supply Base and discard 2 cards of your choice from your hand.",
+      "number": "EV-058",
+      "rarity": "C"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "OZ",
+      "price": "2",
+      "name": "Power Transfer",
+      "effect": "Take the effect from an Attacking M.S. card and apply it to the Defending M.S. card for this turn only.",
+      "number": "EV-059",
+      "rarity": "C"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "WG",
+      "price": "2",
+      "name": "Heat Detector",
+      "effect": "Restore the ability of a M.S. card of your choice.",
+      "number": "EV-060",
+      "rarity": "U"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "OZ",
+      "price": "1",
+      "name": "13th Constellation",
+      "effect": "Move a Serpent M.S. card from the Supply Base to your hand and reshuffle Supply Base.",
+      "number": "EV-061",
+      "rarity": "R"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "OZ",
+      "price": "1",
+      "name": "Escape From Satellite MO-III",
+      "effect": "Destroy your Battlefield card return 3 Pilot cards of your choice from the Dry Dock to your hand.",
+      "number": "EV-062",
+      "rarity": "U"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "OZ",
+      "price": "3",
+      "name": "Jailbreak",
+      "effect": "Return as many Pilot cards as you wish from the M.S. Dock to your hand.",
+      "number": "EV-063",
+      "rarity": "R"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "WG",
+      "price": "0",
+      "name": "Gundam Recovery",
+      "effect": "Place one card on M.S. Dock with paying the Price of a WG M.S. card of your choice from the Dry Dock.",
+      "number": "EV-064",
+      "rarity": "C"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "OZ",
+      "price": "2",
+      "name": "Barton Foundation",
+      "effect": "Destroy one of your M.S. card to draw same number of cards as the Price of the M.S. cards.",
+      "number": "EV-065",
+      "rarity": "R"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "OZ",
+      "price": "3",
+      "name": "Descending Operation",
+      "effect": "Destroy one card in play. You can't Attack or Defend for this turn. This card must be used before Attack Phase.",
+      "number": "EV-066",
+      "rarity": "U"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "OZ",
+      "price": "3",
+      "name": "The Real Operation Meteor",
+      "effect": "Opponent must discard Battle Damage to the Defunct pile for this turn.",
+      "number": "EV-067",
+      "rarity": "G"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "WG",
+      "price": "3",
+      "name": "Blocking",
+      "effect": "Destroy one of your M.S. card to prevent all M.S. cards (even your own) from Defending.",
+      "number": "EV-068",
+      "rarity": "R"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "WG",
+      "price": "3",
+      "name": "State of Emergency",
+      "effect": "No players can place any cards during this Strategic Phase.",
+      "number": "EV-069",
+      "rarity": "U"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "WG",
+      "price": "3",
+      "name": "People's Action",
+      "effect": "All M.S. cards (even your own) can't Attack for this turn.",
+      "number": "EV-070",
+      "rarity": "R"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "WG",
+      "price": "1",
+      "name": "The Pinch",
+      "effect": "Craw one card from your Supply Base. If that card is a M.S. card, it is placed on M.S. Dock without paying a Price. If not, it is sent to the Dry Dock.",
+      "number": "EV-071",
+      "rarity": "C"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "WG",
+      "price": "1",
+      "name": "Reformed",
+      "effect": "Void the destruction of a Pilot card.",
+      "number": "EV-072",
+      "rarity": "C"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "WG",
+      "price": "6",
+      "name": "End of Waltz",
+      "effect": "Destroy all M.S. cards in play (even your own). This card must be used during the Strategic Phase.",
+      "number": "EV-073",
+      "rarity": "H"
     }
   ]
 }
