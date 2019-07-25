@@ -52,6 +52,60 @@
       "effect": "Move a Gundam M.S. card from the Dry Dock to your hand.",
       "number": "EV-074",
       "rarity": "U"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "EF",
+      "price": "4",
+      "name": "Into the Atmosohere",
+      "effect": "Decrease all M.S. cards' Clash Points by 3 (even your own).",
+      "number": "EV-075",
+      "rarity": "U"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "EF",
+      "price": "2",
+      "name": "Minovsky Particles",
+      "effect": "Void the effect of Event cards requiring you to send cards from your hand to the Dry Dock.",
+      "number": "EV-076",
+      "rarity": "U"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "EF",
+      "price": "1",
+      "name": "Supply Corps",
+      "effect": "Send a card from your hand to the Dry Dock to draw a card from your Supply Base.",
+      "number": "EV-077",
+      "rarity": "C"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "EF",
+      "price": "3",
+      "name": "Antiaircraft Fire",
+      "effect": "Reduce a M.S. Type 'Battleship' card of your choice's Clash Points by 5.",
+      "number": "EV-078",
+      "rarity": "U"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "EF",
+      "price": "1",
+      "name": "Mass Production",
+      "effect": "Reduce the Price of a M.S. card by 1 if a M.S. card with exactly the same name is in play.",
+      "number": "EV-079",
+      "rarity": "C"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "EF",
+      "price": "5",
+      "name": "The Solar System",
+      "effect": "Destroy an opponent's Battlefield card and M.S. card of your choice.",
+      "number": "EV-080",
+      "rarity": "R"
     }
   ]
 }
