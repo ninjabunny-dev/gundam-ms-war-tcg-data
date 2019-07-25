@@ -311,6 +311,324 @@
       "effect": "Destroy all M.S. cards in play (even your own). This card must be used during the Strategic Phase.",
       "number": "EV-073",
       "rarity": "H"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "WG",
+      "price": "5",
+      "name": "XXXG-00W0 Wing Gundam Zero Custom",
+      "clash_points": "5",
+      "weapon": "Twin Beam Buster Rifles",
+      "effect": "Increase Clash Points by 3 when this card Attacks. Send to the Defunct pile after Attack Phase.",
+      "ms_type": [],
+      "number": "MS-067",
+      "rarity": "G"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "WG",
+      "price": "5",
+      "name": "XXXG-01D2 Gundam Deathscythe H. Custom",
+      "clash_points": "5",
+      "weapon": "Beam Scissors",
+      "effect": "Void any Battlefield card's effect.",
+      "ms_type": ["Sea"],
+      "number": "MS-068",
+      "rarity": "H"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "WG",
+      "price": "5",
+      "name": "XXXG-01H2 Gundam Heavyarms Custom",
+      "clash_points": "5",
+      "weapon": "Double Gatling Guns",
+      "effect": "Void any Event card's effects.",
+      "ms_type": [],
+      "number": "MS-069",
+      "rarity": "H"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "WG",
+      "price": "5",
+      "name": "XXXG-01SR2 Gundam Sandrock Custom",
+      "clash_points": "5",
+      "weapon": "Heat Blades",
+      "effect": "Void ant M.S. card's effects.",
+      "ms_type": ["Sand"],
+      "number": "MS-070",
+      "rarity": "H"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "WG",
+      "price": "5",
+      "name": "XXXG-01S2 Altron Gundam",
+      "clash_points": "5",
+      "weapon": "Dragon Fang",
+      "effect": "Void any Pilot card's effects.",
+      "ms_type": [],
+      "number": "MS-071",
+      "rarity": "H"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "WG",
+      "price": "5",
+      "name": "OZ-00MS2B Tallgeese III",
+      "clash_points": "5",
+      "weapon": "Mega Cannon",
+      "effect": "Preemptive Strike.",
+      "ms_type": [],
+      "number": "MS-072",
+      "rarity": "U"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "WG",
+      "price": "4",
+      "name": "OZ-12SMS Taurus",
+      "clash_points": "4",
+      "weapon": "Taurus Cannon",
+      "effect": "Increase Clash Points by 1 when a Pilot is attached.",
+      "ms_type": [],
+      "number": "MS-073",
+      "rarity": "C"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "WG",
+      "price": "1",
+      "name": "Preventer Shuttle",
+      "clash_points": "1",
+      "weapon": "Missile Launcher",
+      "effect": "Destroy this card to reduce one opposing M.S. card of your choice's Clash Points by 3.",
+      "ms_type": [],
+      "number": "MS-074",
+      "rarity": "C"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "WG",
+      "price": "1",
+      "name": "Zero Transport Capsule",
+      "clash_points": "1",
+      "weapon": "-------",
+      "effect": "Preemptive Strike.",
+      "ms_type": [],
+      "number": "MS-075",
+      "rarity": "C"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "OZ",
+      "price": "3",
+      "name": "OZ-12SMS Taurus",
+      "clash_points": "4",
+      "weapon": "Taurus Cannon",
+      "effect": "Onlu M.S. cards with 4 Clash Points and above can Defend against Taurus if Taurus is in Rebel Forces.",
+      "ms_type": [],
+      "number": "MS-076",
+      "rarity": "C"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "OZ",
+      "price": "2",
+      "name": "OZ-06MS Leo",
+      "clash_points": "1",
+      "weapon": "Rifle",
+      "effect": "When Leo is destroyed, return this card to the bottom of your Supply Base.",
+      "ms_type": [],
+      "number": "MS-077",
+      "rarity": "C"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "OZ",
+      "price": "2",
+      "name": "OZ-06MS Leo",
+      "clash_points": "3",
+      "weapon": "Machine Gun",
+      "effect": "Preemptive Strike. Leo can't Defend.",
+      "ms_type": [],
+      "number": "MS-078",
+      "rarity": "C"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "OZ",
+      "price": "2",
+      "name": "OZ-06MS Leo",
+      "clash_points": "3",
+      "weapon": "Beam Saber",
+      "effect": "Preemptive Strike. Reduce Clase Points by 1 when Attacking.",
+      "ms_type": [],
+      "number": "MS-079",
+      "rarity": "C"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "OZ",
+      "price": "5",
+      "name": "MMS-01 Serpent",
+      "clash_points": "4",
+      "weapon": "Double Gatling Guns",
+      "effect": "Increase Clash Points by 2 when Attacking.",
+      "ms_type": [],
+      "number": "MS-080",
+      "rarity": "H"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "OZ",
+      "price": "5",
+      "name": "MMS-01 Serpent",
+      "clash_points": "4",
+      "weapon": "Double Gatling Guns",
+      "effect": "Increase Clash Points by 2 when Defending WG M.S. cards.",
+      "ms_type": [],
+      "number": "MS-081",
+      "rarity": "R"
+    },
+    {
+      "type": "Mobile Suit",
+      "corps_symbol": "OZ",
+      "price": "1",
+      "name": "Serpent Transport Ship",
+      "clash_points": "1",
+      "weapon": "-------",
+      "effect": "Destroy this card to move a Serpent M.S. card from the Dry Dock to your hand.",
+      "ms_type": [],
+      "number": "MS-082",
+      "rarity": "U"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "WG",
+      "price": "2",
+      "name": "Heero Yuy",
+      "effect": "Preemptive Strike. Increase your Clash Points by 2.",
+      "number": "PL-039",
+      "rarity": "U"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "WG",
+      "price": "3",
+      "name": "Duo Maxwell",
+      "effect": "Only M.S. cards with M.S. Type can Defend against a M.S. card with this Pilot attached.",
+      "number": "PL-040",
+      "rarity": "U"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "WG",
+      "price": "2",
+      "name": "Trowa Barton",
+      "effect": "Increase your Clash Points by 2. A player with this Pilot attached must show all players their hand until this Pilot is destroyed.",
+      "number": "PL-041",
+      "rarity": "U"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "WG",
+      "price": "3",
+      "name": "Quatre Raberba Winner",
+      "effect": "Return a M.S. card of your choice from the Dry Dock to your hand each time a M.S. card with this Pilot attached is not destroyed when Attacking.",
+      "number": "PL-042",
+      "rarity": "U"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "WG",
+      "price": "2",
+      "name": "Chang Wufei",
+      "effect": "Increase Clash Points by 3 when a M.S. card with this Pilot attacked is Defended by any WG M.S. card.",
+      "number": "PL-043",
+      "rarity": "U"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "WG",
+      "price": "3",
+      "name": "Zechs Merquise",
+      "effect": "Increase your Clash Points by 2. This Pilot can be attached before your Attack Phase.",
+      "number": "PL-044",
+      "rarity": "H"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "WG",
+      "price": "1",
+      "name": "Lady Une",
+      "effect": "Send one card from your hand to the Dry Dock to see opponent's hand when this Pilot is in play.",
+      "number": "PL-045",
+      "rarity": "C"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "OZ",
+      "price": "2",
+      "name": "Mariemaia Khushrenada",
+      "effect": "Place this Pilot on your M.S. Dock to increase all OZ M.S. cards' Clash Points by 1. This card remains in effect until destroyed.",
+      "number": "PL-046",
+      "rarity": "G"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "OZ",
+      "price": "4",
+      "name": "Dekin Barton",
+      "effect": "Place this Pilot on your M.S. Dock to place an OZ M.S. card on the M.S. Dock without paying a Price every Strategic Phase. This card remains in effect until destroyed.",
+      "number": "PL-047",
+      "rarity": "H"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "OZ",
+      "price": "2",
+      "name": "The Real Trowa Barton",
+      "effect": "Increase your Clash Points by 1. A Pilot card of your choice may be attached to a M.S. card of your choice without paying a Price when this Pilot is destroyed.",
+      "number": "PL-048",
+      "rarity": "C"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "WG",
+      "price": "1",
+      "name": "The President of the Earth Sphere",
+      "effect": "Place this Pilot on your M.S. Dock. A M.S. card with an attached Pilot of your choice can't Attack or Defend for this turn. This card remains in effect until destroyed.",
+      "number": "PL-049",
+      "rarity": "C"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "WG",
+      "price": "2",
+      "name": "Relena Darlian",
+      "effect": "Place this Pilot on your M.S. Dock to increase all M.S. cards with attached Pilot's Clash Points by 1 (even your opponent's). This card remains effect until destroyed.",
+      "number": "PL-050",
+      "rarity": "H"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "WG",
+      "price": "2",
+      "name": "Master O",
+      "effect": "Place this Pilot on your M.S. Dock. Pay 1 Price to move a Shenlong Gundam or an Altron Gundam from the Dry Dock to the top of your Supply Base. This card remains in effect until destroyed.",
+      "number": "PL-051",
+      "rarity": "R"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "WG",
+      "price": "2",
+      "name": "Doktor S",
+      "effect": "Place this Pilot on your M.S. Dock. Pay 2 Prices to move a M.S. card with any M.S. Type from the Dry Dock to the top of your Supply Base. This card remains in effect until destroyed.",
+      "number": "PL-052",
+      "rarity": "R"
     }
   ]
 }
