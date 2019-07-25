@@ -1,5 +1,57 @@
 {
   "set_name": "3rd Series: Mobile Suit Gundam",
   "info": "The third and last series released for Gundam M.S War based on the original Mobile Suit Gundam anime series. There were no booster set released for this series. Although there were images of booster packs on the starter deck box, none exist. There are no Gold Stamped card in this series either.",
-  "cards": []
+  "cards": [
+    {
+      "type": "Battlefield",
+      "corps_symbol": "EF",
+      "price": "3",
+      "name": "Side-7",
+      "battle_scars": "Destroy two of your M.S. cards.",
+      "effect": {
+        "phase": ["Strategic Phase"],
+        "text": "Reduce all EF M.S. and Pilot cards' Price by 1."
+      },
+      "requirements": "More than 1 WG M.S. card",
+      "number": "BF-034",
+      "rarity": "C"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "EF",
+      "price": "3",
+      "name": "Luna II",
+      "battle_scars": "Destroy one of your M.S. cards.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase all EF M.S. Type 'Battleship' cards' Clash Points by 1."
+      },
+      "requirements": "More than 1 EF M.S. Type 'Battleship' card.",
+      "number": "BF-035",
+      "rarity": "C"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "EF",
+      "price": "4",
+      "name": "Jabrow",
+      "battle_scars": "Opponent draw 3 cards from their Supply Base.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase all Defending M.S. cards' Clash Points by 1."
+      },
+      "requirements": "More than 2 EF M.S. Type 'Battleship' cards.",
+      "number": "BF-036",
+      "rarity": "R"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "EF",
+      "price": "2",
+      "name": "Operation V",
+      "effect": "Move a Gundam M.S. card from the Dry Dock to your hand.",
+      "number": "EV-074",
+      "rarity": "U"
+    }
+  ]
 }
