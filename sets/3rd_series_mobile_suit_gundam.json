@@ -250,6 +250,86 @@
       "ms_type": [],
       "number": "MS-094",
       "rarity": "C"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "EF",
+      "price": "3",
+      "name": "Amuro Ray",
+      "effect": "Only a M.S. card with 'Newtype' Pilot attached can Defend when a M.S. card with this Pilot Attacks",
+      "pilot_type": ["Newtype"],
+      "number": "PL-053",
+      "rarity": "H"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "EF",
+      "price": "2",
+      "name": "Sayla Mass",
+      "effect": "Increase your Clash Points by 1.",
+      "pilot_type": ["Newtype"],
+      "number": "PL-054",
+      "rarity": "R"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "EF",
+      "price": "2",
+      "name": "Kai Shiden",
+      "effect": "Increase your Clash Points by 2. A M.S. card with this Pilot attached must pay 1 Price to Attack.",
+      "pilot_type": [],
+      "number": "PL-055",
+      "rarity": "U"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "EF",
+      "price": "2",
+      "name": "Hayato Kobayashi",
+      "effect": "Increase your Clash Points by 2 when Defending. Return this Pilot to the bottom of your Supply Base when a M.S. card with this Pilot attached is destroyed.",
+      "pilot_type": [],
+      "number": "PL-056",
+      "rarity": "C"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "EF",
+      "price": "2",
+      "name": "Bright Noah",
+      "effect": "Place this Pilot on your M.S. Dock to increase all your EF M.S. Type 'Battleship' cards' Clash Points by 1. This card remains in effect until destroyed.",
+      "pilot_type": [],
+      "number": "PL-057",
+      "rarity": "C"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "EF",
+      "price": "1",
+      "name": "Mirai Yashima",
+      "effect": "Increase your Clash Points by 2 when this Pilot is attached to M.S. Type 'Battleship' cards.",
+      "pilot_type": [],
+      "number": "PL-058",
+      "rarity": "C"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "EF",
+      "price": "2",
+      "name": "Ryu Jose",
+      "effect": "Increase your Clash Points by 1. Destroy a M.S. card with this Pilot attached to send an opponent's M.S. card of your choice to their Dry Dock.",
+      "pilot_type": [],
+      "number": "PL-059",
+      "rarity": "R"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "EF",
+      "price": "1",
+      "name": "Matilda Ajan",
+      "effect": "When a M.S. card with this Pilot attached is not destroyed when Defending, send 1 card of your choice from the Dry Dock to your hand.",
+      "pilot_type": [],
+      "number": "PL-060",
+      "rarity": "C"
     }
   ]
 }
