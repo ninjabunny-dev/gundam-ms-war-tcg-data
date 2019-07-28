@@ -330,6 +330,102 @@
       "pilot_type": [],
       "number": "PL-060",
       "rarity": "C"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "PZ",
+      "price": "3",
+      "name": "North America",
+      "battle_scars": "Destroy one of your M.S. cards.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase all PZ M.S. Type 'Battleship' cards' Clash Points by 1."
+      },
+      "requirements": "More than 1 PZ Pilot card.",
+      "number": "BF-037",
+      "rarity": "C"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "PZ",
+      "price": "3",
+      "name": "The Zeon Mining Region",
+      "battle_scars": "Keep one card of your choice and discard the rest of your hand.",
+      "effect": {
+        "phase": ["Preliminary Phase"],
+        "text": "You may draw a card from your Supply Base at each player's Preliminary Phase."
+      },
+      "requirements": "More than 1 PZ M.S. Type 'Mobile Armor' card.",
+      "number": "BF-038",
+      "rarity": "U"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "PZ",
+      "price": "4",
+      "name": "Odessa",
+      "battle_scars": "Opponent scores 1 War Experience Point.",
+      "effect": {
+        "phase": ["Strategic Phase"],
+        "text": "Reduce all PZ M.S. and Event cards' Price by 1."
+      },
+      "requirements": "More than 3 PZ M.S. cards.",
+      "number": "BF-039",
+      "rarity": "R"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "PZ",
+      "price": "2",
+      "name": "The Red Comet",
+      "effect": "Send a M.S. card with 'Gundam' in its name from an opponent's hand to the Dry Dock.",
+      "number": "EV-081",
+      "rarity": "R"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "PZ",
+      "price": "2",
+      "name": "Speech",
+      "effect": "Increase the Clash Points of all M.S. cards with Pilot attached by 1.",
+      "number": "EV-082",
+      "rarity": "R"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "PZ",
+      "price": "3",
+      "name": "Guerrilla Band",
+      "effect": "An opponent receives Battle Damage equal to the number of Pilot cards in play.",
+      "number": "EV-083",
+      "rarity": "U"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "PZ",
+      "price": "2",
+      "name": "Jet-Stream Attack",
+      "effect": "When 3 M.S. cards with exactly the same name are in play, Increase their Clash Points by 2.",
+      "number": "EV-084",
+      "rarity": "C"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "PZ",
+      "price": "2",
+      "name": "Spy",
+      "effect": "Send an opponent's Event card of your choice from opponent's hand to the Dry Dock.",
+      "number": "EV-085",
+      "rarity": "U"
+    },
+    {
+      "type": "Event",
+      "corps_symbol": "PZ",
+      "price": "3",
+      "name": "Ma Kube's Tactics's",
+      "effect": "Send an opponent's Battlefield card or 3 of opponent's choice from their hand to the Dry Dock.",
+      "number": "EV-086",
+      "rarity": "U"
     }
   ]
 }
