@@ -121,6 +121,370 @@
       "pilot_type": [],
       "number": "PL-P12",
       "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "Atlanta, GA",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P01",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "St. Louis, MO",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P02",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "New York, NY",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P03",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "WG",
+      "price": "1",
+      "name": "Houston, TX",
+      "battle_scars": "Discard 3 Supply Base cards.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase all Gundam Deathscythe H. Custom cards' Clash Points by 2."
+      },
+      "requirements": "Gundam Deathscythe H. Custom in play.",
+      "number": "BF-P04",
+      "rarity": "H"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "PZ",
+      "price": "1",
+      "name": "San Diego, CA",
+      "battle_scars": "Discard 3 Supply Base cards.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase all Gouf cards' Clash Points by 2."
+      },
+      "requirements": "Gouf in play.",
+      "number": "BF-P05",
+      "rarity": "H"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "PZ",
+      "price": "1",
+      "name": "San Antonio, TX",
+      "battle_scars": "Discard 3 Supply Base cards.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase all Dom cards' Clash Points by 2."
+      },
+      "requirements": "Dom in play.",
+      "number": "BF-P06",
+      "rarity": "H"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P07",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "Charlotte, NC",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P08",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "Paramus, NJ",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P09",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "OZ",
+      "price": "1",
+      "name": "Daytona, FL",
+      "battle_scars": "Discard 3 Supply Base cards.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase all Tallgeese cards' Clash Points by 2."
+      },
+      "requirements": "Tallgeese in play.",
+      "number": "BF-P10",
+      "rarity": "H"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P11",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "OZ",
+      "price": "1",
+      "name": "Philadelphia, PA",
+      "battle_scars": "Discard 3 Supply Base cards.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase all Gundam Epyon cards' Clash Points by 2."
+      },
+      "requirements": "Gundam Epyon in play.",
+      "number": "BF-P12",
+      "rarity": "H"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "WG",
+      "price": "1",
+      "name": "Las Vegas, NV",
+      "battle_scars": "Discard 3 Supply Base cards.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase all Shenlong Gundam cards' Clash Points by 2."
+      },
+      "requirements": "Shenlong Gundam in play.",
+      "number": "BF-P13",
+      "rarity": "H"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "San Francisco, CA",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P14",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "Washington DC",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P15",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P16",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "Toronto, Canada",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P17",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "Orlando, FL",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P18",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "Chicago, IL",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P19",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P20",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "PZ",
+      "price": "1",
+      "name": "Orange County, CA",
+      "battle_scars": "Discard 3 Supply Base cards.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase all Z'Gok cards' Clash Points by 2."
+      },
+      "requirements": "Z'Gok in play.",
+      "number": "BF-P21",
+      "rarity": "H"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "WG",
+      "price": "1",
+      "name": "Denver, CO",
+      "battle_scars": "Discard 3 Supply Base cards.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase all Gundam Sandrock cards' Clash Points by 2."
+      },
+      "requirements": "Gundam Sandrock in play.",
+      "number": "BF-P22",
+      "rarity": "H"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "EF",
+      "price": "1",
+      "name": "Los Angeles, CA",
+      "battle_scars": "Discard 3 Supply Base cards.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase all Gundam cards' Clash Points by 2."
+      },
+      "requirements": "Gundam in play.",
+      "number": "BF-P23",
+      "rarity": "H"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "",
+      "price": "",
+      "name": "",
+      "battle_scars": "",
+      "effect": {
+        "phase": [],
+        "text": ""
+      },
+      "requirements": "",
+      "number": "BF-P24",
+      "rarity": ""
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "WG",
+      "price": "1",
+      "name": "Sacramento, CA",
+      "battle_scars": "Discard 3 Supply Base cards.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase Tallgeese III cards' Clash Points by 2."
+      },
+      "requirements": "Tallgeese III in play.",
+      "number": "BF-P25",
+      "rarity": "H"
+    },
+    {
+      "type": "Battlefield",
+      "corps_symbol": "EF",
+      "price": "1",
+      "name": "Boston, MA",
+      "battle_scars": "Discard 3 Supply Base cards.",
+      "effect": {
+        "phase": ["Attack Phase"],
+        "text": "Increase GM cards' Clash Points by 2."
+      },
+      "requirements": "GM in play.",
+      "number": "BF-P26",
+      "rarity": "H"
     }
   ]
 }
