@@ -1,6 +1,6 @@
 {
   "set_name": "3rd Series: Mobile Suit Gundam",
-  "info": "The third and last series released for Gundam M.S War based on the original Mobile Suit Gundam anime series. There were no booster set released for this series. Although there were images of booster packs on the starter deck box, none exist. There are no Gold Stamped card in this series either.",
+  "info": "The third and last series released for Gundam M.S War based on the original Mobile Suit Gundam anime series. There was no booster set released for this series. Although there were images of booster packs on the starter deck box, none exist. There are no Gold Stamped card in this series either.",
   "cards": [
     {
       "type": "Battlefield",
@@ -595,6 +595,75 @@
       "number": "MS-108",
       "rarity": "U"
     },
-    {}
+    {
+      "type": "Pilot",
+      "corps_symbol": "PZ",
+      "price": "3",
+      "name": "Char Aznable",
+      "effect": "Increase your Clash Points by 2 when Attacking or Defending a M.S. card with 5 Clash Points or above.",
+      "pilot_type": ["Newtype"],
+      "number": "PL-061",
+      "rarity": "H"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "PZ",
+      "price": "2",
+      "name": "Garma Zabi",
+      "effect": "Increase your Clash Points by 1. When this Pilot is attached to a PZ M.S. Type 'Battleship' card, increase your Clash Points by 2.",
+      "pilot_type": [],
+      "number": "PL-062",
+      "rarity": "C"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "PZ",
+      "price": "2",
+      "name": "Ranba Ral",
+      "effect": "Increase your Clash Points by 2. When a M.S. card with Pilot attached is destroy, send this card to the Defunct pile.",
+      "pilot_type": [],
+      "number": "PL-063",
+      "rarity": "U"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "PZ",
+      "price": "2",
+      "name": "Clawle Hamon",
+      "effect": "Increase your Clash Points by 1. If any Pilot cards are in your Dry Dock, increase Clash Points by 2.",
+      "pilot_type": [],
+      "number": "PL-064",
+      "rarity": "C"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "PZ",
+      "price": "2",
+      "name": "Ma Kube",
+      "effect": "Increase your Clash Points by 1. Reduce a PZ Event card's Price by 1 when this Pilot is in play.",
+      "pilot_type": [],
+      "number": "PL-065",
+      "rarity": "R"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "PZ",
+      "price": "2",
+      "name": "The Black Trinary",
+      "effect": "Increase your Clash Points by 2 when Attacking. Reduce Clash Points by 1 when Defending.",
+      "pilot_type": [],
+      "number": "PL-066",
+      "rarity": "C"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "PZ",
+      "price": "1",
+      "name": "Flanagan Boone",
+      "effect": "Increase your Clash Points by 1 and add M.S. Type 'Sea'.",
+      "pilot_type": [],
+      "number": "PL-067",
+      "rarity": "C"
+    }
   ]
 }
