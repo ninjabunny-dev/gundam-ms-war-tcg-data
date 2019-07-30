@@ -1,0 +1,1 @@
+{"set_name": "Promos", "requirements": "GM in play.", "battle_scars": "Discard 3 Supply Base cards.", "price": "1", "effect": {"phase": ["Attack Phase"], "text": "Increase GM cards' Clash Points by 2."}, "number": "BF-P26", "corps_symbol": "EF", "rarity": "H", "type": "Battlefield", "name": "Boston, MA"}

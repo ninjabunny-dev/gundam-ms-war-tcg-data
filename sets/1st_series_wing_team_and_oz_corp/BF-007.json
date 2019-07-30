@@ -1,0 +1,1 @@
+{"set_name": "1st Series: Wing Team & Oz Corp", "requirements": "More than 1 OZ Pilot card.", "battle_scars": "Discard 3 Suppy Base cards.", "price": "2", "effect": {"phase": ["Attack Phase", "Strategic Phase"], "text": "Reduce all OZ Event cards' Price by 1."}, "number": "BF-007", "corps_symbol": "OZ", "rarity": "C", "type": "Battlefield", "name": "Luxembourg Base"}
