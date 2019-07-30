@@ -1,5 +1,126 @@
 {
   "set_name": "",
   "info": "",
-  "cards": []
+  "cards": [
+    {
+      "type": "Pilot",
+      "corps_symbol": "EF",
+      "price": "3",
+      "name": "Amuro Ray",
+      "effect": "A M.S. card with this Pilot attached doesn't sustain any damage from a M.S. card without a Pilot.",
+      "pilot_type": ["New Type Ability"],
+      "number": "PL-P01",
+      "rarity": "H"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "2",
+      "price": "2",
+      "name": "Sayla Mass",
+      "effect": "Void Char Aznable Pilot Card's Effect.",
+      "pilot_type": [],
+      "number": "PL-P02",
+      "rarity": "H"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "EZ",
+      "price": "2",
+      "name": "Matilda Ajan",
+      "effect": "Destroy this card to move an Amuro Ray Pilot card from the Dry Dock to your hand.",
+      "pilot_type": [],
+      "number": "PL-P03",
+      "rarity": "H"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "PZ",
+      "price": "3",
+      "name": "Char Aznable",
+      "effect": "A M.S. card with no Pilot attached can't Defend against a M.S. card with this Pilot attached.",
+      "pilot_type": ["New Type Ability"],
+      "number": "PL-P04",
+      "rarity": "H"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "",
+      "price": "",
+      "name": "Garma Zabi",
+      "effect": "",
+      "pilot_type": [],
+      "number": "PL-P05",
+      "rarity": ""
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "PZ",
+      "price": "3",
+      "name": "Gihren Zabi",
+      "effect": "Place this Pilot on your M.S. Dock. You may use an PZ Event card at the end of every turn without paying a Price.",
+      "pilot_type": [],
+      "number": "PL-P06",
+      "rarity": "H"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "PZ",
+      "price": "3",
+      "name": "Ramba Ral",
+      "effect": "A M.S. card with this Pilot attached has Preemptive Strike and M.S. Type 'Sand'.",
+      "pilot_type": [],
+      "number": "PL-P07",
+      "rarity": "H"
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "PZ",
+      "price": "2",
+      "name": "Clawle Hamon",
+      "effect": "Increase a M.S. card with a Ramba Ral Pilot card attached Clash Points by 1 while this Pilot is in play.",
+      "pilot_type": [],
+      "number": "PL-P08",
+      "rarity": ""
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "",
+      "price": "",
+      "name": "Kou Uraki",
+      "effect": "",
+      "pilot_type": [],
+      "number": "PL-P09",
+      "rarity": ""
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "",
+      "price": "",
+      "name": "Nina Purpleton",
+      "effect": "",
+      "pilot_type": [],
+      "number": "PL-P10",
+      "rarity": ""
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "",
+      "price": "",
+      "name": "Anavel Gato",
+      "effect": "",
+      "pilot_type": [],
+      "number": "PL-P11",
+      "rarity": ""
+    },
+    {
+      "type": "Pilot",
+      "corps_symbol": "",
+      "price": "",
+      "name": "Aiguille Delaz",
+      "effect": "",
+      "pilot_type": [],
+      "number": "PL-P12",
+      "rarity": ""
+    }
+  ]
 }
