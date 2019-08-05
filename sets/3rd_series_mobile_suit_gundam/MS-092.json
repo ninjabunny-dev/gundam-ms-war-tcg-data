@@ -1,1 +1,15 @@
-{"set_name": "3rd Series: Mobile Suit Gundam", "rarity": "C", "name": "Magellan", "weapon": "Double Mega Particle Cannon", "ms_type": ["Battleship"], "effect": "Increase Clash Points by 1 when your Battlefield is in play.", "number": "MS-092", "corps_symbol": "EF", "clash_points": "2", "type": "Mobile Suit", "price": "2"}
+{
+	"set_name": "3rd Series: Mobile Suit Gundam",
+	"rarity": "C",
+	"name": "Magellan",
+	"weapon": "Double Mega Particle Cannon",
+	"ms_type": [
+		"Battleship"
+	],
+	"effect": "Increase Clash Points by 1 when your Battlefield is in play.",
+	"number": "MS-092",
+	"corps_symbol": "EF",
+	"clash_points": "2",
+	"type": "Mobile Suit",
+	"price": "2"
+}

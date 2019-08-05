@@ -1,1 +1,10 @@
-{"set_name": "2nd Series: Endless Waltz", "name": "Colony Infiltration", "price": "1", "number": "EV-057", "effect": "You may see an opponent's hand.", "corps_symbol": "WG", "rarity": "C", "type": "Event"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"name": "Colony Infiltration",
+	"price": "1",
+	"number": "EV-057",
+	"effect": "You may see an opponent's hand.",
+	"corps_symbol": "WG",
+	"rarity": "C",
+	"type": "Event"
+}

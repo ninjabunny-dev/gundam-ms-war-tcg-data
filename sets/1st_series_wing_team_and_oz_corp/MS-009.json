@@ -1,1 +1,15 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "C", "name": "WMS-04 Oliphant", "weapon": "Beam Cannon", "ms_type": ["Sand"], "effect": "", "number": "MS-009", "corps_symbol": "WG", "clash_points": "3", "type": "Mobile Suit", "price": "2"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "C",
+	"name": "WMS-04 Oliphant",
+	"weapon": "Beam Cannon",
+	"ms_type": [
+		"Sand"
+	],
+	"effect": "",
+	"number": "MS-009",
+	"corps_symbol": "WG",
+	"clash_points": "3",
+	"type": "Mobile Suit",
+	"price": "2"
+}

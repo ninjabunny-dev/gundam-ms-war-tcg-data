@@ -1,1 +1,11 @@
-{"set_name": "2nd Series: Endless Waltz", "name": "Dekin Barton", "price": "4", "number": "PL-047", "effect": "Place this Pilot on your M.S. Dock to place an OZ M.S. card on the M.S. Dock without paying a Price every Strategic Phase. This card remains in effect until destroyed.", "pilot_type": [], "corps_symbol": "OZ", "rarity": "H", "type": "Pilot"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"name": "Dekin Barton",
+	"price": "4",
+	"number": "PL-047",
+	"effect": "Place this Pilot on your M.S. Dock to place an OZ M.S. card on the M.S. Dock without paying a Price every Strategic Phase. This card remains in effect until destroyed.",
+	"pilot_type": [],
+	"corps_symbol": "OZ",
+	"rarity": "H",
+	"type": "Pilot"
+}

@@ -1,1 +1,15 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "C", "name": "OZ-09MMS Pisces (M.S. Mode)", "weapon": "Torpedo Launcher", "ms_type": ["Sea"], "effect": "", "number": "MS-018", "corps_symbol": "OZ", "clash_points": "2", "type": "Mobile Suit", "price": "2"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "C",
+	"name": "OZ-09MMS Pisces (M.S. Mode)",
+	"weapon": "Torpedo Launcher",
+	"ms_type": [
+		"Sea"
+	],
+	"effect": "",
+	"number": "MS-018",
+	"corps_symbol": "OZ",
+	"clash_points": "2",
+	"type": "Mobile Suit",
+	"price": "2"
+}

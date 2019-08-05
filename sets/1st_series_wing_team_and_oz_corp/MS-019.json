@@ -1,1 +1,15 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "C", "name": "OZ-08MM Cancer", "weapon": "Torpedo Launcher", "ms_type": ["Sea"], "effect": "Only M.S. Type 'Sea' cards can Defend against Cancer.", "number": "MS-019", "corps_symbol": "OZ", "clash_points": "2", "type": "Mobile Suit", "price": "3"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "C",
+	"name": "OZ-08MM Cancer",
+	"weapon": "Torpedo Launcher",
+	"ms_type": [
+		"Sea"
+	],
+	"effect": "Only M.S. Type 'Sea' cards can Defend against Cancer.",
+	"number": "MS-019",
+	"corps_symbol": "OZ",
+	"clash_points": "2",
+	"type": "Mobile Suit",
+	"price": "3"
+}

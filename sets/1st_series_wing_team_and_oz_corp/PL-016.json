@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Duo Maxwell", "price": "2", "number": "PL-016", "effect": "Increase your Clash Points by 1. When a M.S. card with this Pilot attached is destroyed, return this card to the bottom of your Supply Base.", "pilot_type": [], "corps_symbol": "WG", "rarity": "G", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Duo Maxwell",
+	"price": "2",
+	"number": "PL-016",
+	"effect": "Increase your Clash Points by 1. When a M.S. card with this Pilot attached is destroyed, return this card to the bottom of your Supply Base.",
+	"pilot_type": [],
+	"corps_symbol": "WG",
+	"rarity": "G",
+	"type": "Pilot"
+}

@@ -1,1 +1,13 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "U", "name": "OZ-02MD Virgo", "weapon": "Planate Defencer", "ms_type": [], "effect": "Virgo can Defend with an additional M.S. card.", "number": "MS-065", "corps_symbol": "OZ", "clash_points": "4", "type": "Mobile Suit", "price": "4"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "U",
+	"name": "OZ-02MD Virgo",
+	"weapon": "Planate Defencer",
+	"ms_type": [],
+	"effect": "Virgo can Defend with an additional M.S. card.",
+	"number": "MS-065",
+	"corps_symbol": "OZ",
+	"clash_points": "4",
+	"type": "Mobile Suit",
+	"price": "4"
+}

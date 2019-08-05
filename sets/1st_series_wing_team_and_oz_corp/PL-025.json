@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Minister Darlian", "price": "2", "number": "PL-025", "effect": "Place this Pilot on you M.S. Dock. Send 2 cards from youe Supply Base to the Dry Dock to return your Battlefield card to your hand. This card remains in effect until destroyed.", "pilot_type": [], "corps_symbol": "WG", "rarity": "C", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Minister Darlian",
+	"price": "2",
+	"number": "PL-025",
+	"effect": "Place this Pilot on you M.S. Dock. Send 2 cards from youe Supply Base to the Dry Dock to return your Battlefield card to your hand. This card remains in effect until destroyed.",
+	"pilot_type": [],
+	"corps_symbol": "WG",
+	"rarity": "C",
+	"type": "Pilot"
+}

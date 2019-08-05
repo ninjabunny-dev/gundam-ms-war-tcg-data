@@ -1,1 +1,13 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "C", "name": "OZ-12SMS Taurus", "weapon": "Beam Rifle", "ms_type": [], "effect": "Taurus can't Defend against a M.S. card with a M.S. Type.", "number": "MS-010", "corps_symbol": "WG", "clash_points": "4", "type": "Mobile Suit", "price": "3"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "C",
+	"name": "OZ-12SMS Taurus",
+	"weapon": "Beam Rifle",
+	"ms_type": [],
+	"effect": "Taurus can't Defend against a M.S. card with a M.S. Type.",
+	"number": "MS-010",
+	"corps_symbol": "WG",
+	"clash_points": "4",
+	"type": "Mobile Suit",
+	"price": "3"
+}

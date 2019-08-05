@@ -1,1 +1,11 @@
-{"set_name": "Promos", "name": "Ramba Ral", "price": "3", "effect": "A M.S. card with this Pilot attached has Preemptive Strike and M.S. Type 'Sand'.", "number": "PL-P07", "pilot_type": [], "corps_symbol": "PZ", "rarity": "H", "type": "Pilot"}
+{
+	"set_name": "Promos",
+	"name": "Ramba Ral",
+	"price": "3",
+	"effect": "A M.S. card with this Pilot attached has Preemptive Strike and M.S. Type 'Sand'.",
+	"number": "PL-P07",
+	"pilot_type": [],
+	"corps_symbol": "PZ",
+	"rarity": "H",
+	"type": "Pilot"
+}

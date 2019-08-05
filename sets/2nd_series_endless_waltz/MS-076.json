@@ -1,1 +1,13 @@
-{"set_name": "2nd Series: Endless Waltz", "rarity": "C", "name": "OZ-12SMS Taurus", "weapon": "Taurus Cannon", "ms_type": [], "effect": "Onlu M.S. cards with 4 Clash Points and above can Defend against Taurus if Taurus is in Rebel Forces.", "number": "MS-076", "corps_symbol": "OZ", "clash_points": "4", "type": "Mobile Suit", "price": "3"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"rarity": "C",
+	"name": "OZ-12SMS Taurus",
+	"weapon": "Taurus Cannon",
+	"ms_type": [],
+	"effect": "Onlu M.S. cards with 4 Clash Points and above can Defend against Taurus if Taurus is in Rebel Forces.",
+	"number": "MS-076",
+	"corps_symbol": "OZ",
+	"clash_points": "4",
+	"type": "Mobile Suit",
+	"price": "3"
+}

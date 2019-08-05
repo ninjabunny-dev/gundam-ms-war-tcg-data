@@ -1,1 +1,10 @@
-{"set_name": "2nd Series: Endless Waltz", "name": "The Real Operation Meteor", "price": "3", "number": "EV-067", "effect": "Opponent must discard Battle Damage to the Defunct pile for this turn.", "corps_symbol": "OZ", "rarity": "G", "type": "Event"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"name": "The Real Operation Meteor",
+	"price": "3",
+	"number": "EV-067",
+	"effect": "Opponent must discard Battle Damage to the Defunct pile for this turn.",
+	"corps_symbol": "OZ",
+	"rarity": "G",
+	"type": "Event"
+}

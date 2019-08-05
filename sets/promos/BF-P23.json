@@ -1,1 +1,17 @@
-{"set_name": "Promos", "requirements": "Gundam in play.", "battle_scars": "Discard 3 Supply Base cards.", "price": "1", "effect": {"phase": ["Attack Phase"], "text": "Increase all Gundam cards' Clash Points by 2."}, "number": "BF-P23", "corps_symbol": "EF", "rarity": "H", "type": "Battlefield", "name": "Los Angeles, CA"}
+{
+	"set_name": "Promos",
+	"requirements": "Gundam in play.",
+	"battle_scars": "Discard 3 Supply Base cards.",
+	"price": "1",
+	"effect": {
+		"phase": [
+			"Attack Phase"
+		],
+		"text": "Increase all Gundam cards' Clash Points by 2."
+	},
+	"number": "BF-P23",
+	"corps_symbol": "EF",
+	"rarity": "H",
+	"type": "Battlefield",
+	"name": "Los Angeles, CA"
+}

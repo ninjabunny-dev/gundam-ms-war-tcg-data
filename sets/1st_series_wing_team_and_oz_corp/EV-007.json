@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Specials", "price": "3", "number": "EV-007", "effect": "Move a M.S. card of your choice from the Dry Dock to the M.S. Dock without paying a Price.", "corps_symbol": "OZ", "rarity": "U", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Specials",
+	"price": "3",
+	"number": "EV-007",
+	"effect": "Move a M.S. card of your choice from the Dry Dock to the M.S. Dock without paying a Price.",
+	"corps_symbol": "OZ",
+	"rarity": "U",
+	"type": "Event"
+}

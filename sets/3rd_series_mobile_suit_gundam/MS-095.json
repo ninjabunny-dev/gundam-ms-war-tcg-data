@@ -1,1 +1,13 @@
-{"set_name": "3rd Series: Mobile Suit Gundam", "rarity": "R", "name": "MS-06S Char's Zaku", "weapon": "120mm Machine Gun", "ms_type": [], "effect": "This card can be moved back to the M.S. Dock immediately after your Attack Phase when Char Aznable is attached.", "number": "MS-095", "corps_symbol": "PZ", "clash_points": "4", "type": "Mobile Suit", "price": "3"}
+{
+	"set_name": "3rd Series: Mobile Suit Gundam",
+	"rarity": "R",
+	"name": "MS-06S Char's Zaku",
+	"weapon": "120mm Machine Gun",
+	"ms_type": [],
+	"effect": "This card can be moved back to the M.S. Dock immediately after your Attack Phase when Char Aznable is attached.",
+	"number": "MS-095",
+	"corps_symbol": "PZ",
+	"clash_points": "4",
+	"type": "Mobile Suit",
+	"price": "3"
+}

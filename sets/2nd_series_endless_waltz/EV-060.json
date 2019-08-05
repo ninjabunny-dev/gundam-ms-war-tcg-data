@@ -1,1 +1,10 @@
-{"set_name": "2nd Series: Endless Waltz", "name": "Heat Detector", "price": "2", "number": "EV-060", "effect": "Restore the ability of a M.S. card of your choice.", "corps_symbol": "WG", "rarity": "U", "type": "Event"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"name": "Heat Detector",
+	"price": "2",
+	"number": "EV-060",
+	"effect": "Restore the ability of a M.S. card of your choice.",
+	"corps_symbol": "WG",
+	"rarity": "U",
+	"type": "Event"
+}

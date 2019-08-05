@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Covering Fire", "price": "2", "number": "EV-016", "effect": "Increase all Defending M.S. cards' Clash Points by 1.", "corps_symbol": "WG", "rarity": "C", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Covering Fire",
+	"price": "2",
+	"number": "EV-016",
+	"effect": "Increase all Defending M.S. cards' Clash Points by 1.",
+	"corps_symbol": "WG",
+	"rarity": "C",
+	"type": "Event"
+}

@@ -1,1 +1,17 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "requirements": "More than 1 OZ M.S. card.", "battle_scars": "Destroy one of your OZ M.S. Cards.", "price": "2", "effect": {"phase": ["Attack Phase"], "text": "Destroy a Pilot card placed on M.S. Dock before Attack Phase"}, "number": "BF-024", "corps_symbol": "OZ", "rarity": "U", "type": "Battlefield", "name": "Urban Area"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"requirements": "More than 1 OZ M.S. card.",
+	"battle_scars": "Destroy one of your OZ M.S. Cards.",
+	"price": "2",
+	"effect": {
+		"phase": [
+			"Attack Phase"
+		],
+		"text": "Destroy a Pilot card placed on M.S. Dock before Attack Phase"
+	},
+	"number": "BF-024",
+	"corps_symbol": "OZ",
+	"rarity": "U",
+	"type": "Battlefield",
+	"name": "Urban Area"
+}

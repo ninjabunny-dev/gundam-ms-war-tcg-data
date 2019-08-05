@@ -1,1 +1,17 @@
-{"set_name": "Promos", "requirements": "Z'Gok in play.", "battle_scars": "Discard 3 Supply Base cards.", "price": "1", "effect": {"phase": ["Attack Phase"], "text": "Increase all Z'Gok cards' Clash Points by 2."}, "number": "BF-P21", "corps_symbol": "PZ", "rarity": "H", "type": "Battlefield", "name": "Orange County, CA"}
+{
+	"set_name": "Promos",
+	"requirements": "Z'Gok in play.",
+	"battle_scars": "Discard 3 Supply Base cards.",
+	"price": "1",
+	"effect": {
+		"phase": [
+			"Attack Phase"
+		],
+		"text": "Increase all Z'Gok cards' Clash Points by 2."
+	},
+	"number": "BF-P21",
+	"corps_symbol": "PZ",
+	"rarity": "H",
+	"type": "Battlefield",
+	"name": "Orange County, CA"
+}

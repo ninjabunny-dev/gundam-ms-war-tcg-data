@@ -1,1 +1,13 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "U", "name": "OZ-12SMS Taurus", "weapon": "Taurus Cannon", "ms_type": [], "effect": "Reduce Clash Points by 1 if no Pilot is attached.", "number": "MS-021", "corps_symbol": "OZ", "clash_points": "4", "type": "Mobile Suit", "price": "3"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "U",
+	"name": "OZ-12SMS Taurus",
+	"weapon": "Taurus Cannon",
+	"ms_type": [],
+	"effect": "Reduce Clash Points by 1 if no Pilot is attached.",
+	"number": "MS-021",
+	"corps_symbol": "OZ",
+	"clash_points": "4",
+	"type": "Mobile Suit",
+	"price": "3"
+}

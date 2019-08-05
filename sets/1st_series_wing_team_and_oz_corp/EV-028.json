@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Training", "price": "3", "number": "EV-028", "effect": "A M.S. card and an attached Pilot card are not destroyed.", "corps_symbol": "WG", "rarity": "C", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Training",
+	"price": "3",
+	"number": "EV-028",
+	"effect": "A M.S. card and an attached Pilot card are not destroyed.",
+	"corps_symbol": "WG",
+	"rarity": "C",
+	"type": "Event"
+}

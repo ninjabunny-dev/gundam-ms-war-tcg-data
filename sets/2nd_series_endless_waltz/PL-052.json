@@ -1,1 +1,11 @@
-{"set_name": "2nd Series: Endless Waltz", "name": "Doktor S", "price": "2", "number": "PL-052", "effect": "Place this Pilot on your M.S. Dock. Pay 2 Prices to move a M.S. card with any M.S. Type from the Dry Dock to the top of your Supply Base. This card remains in effect until destroyed.", "pilot_type": [], "corps_symbol": "WG", "rarity": "R", "type": "Pilot"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"name": "Doktor S",
+	"price": "2",
+	"number": "PL-052",
+	"effect": "Place this Pilot on your M.S. Dock. Pay 2 Prices to move a M.S. card with any M.S. Type from the Dry Dock to the top of your Supply Base. This card remains in effect until destroyed.",
+	"pilot_type": [],
+	"corps_symbol": "WG",
+	"rarity": "R",
+	"type": "Pilot"
+}

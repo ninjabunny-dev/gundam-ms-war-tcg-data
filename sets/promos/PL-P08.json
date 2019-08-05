@@ -1,1 +1,11 @@
-{"set_name": "Promos", "name": "Clawle Hamon", "price": "2", "effect": "Increase a M.S. card with a Ramba Ral Pilot card attached Clash Points by 1 while this Pilot is in play.", "number": "PL-P08", "pilot_type": [], "corps_symbol": "PZ", "rarity": "", "type": "Pilot"}
+{
+	"set_name": "Promos",
+	"name": "Clawle Hamon",
+	"price": "2",
+	"effect": "Increase a M.S. card with a Ramba Ral Pilot card attached Clash Points by 1 while this Pilot is in play.",
+	"number": "PL-P08",
+	"pilot_type": [],
+	"corps_symbol": "PZ",
+	"rarity": "",
+	"type": "Pilot"
+}

@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Otto", "price": "1", "number": "PL-035", "effect": "When a M.S. card with this Pilot attached is not Defended, destroy this Pilot to destroy a Battlefield card.", "pilot_type": [], "corps_symbol": "OZ", "rarity": "C", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Otto",
+	"price": "1",
+	"number": "PL-035",
+	"effect": "When a M.S. card with this Pilot attached is not Defended, destroy this Pilot to destroy a Battlefield card.",
+	"pilot_type": [],
+	"corps_symbol": "OZ",
+	"rarity": "C",
+	"type": "Pilot"
+}

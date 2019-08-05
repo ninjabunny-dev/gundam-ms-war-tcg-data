@@ -1,1 +1,11 @@
-{"set_name": "3rd Series: Mobile Suit Gundam", "name": "Flanagan Boone", "price": "1", "effect": "Increase your Clash Points by 1 and add M.S. Type 'Sea'.", "number": "PL-067", "pilot_type": [], "corps_symbol": "PZ", "rarity": "C", "type": "Pilot"}
+{
+	"set_name": "3rd Series: Mobile Suit Gundam",
+	"name": "Flanagan Boone",
+	"price": "1",
+	"effect": "Increase your Clash Points by 1 and add M.S. Type 'Sea'.",
+	"number": "PL-067",
+	"pilot_type": [],
+	"corps_symbol": "PZ",
+	"rarity": "C",
+	"type": "Pilot"
+}

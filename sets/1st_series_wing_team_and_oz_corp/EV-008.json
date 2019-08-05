@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Romefeller Foundation", "price": "2", "number": "EV-008", "effect": "Reduce all OZ cards' Price by 1 during this turn.", "corps_symbol": "OZ", "rarity": "C", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Romefeller Foundation",
+	"price": "2",
+	"number": "EV-008",
+	"effect": "Reduce all OZ cards' Price by 1 during this turn.",
+	"corps_symbol": "OZ",
+	"rarity": "C",
+	"type": "Event"
+}

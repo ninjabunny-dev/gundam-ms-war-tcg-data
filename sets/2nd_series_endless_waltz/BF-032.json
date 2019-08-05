@@ -1,1 +1,17 @@
-{"set_name": "2nd Series: Endless Waltz", "requirements": "More that 1 WG M.S. card.", "battle_scars": "Send all Pilot cards in play to the Defunct Pile.", "price": "2", "effect": {"phase": ["Attack Phase"], "text": "Destroy an unattacked Pilot card placed on M.S. Dock when Attacking M.S. cards are not Defended."}, "number": "BF-032", "corps_symbol": "OZ", "rarity": "C", "type": "Battlefield", "name": "Mariemaia Army Headquarters"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"requirements": "More that 1 WG M.S. card.",
+	"battle_scars": "Send all Pilot cards in play to the Defunct Pile.",
+	"price": "2",
+	"effect": {
+		"phase": [
+			"Attack Phase"
+		],
+		"text": "Destroy an unattacked Pilot card placed on M.S. Dock when Attacking M.S. cards are not Defended."
+	},
+	"number": "BF-032",
+	"corps_symbol": "OZ",
+	"rarity": "C",
+	"type": "Battlefield",
+	"name": "Mariemaia Army Headquarters"
+}

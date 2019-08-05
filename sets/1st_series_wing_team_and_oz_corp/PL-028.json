@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Milliardo Peacecraft", "price": "2", "number": "PL-028", "effect": "Increase your Clash Points by 1 each time you discard from your hand.", "pilot_type": [], "corps_symbol": "OZ", "rarity": "H", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Milliardo Peacecraft",
+	"price": "2",
+	"number": "PL-028",
+	"effect": "Increase your Clash Points by 1 each time you discard from your hand.",
+	"pilot_type": [],
+	"corps_symbol": "OZ",
+	"rarity": "H",
+	"type": "Pilot"
+}

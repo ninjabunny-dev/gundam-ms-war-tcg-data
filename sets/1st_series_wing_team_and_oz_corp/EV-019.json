@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Circus", "price": "2", "number": "EV-019", "effect": "An Attacking M.S. card can't be Defended this turn.", "corps_symbol": "WG", "rarity": "R", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Circus",
+	"price": "2",
+	"number": "EV-019",
+	"effect": "An Attacking M.S. card can't be Defended this turn.",
+	"corps_symbol": "WG",
+	"rarity": "R",
+	"type": "Event"
+}

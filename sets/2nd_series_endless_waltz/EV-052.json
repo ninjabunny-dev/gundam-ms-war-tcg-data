@@ -1,1 +1,10 @@
-{"set_name": "2nd Series: Endless Waltz", "name": "Preventer", "price": "1", "number": "EV-052", "effect": "Move a Pilot card of your choice from the Suppy Base to your hand and reshuffle Supply Base.", "corps_symbol": "WG", "rarity": "U", "type": "Event"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"name": "Preventer",
+	"price": "1",
+	"number": "EV-052",
+	"effect": "Move a Pilot card of your choice from the Suppy Base to your hand and reshuffle Supply Base.",
+	"corps_symbol": "WG",
+	"rarity": "U",
+	"type": "Event"
+}

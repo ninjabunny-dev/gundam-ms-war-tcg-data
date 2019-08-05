@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Mission Failure", "price": "3", "number": "EV-031", "effect": "Decrease your Clash Points by 2. The card is destroyed if its Clash Points are 0.", "corps_symbol": "WG", "rarity": "C", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Mission Failure",
+	"price": "3",
+	"number": "EV-031",
+	"effect": "Decrease your Clash Points by 2. The card is destroyed if its Clash Points are 0.",
+	"corps_symbol": "WG",
+	"rarity": "C",
+	"type": "Event"
+}

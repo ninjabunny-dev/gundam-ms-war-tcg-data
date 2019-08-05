@@ -1,1 +1,11 @@
-{"set_name": "3rd Series: Mobile Suit Gundam", "name": "Hayato Kobayashi", "price": "2", "effect": "Increase your Clash Points by 2 when Defending. Return this Pilot to the bottom of your Supply Base when a M.S. card with this Pilot attached is destroyed.", "number": "PL-056", "pilot_type": [], "corps_symbol": "EF", "rarity": "C", "type": "Pilot"}
+{
+	"set_name": "3rd Series: Mobile Suit Gundam",
+	"name": "Hayato Kobayashi",
+	"price": "2",
+	"effect": "Increase your Clash Points by 2 when Defending. Return this Pilot to the bottom of your Supply Base when a M.S. card with this Pilot attached is destroyed.",
+	"number": "PL-056",
+	"pilot_type": [],
+	"corps_symbol": "EF",
+	"rarity": "C",
+	"type": "Pilot"
+}

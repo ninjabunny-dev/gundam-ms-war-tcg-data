@@ -1,1 +1,17 @@
-{"set_name": "2nd Series: Endless Waltz", "requirements": "More that 1 OZ M.S. card.", "battle_scars": "Opponent scores 2 War Experience Points.", "price": "4", "effect": {"phase": ["Attack Phase"], "text": "Reduce Battle Damages to your Supply Base by 2."}, "number": "BF-033", "corps_symbol": "OZ", "rarity": "R", "type": "Battlefield", "name": "The Government-General"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"requirements": "More that 1 OZ M.S. card.",
+	"battle_scars": "Opponent scores 2 War Experience Points.",
+	"price": "4",
+	"effect": {
+		"phase": [
+			"Attack Phase"
+		],
+		"text": "Reduce Battle Damages to your Supply Base by 2."
+	},
+	"number": "BF-033",
+	"corps_symbol": "OZ",
+	"rarity": "R",
+	"type": "Battlefield",
+	"name": "The Government-General"
+}

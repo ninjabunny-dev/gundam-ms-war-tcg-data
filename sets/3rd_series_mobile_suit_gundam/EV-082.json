@@ -1,1 +1,10 @@
-{"set_name": "3rd Series: Mobile Suit Gundam", "name": "Speech", "price": "2", "number": "EV-082", "effect": "Increase the Clash Points of all M.S. cards with Pilot attached by 1.", "corps_symbol": "PZ", "rarity": "R", "type": "Event"}
+{
+	"set_name": "3rd Series: Mobile Suit Gundam",
+	"name": "Speech",
+	"price": "2",
+	"number": "EV-082",
+	"effect": "Increase the Clash Points of all M.S. cards with Pilot attached by 1.",
+	"corps_symbol": "PZ",
+	"rarity": "R",
+	"type": "Event"
+}

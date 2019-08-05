@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Highly Trained Pilot", "price": "2", "number": "EV-005", "effect": "Attach to a M.S. card to make it immune from Even card effects during the turn.", "corps_symbol": "WG", "rarity": "C", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Highly Trained Pilot",
+	"price": "2",
+	"number": "EV-005",
+	"effect": "Attach to a M.S. card to make it immune from Even card effects during the turn.",
+	"corps_symbol": "WG",
+	"rarity": "C",
+	"type": "Event"
+}

@@ -1,1 +1,17 @@
-{"set_name": "Promos", "requirements": "Gundam Deathscythe H. Custom in play.", "battle_scars": "Discard 3 Supply Base cards.", "price": "1", "effect": {"phase": ["Attack Phase"], "text": "Increase all Gundam Deathscythe H. Custom cards' Clash Points by 2."}, "number": "BF-P04", "corps_symbol": "WG", "rarity": "H", "type": "Battlefield", "name": "Houston, TX"}
+{
+	"set_name": "Promos",
+	"requirements": "Gundam Deathscythe H. Custom in play.",
+	"battle_scars": "Discard 3 Supply Base cards.",
+	"price": "1",
+	"effect": {
+		"phase": [
+			"Attack Phase"
+		],
+		"text": "Increase all Gundam Deathscythe H. Custom cards' Clash Points by 2."
+	},
+	"number": "BF-P04",
+	"corps_symbol": "WG",
+	"rarity": "H",
+	"type": "Battlefield",
+	"name": "Houston, TX"
+}

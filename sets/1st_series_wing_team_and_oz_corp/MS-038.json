@@ -1,1 +1,13 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "H", "name": "OZ-13MSX2 Mercurius (Incomplete)", "weapon": "Beam Gun", "ms_type": [], "effect": "Mercurius is destroy after battle.", "number": "MS-038", "corps_symbol": "WG", "clash_points": "4", "type": "Mobile Suit", "price": "2"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "H",
+	"name": "OZ-13MSX2 Mercurius (Incomplete)",
+	"weapon": "Beam Gun",
+	"ms_type": [],
+	"effect": "Mercurius is destroy after battle.",
+	"number": "MS-038",
+	"corps_symbol": "WG",
+	"clash_points": "4",
+	"type": "Mobile Suit",
+	"price": "2"
+}

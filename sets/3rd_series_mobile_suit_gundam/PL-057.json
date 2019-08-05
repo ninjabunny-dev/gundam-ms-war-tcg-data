@@ -1,1 +1,11 @@
-{"set_name": "3rd Series: Mobile Suit Gundam", "name": "Bright Noah", "price": "2", "effect": "Place this Pilot on your M.S. Dock to increase all your EF M.S. Type 'Battleship' cards' Clash Points by 1. This card remains in effect until destroyed.", "number": "PL-057", "pilot_type": [], "corps_symbol": "EF", "rarity": "C", "type": "Pilot"}
+{
+	"set_name": "3rd Series: Mobile Suit Gundam",
+	"name": "Bright Noah",
+	"price": "2",
+	"effect": "Place this Pilot on your M.S. Dock to increase all your EF M.S. Type 'Battleship' cards' Clash Points by 1. This card remains in effect until destroyed.",
+	"number": "PL-057",
+	"pilot_type": [],
+	"corps_symbol": "EF",
+	"rarity": "C",
+	"type": "Pilot"
+}

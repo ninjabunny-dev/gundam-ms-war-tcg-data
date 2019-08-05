@@ -1,1 +1,13 @@
-{"set_name": "3rd Series: Mobile Suit Gundam", "rarity": "U", "name": "RX-77-2 Guncannon", "weapon": "240mm Cannon", "ms_type": [], "effect": "Reduce one opposing M.S. card of your choice's Clash Points by 3 at the end of your Preliminary Phase. You cannot Attack or Defend until your next Attack Phase.", "number": "MS-084", "corps_symbol": "EF", "clash_points": "4", "type": "Mobile Suit", "price": "4"}
+{
+	"set_name": "3rd Series: Mobile Suit Gundam",
+	"rarity": "U",
+	"name": "RX-77-2 Guncannon",
+	"weapon": "240mm Cannon",
+	"ms_type": [],
+	"effect": "Reduce one opposing M.S. card of your choice's Clash Points by 3 at the end of your Preliminary Phase. You cannot Attack or Defend until your next Attack Phase.",
+	"number": "MS-084",
+	"corps_symbol": "EF",
+	"clash_points": "4",
+	"type": "Mobile Suit",
+	"price": "4"
+}

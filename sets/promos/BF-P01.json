@@ -1,1 +1,15 @@
-{"set_name": "Promos", "requirements": "", "battle_scars": "", "price": "", "effect": {"phase": [], "text": ""}, "number": "BF-P01", "corps_symbol": "", "rarity": "", "type": "Battlefield", "name": "Atlanta, GA"}
+{
+	"set_name": "Promos",
+	"requirements": "",
+	"battle_scars": "",
+	"price": "",
+	"effect": {
+		"phase": [],
+		"text": ""
+	},
+	"number": "BF-P01",
+	"corps_symbol": "",
+	"rarity": "",
+	"type": "Battlefield",
+	"name": "Atlanta, GA"
+}

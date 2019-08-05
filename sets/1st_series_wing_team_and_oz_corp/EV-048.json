@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Self-Sacrifice", "price": "3", "number": "EV-048", "effect": "Destroy a M.S. card to send a number of cards equal to the card's Clash Points from your opponents's hand to the Dry Dock.", "corps_symbol": "OZ", "rarity": "G", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Self-Sacrifice",
+	"price": "3",
+	"number": "EV-048",
+	"effect": "Destroy a M.S. card to send a number of cards equal to the card's Clash Points from your opponents's hand to the Dry Dock.",
+	"corps_symbol": "OZ",
+	"rarity": "G",
+	"type": "Event"
+}

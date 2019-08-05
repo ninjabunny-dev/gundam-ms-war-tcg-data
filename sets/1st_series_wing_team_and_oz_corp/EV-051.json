@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Pinned Down", "price": "0", "number": "EV-051", "effect": "A M.S. card with an attached Pilot can't Attack.", "corps_symbol": "OZ", "rarity": "C", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Pinned Down",
+	"price": "0",
+	"number": "EV-051",
+	"effect": "A M.S. card with an attached Pilot can't Attack.",
+	"corps_symbol": "OZ",
+	"rarity": "C",
+	"type": "Event"
+}

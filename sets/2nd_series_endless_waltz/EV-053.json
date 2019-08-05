@@ -1,1 +1,10 @@
-{"set_name": "2nd Series: Endless Waltz", "name": "Neo Titanium", "price": "0", "number": "EV-053", "effect": "Move this card from your hand to the Dry Dock to pay 3 OZ Prices.", "corps_symbol": "OZ", "rarity": "R", "type": "Event"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"name": "Neo Titanium",
+	"price": "0",
+	"number": "EV-053",
+	"effect": "Move this card from your hand to the Dry Dock to pay 3 OZ Prices.",
+	"corps_symbol": "OZ",
+	"rarity": "R",
+	"type": "Event"
+}

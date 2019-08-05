@@ -1,1 +1,13 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "C", "name": "OZ-07AMS Aries (M.S. Mode)", "weapon": "Missile Pod", "ms_type": [], "effect": "", "number": "MS-054", "corps_symbol": "OZ", "clash_points": "3", "type": "Mobile Suit", "price": "2"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "C",
+	"name": "OZ-07AMS Aries (M.S. Mode)",
+	"weapon": "Missile Pod",
+	"ms_type": [],
+	"effect": "",
+	"number": "MS-054",
+	"corps_symbol": "OZ",
+	"clash_points": "3",
+	"type": "Mobile Suit",
+	"price": "2"
+}

@@ -1,1 +1,10 @@
-{"set_name": "2nd Series: Endless Waltz", "name": "13th Constellation", "price": "1", "number": "EV-061", "effect": "Move a Serpent M.S. card from the Supply Base to your hand and reshuffle Supply Base.", "corps_symbol": "OZ", "rarity": "R", "type": "Event"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"name": "13th Constellation",
+	"price": "1",
+	"number": "EV-061",
+	"effect": "Move a Serpent M.S. card from the Supply Base to your hand and reshuffle Supply Base.",
+	"corps_symbol": "OZ",
+	"rarity": "R",
+	"type": "Event"
+}

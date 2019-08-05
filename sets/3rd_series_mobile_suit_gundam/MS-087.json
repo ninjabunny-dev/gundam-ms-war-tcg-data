@@ -1,1 +1,13 @@
-{"set_name": "3rd Series: Mobile Suit Gundam", "rarity": "U", "name": "Core Fighter", "weapon": "Missile Launcher", "ms_type": [], "effect": "Reduce the Price of all RX-78-2 Gundam cards by 1 when this card is in play.", "number": "MS-087", "corps_symbol": "EF", "clash_points": "1", "type": "Mobile Suit", "price": "0"}
+{
+	"set_name": "3rd Series: Mobile Suit Gundam",
+	"rarity": "U",
+	"name": "Core Fighter",
+	"weapon": "Missile Launcher",
+	"ms_type": [],
+	"effect": "Reduce the Price of all RX-78-2 Gundam cards by 1 when this card is in play.",
+	"number": "MS-087",
+	"corps_symbol": "EF",
+	"clash_points": "1",
+	"type": "Mobile Suit",
+	"price": "0"
+}

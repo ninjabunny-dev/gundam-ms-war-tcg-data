@@ -1,1 +1,10 @@
-{"set_name": "3rd Series: Mobile Suit Gundam", "name": "Operation V", "price": "2", "number": "EV-074", "effect": "Move a Gundam M.S. card from the Dry Dock to your hand.", "corps_symbol": "EF", "rarity": "U", "type": "Event"}
+{
+	"set_name": "3rd Series: Mobile Suit Gundam",
+	"name": "Operation V",
+	"price": "2",
+	"number": "EV-074",
+	"effect": "Move a Gundam M.S. card from the Dry Dock to your hand.",
+	"corps_symbol": "EF",
+	"rarity": "U",
+	"type": "Event"
+}

@@ -1,1 +1,13 @@
-{"set_name": "3rd Series: Mobile Suit Gundam", "name": "Sayla Mass", "price": "2", "effect": "Increase your Clash Points by 1.", "number": "PL-054", "pilot_type": ["Newtype"], "corps_symbol": "EF", "rarity": "R", "type": "Pilot"}
+{
+	"set_name": "3rd Series: Mobile Suit Gundam",
+	"name": "Sayla Mass",
+	"price": "2",
+	"effect": "Increase your Clash Points by 1.",
+	"number": "PL-054",
+	"pilot_type": [
+		"Newtype"
+	],
+	"corps_symbol": "EF",
+	"rarity": "R",
+	"type": "Pilot"
+}

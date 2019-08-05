@@ -1,1 +1,17 @@
-{"set_name": "2nd Series: Endless Waltz", "requirements": "More that 2 OZ Pilot cards.", "battle_scars": "Destroy a M.S. card of opponent's choice", "price": "2", "effect": {"phase": ["Attack Phase"], "text": "All Atacking or Defending players receive 3 Battle Damages to each Supply Base."}, "number": "BF-030", "corps_symbol": "OZ", "rarity": "U", "type": "Battlefield", "name": "In the Atmosphere"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"requirements": "More that 2 OZ Pilot cards.",
+	"battle_scars": "Destroy a M.S. card of opponent's choice",
+	"price": "2",
+	"effect": {
+		"phase": [
+			"Attack Phase"
+		],
+		"text": "All Atacking or Defending players receive 3 Battle Damages to each Supply Base."
+	},
+	"number": "BF-030",
+	"corps_symbol": "OZ",
+	"rarity": "U",
+	"type": "Battlefield",
+	"name": "In the Atmosphere"
+}

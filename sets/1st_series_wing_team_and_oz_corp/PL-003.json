@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Trowa Barton", "price": "1", "number": "PL-003", "effect": "Send a card of your choice from the opponent's hand to the Dry Dock when a M.S. card with this Pilot attached is not Defended.", "pilot_type": [], "corps_symbol": "WG", "rarity": "U", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Trowa Barton",
+	"price": "1",
+	"number": "PL-003",
+	"effect": "Send a card of your choice from the opponent's hand to the Dry Dock when a M.S. card with this Pilot attached is not Defended.",
+	"pilot_type": [],
+	"corps_symbol": "WG",
+	"rarity": "U",
+	"type": "Pilot"
+}

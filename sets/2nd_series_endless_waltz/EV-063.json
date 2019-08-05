@@ -1,1 +1,10 @@
-{"set_name": "2nd Series: Endless Waltz", "name": "Jailbreak", "price": "3", "number": "EV-063", "effect": "Return as many Pilot cards as you wish from the M.S. Dock to your hand.", "corps_symbol": "OZ", "rarity": "R", "type": "Event"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"name": "Jailbreak",
+	"price": "3",
+	"number": "EV-063",
+	"effect": "Return as many Pilot cards as you wish from the M.S. Dock to your hand.",
+	"corps_symbol": "OZ",
+	"rarity": "R",
+	"type": "Event"
+}

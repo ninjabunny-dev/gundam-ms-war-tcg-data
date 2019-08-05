@@ -1,1 +1,17 @@
-{"set_name": "2nd Series: Endless Waltz", "requirements": "More that 1 OZ M.S. card.", "battle_scars": "Opponent scores 1 War Experience Point.", "price": "2", "effect": {"phase": ["Attack Phase"], "text": "Increase all Serpent M.S. cards' Clash Points by 2. They also add Preemptive Strike."}, "number": "BF-028", "corps_symbol": "OZ", "rarity": "H", "type": "Battlefield", "name": "Satellite MO-III"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"requirements": "More that 1 OZ M.S. card.",
+	"battle_scars": "Opponent scores 1 War Experience Point.",
+	"price": "2",
+	"effect": {
+		"phase": [
+			"Attack Phase"
+		],
+		"text": "Increase all Serpent M.S. cards' Clash Points by 2. They also add Preemptive Strike."
+	},
+	"number": "BF-028",
+	"corps_symbol": "OZ",
+	"rarity": "H",
+	"type": "Battlefield",
+	"name": "Satellite MO-III"
+}

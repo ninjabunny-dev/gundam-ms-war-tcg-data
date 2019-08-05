@@ -1,1 +1,10 @@
-{"set_name": "2nd Series: Endless Waltz", "name": "Rally of Mariemaia Army", "price": "2", "number": "EV-056", "effect": "Return all OZ M.S. cards (even your own) to the M.S. Dock.", "corps_symbol": "OZ", "rarity": "R", "type": "Event"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"name": "Rally of Mariemaia Army",
+	"price": "2",
+	"number": "EV-056",
+	"effect": "Return all OZ M.S. cards (even your own) to the M.S. Dock.",
+	"corps_symbol": "OZ",
+	"rarity": "R",
+	"type": "Event"
+}

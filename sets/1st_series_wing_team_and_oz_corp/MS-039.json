@@ -1,1 +1,15 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "C", "name": "WMS-03 Maganac", "weapon": "Beam Rifle", "ms_type": ["Sand"], "effect": "Increase Clash Points by 1 when Defending with Gundam Sandrock.", "number": "MS-039", "corps_symbol": "WG", "clash_points": "2", "type": "Mobile Suit", "price": "2"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "C",
+	"name": "WMS-03 Maganac",
+	"weapon": "Beam Rifle",
+	"ms_type": [
+		"Sand"
+	],
+	"effect": "Increase Clash Points by 1 when Defending with Gundam Sandrock.",
+	"number": "MS-039",
+	"corps_symbol": "WG",
+	"clash_points": "2",
+	"type": "Mobile Suit",
+	"price": "2"
+}

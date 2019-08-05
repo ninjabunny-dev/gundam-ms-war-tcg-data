@@ -1,1 +1,15 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "C", "name": "WMS-03 Maganac", "weapon": "Claw", "ms_type": ["Sand"], "effect": "Only M.S. Type 'Sand' cards can Defend against Maganac.", "number": "MS-008", "corps_symbol": "WG", "clash_points": "2", "type": "Mobile Suit", "price": "2"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "C",
+	"name": "WMS-03 Maganac",
+	"weapon": "Claw",
+	"ms_type": [
+		"Sand"
+	],
+	"effect": "Only M.S. Type 'Sand' cards can Defend against Maganac.",
+	"number": "MS-008",
+	"corps_symbol": "WG",
+	"clash_points": "2",
+	"type": "Mobile Suit",
+	"price": "2"
+}

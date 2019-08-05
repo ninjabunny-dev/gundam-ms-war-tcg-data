@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Dorothy Catalonia", "price": "2", "number": "PL-032", "effect": "Increase your Clash Points by 1. Return this Pilot to your hand when a M.S. card with this Pilot attached is destroyed.", "pilot_type": [], "corps_symbol": "OZ", "rarity": "R", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Dorothy Catalonia",
+	"price": "2",
+	"number": "PL-032",
+	"effect": "Increase your Clash Points by 1. Return this Pilot to your hand when a M.S. card with this Pilot attached is destroyed.",
+	"pilot_type": [],
+	"corps_symbol": "OZ",
+	"rarity": "R",
+	"type": "Pilot"
+}

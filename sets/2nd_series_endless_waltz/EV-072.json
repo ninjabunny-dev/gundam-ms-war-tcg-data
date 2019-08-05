@@ -1,1 +1,10 @@
-{"set_name": "2nd Series: Endless Waltz", "name": "Reformed", "price": "1", "number": "EV-072", "effect": "Void the destruction of a Pilot card.", "corps_symbol": "WG", "rarity": "C", "type": "Event"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"name": "Reformed",
+	"price": "1",
+	"number": "EV-072",
+	"effect": "Void the destruction of a Pilot card.",
+	"corps_symbol": "WG",
+	"rarity": "C",
+	"type": "Event"
+}

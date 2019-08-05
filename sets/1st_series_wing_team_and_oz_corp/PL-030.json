@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Lady Une", "price": "2", "number": "PL-030", "effect": "Decrease all Attacking M.S. cards' Clash Points by 1 when a M.S. card with this Pilot attached Defends.", "pilot_type": [], "corps_symbol": "OZ", "rarity": "H", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Lady Une",
+	"price": "2",
+	"number": "PL-030",
+	"effect": "Decrease all Attacking M.S. cards' Clash Points by 1 when a M.S. card with this Pilot attached Defends.",
+	"pilot_type": [],
+	"corps_symbol": "OZ",
+	"rarity": "H",
+	"type": "Pilot"
+}

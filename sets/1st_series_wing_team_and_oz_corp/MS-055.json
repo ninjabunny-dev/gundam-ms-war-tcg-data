@@ -1,1 +1,13 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "U", "name": "OZ-07AMS Aries (Flying Mode)", "weapon": "Hand-held Chain Gun", "ms_type": [], "effect": "Preemptive Strike. Increase Clash Points by 1 when Lucrezia Noin is attached.", "number": "MS-055", "corps_symbol": "OZ", "clash_points": "3", "type": "Mobile Suit", "price": "3"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "U",
+	"name": "OZ-07AMS Aries (Flying Mode)",
+	"weapon": "Hand-held Chain Gun",
+	"ms_type": [],
+	"effect": "Preemptive Strike. Increase Clash Points by 1 when Lucrezia Noin is attached.",
+	"number": "MS-055",
+	"corps_symbol": "OZ",
+	"clash_points": "3",
+	"type": "Mobile Suit",
+	"price": "3"
+}

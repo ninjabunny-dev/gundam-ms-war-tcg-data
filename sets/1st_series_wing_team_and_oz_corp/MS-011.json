@@ -1,1 +1,13 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "C", "name": "Oz-06MS Leo", "weapon": "105mm Rifle", "ms_type": [], "effect": "Leo is destroyed when it is Defended or used to Defend", "number": "MS-011", "corps_symbol": "WG", "clash_points": "2", "type": "Mobile Suit", "price": "2"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "C",
+	"name": "Oz-06MS Leo",
+	"weapon": "105mm Rifle",
+	"ms_type": [],
+	"effect": "Leo is destroyed when it is Defended or used to Defend",
+	"number": "MS-011",
+	"corps_symbol": "WG",
+	"clash_points": "2",
+	"type": "Mobile Suit",
+	"price": "2"
+}

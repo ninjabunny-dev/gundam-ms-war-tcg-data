@@ -1,1 +1,15 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "C", "name": "OZ-08MM Cancer", "weapon": "Torpedo Launcher", "ms_type": ["Sea"], "effect": "Cancer can't Attack.", "number": "MS-058", "corps_symbol": "OZ", "clash_points": "3", "type": "Mobile Suit", "price": "2"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "C",
+	"name": "OZ-08MM Cancer",
+	"weapon": "Torpedo Launcher",
+	"ms_type": [
+		"Sea"
+	],
+	"effect": "Cancer can't Attack.",
+	"number": "MS-058",
+	"corps_symbol": "OZ",
+	"clash_points": "3",
+	"type": "Mobile Suit",
+	"price": "2"
+}

@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Catherine Bloom", "price": "1", "number": "PL-022", "effect": "Void any OZ Battlefield card's effect's when this Pilot is attached.", "pilot_type": [], "corps_symbol": "WG", "rarity": "U", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Catherine Bloom",
+	"price": "1",
+	"number": "PL-022",
+	"effect": "Void any OZ Battlefield card's effect's when this Pilot is attached.",
+	"pilot_type": [],
+	"corps_symbol": "WG",
+	"rarity": "U",
+	"type": "Pilot"
+}

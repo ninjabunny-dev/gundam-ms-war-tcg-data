@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Howard", "price": "1", "number": "PL-023", "effect": "Destroyed this Pilot to move a M.S. card of your choice from the Dry Dock to your hand.", "pilot_type": [], "corps_symbol": "WG", "rarity": "C", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Howard",
+	"price": "1",
+	"number": "PL-023",
+	"effect": "Destroyed this Pilot to move a M.S. card of your choice from the Dry Dock to your hand.",
+	"pilot_type": [],
+	"corps_symbol": "WG",
+	"rarity": "C",
+	"type": "Pilot"
+}

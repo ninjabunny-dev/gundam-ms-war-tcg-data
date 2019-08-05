@@ -1,1 +1,13 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "U", "name": "XXXG-01H Gundam Heavyarms", "weapon": "Homing Missile", "ms_type": [], "effect": "Decrease an opposing M.S. card's Clash Points by 2 instead of Attacking.", "number": "MS-034", "corps_symbol": "WG", "clash_points": "3", "type": "Mobile Suit", "price": "3"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "U",
+	"name": "XXXG-01H Gundam Heavyarms",
+	"weapon": "Homing Missile",
+	"ms_type": [],
+	"effect": "Decrease an opposing M.S. card's Clash Points by 2 instead of Attacking.",
+	"number": "MS-034",
+	"corps_symbol": "WG",
+	"clash_points": "3",
+	"type": "Mobile Suit",
+	"price": "3"
+}

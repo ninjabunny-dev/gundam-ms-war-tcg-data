@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "MD Control Device", "price": "4", "number": "EV-046", "effect": "All M.S. cards with no Pilots attached are considered to have an effect of the Pilot you choose for this turn.", "corps_symbol": "OZ", "rarity": "R", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "MD Control Device",
+	"price": "4",
+	"number": "EV-046",
+	"effect": "All M.S. cards with no Pilots attached are considered to have an effect of the Pilot you choose for this turn.",
+	"corps_symbol": "OZ",
+	"rarity": "R",
+	"type": "Event"
+}

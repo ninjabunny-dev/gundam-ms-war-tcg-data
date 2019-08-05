@@ -1,1 +1,17 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "requirements": "More than 2 OZ Pilot cards.", "battle_scars": "Discard your entire hand", "price": "2", "effect": {"phase": ["Strategic Phase"], "text": "Reduce the Price of Taurus, Virgo or Virgo II by 2."}, "number": "BF-020", "corps_symbol": "OZ", "rarity": "U", "type": "Battlefield", "name": "The Lunar Base"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"requirements": "More than 2 OZ Pilot cards.",
+	"battle_scars": "Discard your entire hand",
+	"price": "2",
+	"effect": {
+		"phase": [
+			"Strategic Phase"
+		],
+		"text": "Reduce the Price of Taurus, Virgo or Virgo II by 2."
+	},
+	"number": "BF-020",
+	"corps_symbol": "OZ",
+	"rarity": "U",
+	"type": "Battlefield",
+	"name": "The Lunar Base"
+}

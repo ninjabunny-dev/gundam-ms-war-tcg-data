@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Special Attack Corps", "price": "2", "number": "EV-049", "effect": "Destroy an opponent's Battlefield card if a M.S. card of your choice is not Defended.", "corps_symbol": "OZ", "rarity": "C", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Special Attack Corps",
+	"price": "2",
+	"number": "EV-049",
+	"effect": "Destroy an opponent's Battlefield card if a M.S. card of your choice is not Defended.",
+	"corps_symbol": "OZ",
+	"rarity": "C",
+	"type": "Event"
+}

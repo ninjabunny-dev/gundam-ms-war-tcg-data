@@ -1,1 +1,13 @@
-{"set_name": "2nd Series: Endless Waltz", "rarity": "C", "name": "Zero Transport Capsule", "weapon": "-------", "ms_type": [], "effect": "Preemptive Strike.", "number": "MS-075", "corps_symbol": "WG", "clash_points": "1", "type": "Mobile Suit", "price": "1"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"rarity": "C",
+	"name": "Zero Transport Capsule",
+	"weapon": "-------",
+	"ms_type": [],
+	"effect": "Preemptive Strike.",
+	"number": "MS-075",
+	"corps_symbol": "WG",
+	"clash_points": "1",
+	"type": "Mobile Suit",
+	"price": "1"
+}

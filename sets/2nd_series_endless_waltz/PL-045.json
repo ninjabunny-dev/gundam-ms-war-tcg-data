@@ -1,1 +1,11 @@
-{"set_name": "2nd Series: Endless Waltz", "name": "Lady Une", "price": "1", "number": "PL-045", "effect": "Send one card from your hand to the Dry Dock to see opponent's hand when this Pilot is in play.", "pilot_type": [], "corps_symbol": "WG", "rarity": "C", "type": "Pilot"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"name": "Lady Une",
+	"price": "1",
+	"number": "PL-045",
+	"effect": "Send one card from your hand to the Dry Dock to see opponent's hand when this Pilot is in play.",
+	"pilot_type": [],
+	"corps_symbol": "WG",
+	"rarity": "C",
+	"type": "Pilot"
+}

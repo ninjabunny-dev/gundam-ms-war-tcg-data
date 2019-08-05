@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Quatre Raberba Winner", "price": "2", "number": "PL-018", "effect": "Score a War Experiencd Point each time you destroy an opponent's Battlefield card while this Pilot is attached.", "pilot_type": [], "corps_symbol": "WG", "rarity": "H", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Quatre Raberba Winner",
+	"price": "2",
+	"number": "PL-018",
+	"effect": "Score a War Experiencd Point each time you destroy an opponent's Battlefield card while this Pilot is attached.",
+	"pilot_type": [],
+	"corps_symbol": "WG",
+	"rarity": "H",
+	"type": "Pilot"
+}

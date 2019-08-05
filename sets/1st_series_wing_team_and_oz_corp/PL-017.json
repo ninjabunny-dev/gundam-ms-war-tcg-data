@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Trowa Barton", "price": "2", "number": "PL-017", "effect": "When a M.S. card with this Pilot attached is destroyed, return both cards to your Supply Base and reshuffle.", "pilot_type": [], "corps_symbol": "WG", "rarity": "U", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Trowa Barton",
+	"price": "2",
+	"number": "PL-017",
+	"effect": "When a M.S. card with this Pilot attached is destroyed, return both cards to your Supply Base and reshuffle.",
+	"pilot_type": [],
+	"corps_symbol": "WG",
+	"rarity": "U",
+	"type": "Pilot"
+}

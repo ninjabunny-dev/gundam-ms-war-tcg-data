@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Sally Po", "price": "1", "number": "PL-007", "effect": "If the battle ends in a tie, both M.S. cards are returned to each player's hand.", "pilot_type": [], "corps_symbol": "WG", "rarity": "C", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Sally Po",
+	"price": "1",
+	"number": "PL-007",
+	"effect": "If the battle ends in a tie, both M.S. cards are returned to each player's hand.",
+	"pilot_type": [],
+	"corps_symbol": "WG",
+	"rarity": "C",
+	"type": "Pilot"
+}

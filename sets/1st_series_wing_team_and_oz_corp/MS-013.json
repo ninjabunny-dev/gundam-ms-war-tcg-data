@@ -1,1 +1,13 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "H", "name": "OZ-13MS Gundam Epyon", "weapon": "Beam Sword", "ms_type": [], "effect": "Opponent's Supply Base can't sustain Battle Damage from Gundam Epyon.", "number": "MS-013", "corps_symbol": "OZ", "clash_points": "5", "type": "Mobile Suit", "price": "6"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "H",
+	"name": "OZ-13MS Gundam Epyon",
+	"weapon": "Beam Sword",
+	"ms_type": [],
+	"effect": "Opponent's Supply Base can't sustain Battle Damage from Gundam Epyon.",
+	"number": "MS-013",
+	"corps_symbol": "OZ",
+	"clash_points": "5",
+	"type": "Mobile Suit",
+	"price": "6"
+}

@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Dorothy Catalonia", "price": "1", "number": "PL-013", "effect": "All M.S. cards on your M.S. Dock must Attack.", "pilot_type": [], "corps_symbol": "OZ", "rarity": "U", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Dorothy Catalonia",
+	"price": "1",
+	"number": "PL-013",
+	"effect": "All M.S. cards on your M.S. Dock must Attack.",
+	"pilot_type": [],
+	"corps_symbol": "OZ",
+	"rarity": "U",
+	"type": "Pilot"
+}

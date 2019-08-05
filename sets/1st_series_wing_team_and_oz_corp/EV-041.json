@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Camouflage", "price": "2", "number": "EV-041", "effect": "Void the destruction of a M.S. card.", "corps_symbol": "OZ", "rarity": "U", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Camouflage",
+	"price": "2",
+	"number": "EV-041",
+	"effect": "Void the destruction of a M.S. card.",
+	"corps_symbol": "OZ",
+	"rarity": "U",
+	"type": "Event"
+}

@@ -1,1 +1,11 @@
-{"set_name": "Promos", "name": "Nina Purpleton", "price": "", "effect": "", "number": "PL-P10", "pilot_type": [], "corps_symbol": "", "rarity": "", "type": "Pilot"}
+{
+	"set_name": "Promos",
+	"name": "Nina Purpleton",
+	"price": "",
+	"effect": "",
+	"number": "PL-P10",
+	"pilot_type": [],
+	"corps_symbol": "",
+	"rarity": "",
+	"type": "Pilot"
+}

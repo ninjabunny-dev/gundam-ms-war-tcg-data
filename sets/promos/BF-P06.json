@@ -1,1 +1,17 @@
-{"set_name": "Promos", "requirements": "Dom in play.", "battle_scars": "Discard 3 Supply Base cards.", "price": "1", "effect": {"phase": ["Attack Phase"], "text": "Increase all Dom cards' Clash Points by 2."}, "number": "BF-P06", "corps_symbol": "PZ", "rarity": "H", "type": "Battlefield", "name": "San Antonio, TX"}
+{
+	"set_name": "Promos",
+	"requirements": "Dom in play.",
+	"battle_scars": "Discard 3 Supply Base cards.",
+	"price": "1",
+	"effect": {
+		"phase": [
+			"Attack Phase"
+		],
+		"text": "Increase all Dom cards' Clash Points by 2."
+	},
+	"number": "BF-P06",
+	"corps_symbol": "PZ",
+	"rarity": "H",
+	"type": "Battlefield",
+	"name": "San Antonio, TX"
+}

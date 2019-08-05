@@ -1,1 +1,11 @@
-{"set_name": "3rd Series: Mobile Suit Gundam", "name": "The Black Trinary", "price": "2", "effect": "Increase your Clash Points by 2 when Attacking. Reduce Clash Points by 1 when Defending.", "number": "PL-066", "pilot_type": [], "corps_symbol": "PZ", "rarity": "C", "type": "Pilot"}
+{
+	"set_name": "3rd Series: Mobile Suit Gundam",
+	"name": "The Black Trinary",
+	"price": "2",
+	"effect": "Increase your Clash Points by 2 when Attacking. Reduce Clash Points by 1 when Defending.",
+	"number": "PL-066",
+	"pilot_type": [],
+	"corps_symbol": "PZ",
+	"rarity": "C",
+	"type": "Pilot"
+}

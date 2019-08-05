@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Hilde Schbeiker", "price": "1", "number": "PL-038", "effect": "Before a battle with a WG Pilot Attacking or Defending you may return this Pilot and the WG Pilot to your hand.", "pilot_type": [], "corps_symbol": "OZ", "rarity": "C", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Hilde Schbeiker",
+	"price": "1",
+	"number": "PL-038",
+	"effect": "Before a battle with a WG Pilot Attacking or Defending you may return this Pilot and the WG Pilot to your hand.",
+	"pilot_type": [],
+	"corps_symbol": "OZ",
+	"rarity": "C",
+	"type": "Pilot"
+}

@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Heero Yuy", "price": "1", "number": "PL-001", "effect": "Increase your Clash Points by 1. Destroy this Pilot to destroy an opposing Pilot card of your choice.", "pilot_type": [], "corps_symbol": "WG", "rarity": "R", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Heero Yuy",
+	"price": "1",
+	"number": "PL-001",
+	"effect": "Increase your Clash Points by 1. Destroy this Pilot to destroy an opposing Pilot card of your choice.",
+	"pilot_type": [],
+	"corps_symbol": "WG",
+	"rarity": "R",
+	"type": "Pilot"
+}

@@ -1,1 +1,17 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "requirements": "More than 1 OZ M.S. card.", "battle_scars": "Discard 3 Suppy Base cards.", "price": "2", "effect": {"phase": ["Strategic Phase"], "text": "Increase all opposing WG M.S. cards' Price by 1."}, "number": "BF-025", "corps_symbol": "OZ", "rarity": "C", "type": "Battlefield", "name": "C421 Space Colony"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"requirements": "More than 1 OZ M.S. card.",
+	"battle_scars": "Discard 3 Suppy Base cards.",
+	"price": "2",
+	"effect": {
+		"phase": [
+			"Strategic Phase"
+		],
+		"text": "Increase all opposing WG M.S. cards' Price by 1."
+	},
+	"number": "BF-025",
+	"corps_symbol": "OZ",
+	"rarity": "C",
+	"type": "Battlefield",
+	"name": "C421 Space Colony"
+}

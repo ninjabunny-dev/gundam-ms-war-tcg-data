@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Part Thieves", "price": "1", "number": "EV-020", "effect": "Swap a M.S. card in play for another M.S. with the same Price from the Dry Dock.", "corps_symbol": "WG", "rarity": "R", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Part Thieves",
+	"price": "1",
+	"number": "EV-020",
+	"effect": "Swap a M.S. card in play for another M.S. with the same Price from the Dry Dock.",
+	"corps_symbol": "WG",
+	"rarity": "R",
+	"type": "Event"
+}

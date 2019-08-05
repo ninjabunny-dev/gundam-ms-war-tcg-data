@@ -1,1 +1,10 @@
-{"set_name": "2nd Series: Endless Waltz", "name": "Single Flower", "price": "2", "number": "EV-058", "effect": "Draw 3 cards from your Supply Base and discard 2 cards of your choice from your hand.", "corps_symbol": "WG", "rarity": "C", "type": "Event"}
+{
+	"set_name": "2nd Series: Endless Waltz",
+	"name": "Single Flower",
+	"price": "2",
+	"number": "EV-058",
+	"effect": "Draw 3 cards from your Supply Base and discard 2 cards of your choice from your hand.",
+	"corps_symbol": "WG",
+	"rarity": "C",
+	"type": "Event"
+}

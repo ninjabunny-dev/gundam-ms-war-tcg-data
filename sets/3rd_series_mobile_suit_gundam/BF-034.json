@@ -1,1 +1,17 @@
-{"set_name": "3rd Series: Mobile Suit Gundam", "requirements": "More than 1 WG M.S. card", "battle_scars": "Destroy two of your M.S. cards.", "price": "3", "effect": {"phase": ["Strategic Phase"], "text": "Reduce all EF M.S. and Pilot cards' Price by 1."}, "number": "BF-034", "corps_symbol": "EF", "rarity": "C", "type": "Battlefield", "name": "Side-7"}
+{
+	"set_name": "3rd Series: Mobile Suit Gundam",
+	"requirements": "More than 1 WG M.S. card",
+	"battle_scars": "Destroy two of your M.S. cards.",
+	"price": "3",
+	"effect": {
+		"phase": [
+			"Strategic Phase"
+		],
+		"text": "Reduce all EF M.S. and Pilot cards' Price by 1."
+	},
+	"number": "BF-034",
+	"corps_symbol": "EF",
+	"rarity": "C",
+	"type": "Battlefield",
+	"name": "Side-7"
+}

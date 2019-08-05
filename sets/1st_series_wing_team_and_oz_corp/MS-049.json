@@ -1,1 +1,13 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "H", "name": "OZ-00MS Tallgeese", "weapon": "Beam Saber", "ms_type": [], "effect": "Increase Clash Points by 1 when Zechs Merquise is attached.", "number": "MS-049", "corps_symbol": "OZ", "clash_points": "3", "type": "Mobile Suit", "price": "3"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "H",
+	"name": "OZ-00MS Tallgeese",
+	"weapon": "Beam Saber",
+	"ms_type": [],
+	"effect": "Increase Clash Points by 1 when Zechs Merquise is attached.",
+	"number": "MS-049",
+	"corps_symbol": "OZ",
+	"clash_points": "3",
+	"type": "Mobile Suit",
+	"price": "3"
+}

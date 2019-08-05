@@ -1,1 +1,17 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "requirements": "More than 1 WG Pilot card.", "battle_scars": "Destroy all your Pilot cards.", "price": "2", "effect": {"phase": ["Attack Phase"], "text": "An opponent's M.S. card of your choice receives 3 points of Battle Damages."}, "number": "BF-003", "corps_symbol": "WG", "rarity": "R", "type": "Battlefield", "name": "Sanc Kingdom"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"requirements": "More than 1 WG Pilot card.",
+	"battle_scars": "Destroy all your Pilot cards.",
+	"price": "2",
+	"effect": {
+		"phase": [
+			"Attack Phase"
+		],
+		"text": "An opponent's M.S. card of your choice receives 3 points of Battle Damages."
+	},
+	"number": "BF-003",
+	"corps_symbol": "WG",
+	"rarity": "R",
+	"type": "Battlefield",
+	"name": "Sanc Kingdom"
+}

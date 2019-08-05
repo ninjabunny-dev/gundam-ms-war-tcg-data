@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Professor G", "price": "2", "number": "PL-026", "effect": "Place this Pilot on your M.S. Dock. Send 3 cards from your Supply Base to the Dry Dock to move a WG M.S. card of your cjoice to the bottom of your Supply Base. This card remains in effect until destroyed.", "pilot_type": [], "corps_symbol": "WG", "rarity": "R", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Professor G",
+	"price": "2",
+	"number": "PL-026",
+	"effect": "Place this Pilot on your M.S. Dock. Send 3 cards from your Supply Base to the Dry Dock to move a WG M.S. card of your cjoice to the bottom of your Supply Base. This card remains in effect until destroyed.",
+	"pilot_type": [],
+	"corps_symbol": "WG",
+	"rarity": "R",
+	"type": "Pilot"
+}

@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Single Combat", "price": "2", "number": "EV-047", "effect": "Only one of each player's M.S. cards (and any attached Pilot) may battle this turn. Each player chooses the opposing card that will participate in this battle.", "corps_symbol": "OZ", "rarity": "R", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Single Combat",
+	"price": "2",
+	"number": "EV-047",
+	"effect": "Only one of each player's M.S. cards (and any attached Pilot) may battle this turn. Each player chooses the opposing card that will participate in this battle.",
+	"corps_symbol": "OZ",
+	"rarity": "R",
+	"type": "Event"
+}

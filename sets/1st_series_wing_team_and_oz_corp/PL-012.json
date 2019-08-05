@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Lucrezia Noin", "price": "1", "number": "PL-012", "effect": "Void any Pilot's effects when Attacking or Defending.", "pilot_type": [], "corps_symbol": "OZ", "rarity": "U", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Lucrezia Noin",
+	"price": "1",
+	"number": "PL-012",
+	"effect": "Void any Pilot's effects when Attacking or Defending.",
+	"pilot_type": [],
+	"corps_symbol": "OZ",
+	"rarity": "U",
+	"type": "Pilot"
+}

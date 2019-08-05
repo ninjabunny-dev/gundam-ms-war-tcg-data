@@ -1,1 +1,11 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Relena Darlian", "price": "1", "number": "PL-006", "effect": "Place this Pilot on your M.S. Dock. Send 3 cards from your Supply Base to the Dry Dock to skip both players next Attack Phase. This card remains in effect until destroyed.", "pilot_type": [], "corps_symbol": "WG", "rarity": "R", "type": "Pilot"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Relena Darlian",
+	"price": "1",
+	"number": "PL-006",
+	"effect": "Place this Pilot on your M.S. Dock. Send 3 cards from your Supply Base to the Dry Dock to skip both players next Attack Phase. This card remains in effect until destroyed.",
+	"pilot_type": [],
+	"corps_symbol": "WG",
+	"rarity": "R",
+	"type": "Pilot"
+}

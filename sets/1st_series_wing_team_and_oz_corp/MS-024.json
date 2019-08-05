@@ -1,1 +1,13 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "C", "name": "OZ-02MD Virgo", "weapon": "Beam Cannon", "ms_type": [], "effect": "No Pilot can be attached to Virgo.", "number": "MS-024", "corps_symbol": "OZ", "clash_points": "4", "type": "Mobile Suit", "price": "3"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "C",
+	"name": "OZ-02MD Virgo",
+	"weapon": "Beam Cannon",
+	"ms_type": [],
+	"effect": "No Pilot can be attached to Virgo.",
+	"number": "MS-024",
+	"corps_symbol": "OZ",
+	"clash_points": "4",
+	"type": "Mobile Suit",
+	"price": "3"
+}

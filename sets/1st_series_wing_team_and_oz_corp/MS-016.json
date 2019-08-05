@@ -1,1 +1,13 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "rarity": "C", "name": "OZ-06MS Leo", "weapon": "Beam Saber", "ms_type": [], "effect": "Reduce Clash Points by 1 when Defending.", "number": "MS-016", "corps_symbol": "OZ", "clash_points": "3", "type": "Mobile Suit", "price": "2"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"rarity": "C",
+	"name": "OZ-06MS Leo",
+	"weapon": "Beam Saber",
+	"ms_type": [],
+	"effect": "Reduce Clash Points by 1 when Defending.",
+	"number": "MS-016",
+	"corps_symbol": "OZ",
+	"clash_points": "3",
+	"type": "Mobile Suit",
+	"price": "2"
+}

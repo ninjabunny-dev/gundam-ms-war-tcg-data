@@ -1,1 +1,10 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "name": "Rebel Factor", "price": "2", "number": "EV-003", "effect": "Return a WG M.S. card of your choice from the Dry Dock to the bottom of your Supply Base.", "corps_symbol": "WG", "rarity": "C", "type": "Event"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"name": "Rebel Factor",
+	"price": "2",
+	"number": "EV-003",
+	"effect": "Return a WG M.S. card of your choice from the Dry Dock to the bottom of your Supply Base.",
+	"corps_symbol": "WG",
+	"rarity": "C",
+	"type": "Event"
+}

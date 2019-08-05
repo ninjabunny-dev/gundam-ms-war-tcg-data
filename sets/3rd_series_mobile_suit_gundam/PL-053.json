@@ -1,1 +1,13 @@
-{"set_name": "3rd Series: Mobile Suit Gundam", "name": "Amuro Ray", "price": "3", "effect": "Only a M.S. card with 'Newtype' Pilot attached can Defend when a M.S. card with this Pilot Attacks", "number": "PL-053", "pilot_type": ["Newtype"], "corps_symbol": "EF", "rarity": "H", "type": "Pilot"}
+{
+	"set_name": "3rd Series: Mobile Suit Gundam",
+	"name": "Amuro Ray",
+	"price": "3",
+	"effect": "Only a M.S. card with 'Newtype' Pilot attached can Defend when a M.S. card with this Pilot Attacks",
+	"number": "PL-053",
+	"pilot_type": [
+		"Newtype"
+	],
+	"corps_symbol": "EF",
+	"rarity": "H",
+	"type": "Pilot"
+}

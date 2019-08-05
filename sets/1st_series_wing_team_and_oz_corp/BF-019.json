@@ -1,1 +1,17 @@
-{"set_name": "1st Series: Wing Team & Oz Corp", "requirements": "More than 2 OZ Pilot cards.", "battle_scars": "Send your entire hand to the Defunct Pile.", "price": "2", "effect": {"phase": ["Attack Phase"], "text": "Reduce an OZ card's Price by 2 if the Price is more than 4."}, "number": "BF-019", "corps_symbol": "OZ", "rarity": "H", "type": "Battlefield", "name": "Romereller Foundation's HQ"}
+{
+	"set_name": "1st Series: Wing Team & Oz Corp",
+	"requirements": "More than 2 OZ Pilot cards.",
+	"battle_scars": "Send your entire hand to the Defunct Pile.",
+	"price": "2",
+	"effect": {
+		"phase": [
+			"Attack Phase"
+		],
+		"text": "Reduce an OZ card's Price by 2 if the Price is more than 4."
+	},
+	"number": "BF-019",
+	"corps_symbol": "OZ",
+	"rarity": "H",
+	"type": "Battlefield",
+	"name": "Romereller Foundation's HQ"
+}
