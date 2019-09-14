@@ -1,15 +1,14 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "C",
-	"name": "OZ-07MS Tragos (M.S. Mode)",
-	"weapon": "Beam Rifle",
-	"ms_type": [
-		"Sand"
-	],
-	"effect": "",
-	"number": "MS-060",
-	"corps_symbol": "OZ",
-	"clash_points": "3",
-	"type": "Mobile Suit",
-	"price": "3"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "C",
+    "name": "OZ-07MS Tragos (M.S. Mode)",
+    "weapon": "Beam Rifle",
+    "ms_type": [
+        "Sand"
+    ],
+    "number": "MS-060",
+    "corps_symbol": "OZ",
+    "clash_points": "3",
+    "type": "Mobile Suit",
+    "price": "3"
 }

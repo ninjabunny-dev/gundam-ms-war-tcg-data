@@ -1,16 +1,16 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"rarity": "C",
-	"name": "MAM-07 Grabro",
-	"weapon": "Flexible Arm",
-	"ms_type": [
-		"Mobile Armor",
-		"Sea"
-	],
-	"effect": "Only M.S. Type 'Sea' cards can Defend against Grabro.",
-	"number": "MS-102",
-	"corps_symbol": "PZ",
-	"clash_points": "4",
-	"type": "Mobile Suit",
-	"price": "5"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "rarity": "C",
+    "name": "MAM-07 Grabro",
+    "weapon": "Flexible Arm",
+    "ms_type": [
+        "Mobile Armor",
+        "Sea"
+    ],
+    "effect": "Only M.S. Type 'Sea' cards can Defend against Grabro.",
+    "number": "MS-102",
+    "corps_symbol": "PZ",
+    "clash_points": "4",
+    "type": "Mobile Suit",
+    "price": "5"
 }

@@ -1,17 +1,17 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"requirements": "More than 1 WG M.S. card.",
-	"battle_scars": "Destroy one your Pilot cards.",
-	"price": "0",
-	"effect": {
-		"phase": [
-			"Attack Phase"
-		],
-		"text": "Increase a WG M.S. card's Clash Points by 1."
-	},
-	"number": "BF-011",
-	"corps_symbol": "WG",
-	"rarity": "U",
-	"type": "Battlefield",
-	"name": "Disputed Area"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "requirements": "More than 1 WG M.S. card.",
+    "battle_scars": "Destroy one your Pilot cards.",
+    "price": "0",
+    "effect": {
+        "phase": [
+            "Attack Phase"
+        ],
+        "text": "Increase a WG M.S. card's Clash Points by 1."
+    },
+    "number": "BF-011",
+    "corps_symbol": "WG",
+    "rarity": "U",
+    "type": "Battlefield",
+    "name": "Disputed Area"
 }

@@ -1,17 +1,17 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"requirements": "More than 2 OZ M.S. cards.",
-	"battle_scars": "Destroy one of your OZ M.S. Cards.",
-	"price": "2",
-	"effect": {
-		"phase": [
-			"Strategic Phase"
-		],
-		"text": "An opponent of your choice can't attach any Pilot cards."
-	},
-	"number": "BF-023",
-	"corps_symbol": "OZ",
-	"rarity": "C",
-	"type": "Battlefield",
-	"name": "Old Space Colony"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "requirements": "More than 2 OZ M.S. cards.",
+    "battle_scars": "Destroy one of your OZ M.S. Cards.",
+    "price": "2",
+    "effect": {
+        "phase": [
+            "Strategic Phase"
+        ],
+        "text": "An opponent of your choice can't attach any Pilot cards."
+    },
+    "number": "BF-023",
+    "corps_symbol": "OZ",
+    "rarity": "C",
+    "type": "Battlefield",
+    "name": "Old Space Colony"
 }

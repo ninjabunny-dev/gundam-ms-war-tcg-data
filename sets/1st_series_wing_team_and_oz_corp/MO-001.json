@@ -1,9 +1,9 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rebel_forces_name": "White Fang",
-	"rebel_forces_effect": "Rebel Forces become Active when you meet one of the two Mission Objectives.",
-	"number": "MO-001",
-	"objective": "Score 3 War Experience Points and destroy 2 Battlefield cards.",
-	"team_name": "Wing Gundam Team",
-	"type": "Mission Objective"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rebel_forces_name": "White Fang",
+    "rebel_forces_effect": "Rebel Forces become Active when you meet one of the two Mission Objectives.",
+    "number": "MO-001",
+    "objective": "Score 3 War Experience Points and destroy 2 Battlefield cards.",
+    "team_name": "Wing Gundam Team",
+    "type": "Mission Objective"
 }

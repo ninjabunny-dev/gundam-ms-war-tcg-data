@@ -1,15 +1,15 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"rarity": "H",
-	"name": "RX-78-2 Gundam",
-	"weapon": "Beam Rifle",
-	"ms_type": [
-		"Sea"
-	],
-	"effect": "Increase Clash Points by 2 when Amuro Ray or Sayla Mass is attached.",
-	"number": "MS-083",
-	"corps_symbol": "EF",
-	"clash_points": "4",
-	"type": "Mobile Suit",
-	"price": "4"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "rarity": "H",
+    "name": "RX-78-2 Gundam",
+    "weapon": "Beam Rifle",
+    "ms_type": [
+        "Sea"
+    ],
+    "effect": "Increase Clash Points by 2 when Amuro Ray or Sayla Mass is attached.",
+    "number": "MS-083",
+    "corps_symbol": "EF",
+    "clash_points": "4",
+    "type": "Mobile Suit",
+    "price": "4"
 }

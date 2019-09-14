@@ -1,11 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Lady Une",
-	"price": "1",
-	"number": "PL-011",
-	"effect": "Void any one WG Pilot's effect.",
-	"pilot_type": [],
-	"corps_symbol": "OZ",
-	"rarity": "U",
-	"type": "Pilot"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Lady Une",
+    "price": "1",
+    "number": "PL-011",
+    "effect": "Void any one WG Pilot's effect.",
+    "corps_symbol": "OZ",
+    "rarity": "U",
+    "type": "Pilot"
 }

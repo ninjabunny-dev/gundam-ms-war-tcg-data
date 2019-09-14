@@ -1,10 +1,10 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"name": "Ma Kube's Tactics's",
-	"price": "3",
-	"number": "EV-086",
-	"effect": "Send an opponent's Battlefield card or 3 of opponent's choice from their hand to the Dry Dock.",
-	"corps_symbol": "PZ",
-	"rarity": "U",
-	"type": "Event"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "name": "Ma Kube's Tactics's",
+    "price": "3",
+    "number": "EV-086",
+    "effect": "Send an opponent's Battlefield card or 3 of opponent's choice from their hand to the Dry Dock.",
+    "corps_symbol": "PZ",
+    "rarity": "U",
+    "type": "Event"
 }

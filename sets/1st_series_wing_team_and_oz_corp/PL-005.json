@@ -1,11 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Chang Wufei",
-	"price": "1",
-	"number": "PL-005",
-	"effect": "Increase your Clash Points by 1 each time you discard from your Supply Base (maximum 2 cards).",
-	"pilot_type": [],
-	"corps_symbol": "WG",
-	"rarity": "U",
-	"type": "Pilot"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Chang Wufei",
+    "price": "1",
+    "number": "PL-005",
+    "effect": "Increase your Clash Points by 1 each time you discard from your Supply Base (maximum 2 cards).",
+    "corps_symbol": "WG",
+    "rarity": "U",
+    "type": "Pilot"
 }

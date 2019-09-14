@@ -1,11 +1,10 @@
 {
-	"set_name": "Promos",
-	"name": "Sayla Mass",
-	"price": "2",
-	"effect": "Void Char Aznable Pilot Card's Effect.",
-	"number": "PL-P02",
-	"pilot_type": [],
-	"corps_symbol": "2",
-	"rarity": "H",
-	"type": "Pilot"
+    "set_name": "Promos",
+    "name": "Sayla Mass",
+    "price": "2",
+    "effect": "Void Char Aznable Pilot Card's Effect.",
+    "number": "PL-P02",
+    "corps_symbol": "2",
+    "rarity": "H",
+    "type": "Pilot"
 }

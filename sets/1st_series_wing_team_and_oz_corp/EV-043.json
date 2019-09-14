@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Rose Essence",
-	"price": "1",
-	"number": "EV-043",
-	"effect": "Draw 2 cards from your Supply Base.",
-	"corps_symbol": "OZ",
-	"rarity": "R",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Rose Essence",
+    "price": "1",
+    "number": "EV-043",
+    "effect": "Draw 2 cards from your Supply Base.",
+    "corps_symbol": "OZ",
+    "rarity": "R",
+    "type": "Event"
 }

@@ -1,17 +1,17 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"requirements": "More than 1 M.S. Type 'Sea' card.",
-	"battle_scars": "Destroy one of your M.S. Type 'Sea' cards.",
-	"price": "2",
-	"effect": {
-		"phase": [
-			"Attack Phase"
-		],
-		"text": "Increase all M.S. Type 'Sea' crads' Clash Points by 1."
-	},
-	"number": "BF-022",
-	"corps_symbol": "OZ",
-	"rarity": "R",
-	"type": "Battlefield",
-	"name": "Under the North Russian Sea"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "requirements": "More than 1 M.S. Type 'Sea' card.",
+    "battle_scars": "Destroy one of your M.S. Type 'Sea' cards.",
+    "price": "2",
+    "effect": {
+        "phase": [
+            "Attack Phase"
+        ],
+        "text": "Increase all M.S. Type 'Sea' crads' Clash Points by 1."
+    },
+    "number": "BF-022",
+    "corps_symbol": "OZ",
+    "rarity": "R",
+    "type": "Battlefield",
+    "name": "Under the North Russian Sea"
 }

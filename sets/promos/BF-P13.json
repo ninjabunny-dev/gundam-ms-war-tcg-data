@@ -1,17 +1,17 @@
 {
-	"set_name": "Promos",
-	"requirements": "Shenlong Gundam in play.",
-	"battle_scars": "Discard 3 Supply Base cards.",
-	"price": "1",
-	"effect": {
-		"phase": [
-			"Attack Phase"
-		],
-		"text": "Increase all Shenlong Gundam cards' Clash Points by 2."
-	},
-	"number": "BF-P13",
-	"corps_symbol": "WG",
-	"rarity": "H",
-	"type": "Battlefield",
-	"name": "Las Vegas, NV"
+    "set_name": "Promos",
+    "requirements": "Shenlong Gundam in play.",
+    "battle_scars": "Discard 3 Supply Base cards.",
+    "price": "1",
+    "effect": {
+        "phase": [
+            "Attack Phase"
+        ],
+        "text": "Increase all Shenlong Gundam cards' Clash Points by 2."
+    },
+    "number": "BF-P13",
+    "corps_symbol": "WG",
+    "rarity": "H",
+    "type": "Battlefield",
+    "name": "Las Vegas, NV"
 }

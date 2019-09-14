@@ -1,11 +1,10 @@
 {
-	"set_name": "2nd Series: Endless Waltz",
-	"name": "Duo Maxwell",
-	"price": "3",
-	"number": "PL-040",
-	"effect": "Only M.S. cards with M.S. Type can Defend against a M.S. card with this Pilot attached.",
-	"pilot_type": [],
-	"corps_symbol": "WG",
-	"rarity": "U",
-	"type": "Pilot"
+    "set_name": "2nd Series: Endless Waltz",
+    "name": "Duo Maxwell",
+    "price": "3",
+    "number": "PL-040",
+    "effect": "Only M.S. cards with M.S. Type can Defend against a M.S. card with this Pilot attached.",
+    "corps_symbol": "WG",
+    "rarity": "U",
+    "type": "Pilot"
 }

@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Shocking Reply",
-	"price": "2",
-	"number": "EV-002",
-	"effect": "Destroy one opposing Pilot card of your choice.",
-	"corps_symbol": "WG",
-	"rarity": "U",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Shocking Reply",
+    "price": "2",
+    "number": "EV-002",
+    "effect": "Destroy one opposing Pilot card of your choice.",
+    "corps_symbol": "WG",
+    "rarity": "U",
+    "type": "Event"
 }

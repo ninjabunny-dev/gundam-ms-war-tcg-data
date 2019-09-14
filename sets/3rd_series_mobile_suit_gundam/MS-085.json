@@ -1,13 +1,12 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"rarity": "U",
-	"name": "RX-75 Guntank",
-	"weapon": "120mm Recoiless Cannon",
-	"ms_type": [],
-	"effect": "Increase Clash Points by 1 when Attacking with Gundam or Guncannon.",
-	"number": "MS-085",
-	"corps_symbol": "EF",
-	"clash_points": "4",
-	"type": "Mobile Suit",
-	"price": "4"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "rarity": "U",
+    "name": "RX-75 Guntank",
+    "weapon": "120mm Recoiless Cannon",
+    "effect": "Increase Clash Points by 1 when Attacking with Gundam or Guncannon.",
+    "number": "MS-085",
+    "corps_symbol": "EF",
+    "clash_points": "4",
+    "type": "Mobile Suit",
+    "price": "4"
 }

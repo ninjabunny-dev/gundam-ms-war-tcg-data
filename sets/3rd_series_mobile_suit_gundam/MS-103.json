@@ -1,16 +1,16 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"rarity": "U",
-	"name": "MAX-03 Azzam",
-	"weapon": "Double Mega Particle Cannon",
-	"ms_type": [
-		"Mobile Armor",
-		"Sand"
-	],
-	"effect": "Move 1 card from an opponent's Supply Bas to the Dry Dock instead of Attacking.",
-	"number": "MS-103",
-	"corps_symbol": "PZ",
-	"clash_points": "4",
-	"type": "Mobile Suit",
-	"price": "4"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "rarity": "U",
+    "name": "MAX-03 Azzam",
+    "weapon": "Double Mega Particle Cannon",
+    "ms_type": [
+        "Mobile Armor",
+        "Sand"
+    ],
+    "effect": "Move 1 card from an opponent's Supply Bas to the Dry Dock instead of Attacking.",
+    "number": "MS-103",
+    "corps_symbol": "PZ",
+    "clash_points": "4",
+    "type": "Mobile Suit",
+    "price": "4"
 }

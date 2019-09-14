@@ -1,11 +1,10 @@
 {
-	"set_name": "2nd Series: Endless Waltz",
-	"name": "Mariemaia Khushrenada",
-	"price": "2",
-	"number": "PL-046",
-	"effect": "Place this Pilot on your M.S. Dock to increase all OZ M.S. cards' Clash Points by 1. This card remains in effect until destroyed.",
-	"pilot_type": [],
-	"corps_symbol": "OZ",
-	"rarity": "G",
-	"type": "Pilot"
+    "set_name": "2nd Series: Endless Waltz",
+    "name": "Mariemaia Khushrenada",
+    "price": "2",
+    "number": "PL-046",
+    "effect": "Place this Pilot on your M.S. Dock to increase all OZ M.S. cards' Clash Points by 1. This card remains in effect until destroyed.",
+    "corps_symbol": "OZ",
+    "rarity": "G",
+    "type": "Pilot"
 }

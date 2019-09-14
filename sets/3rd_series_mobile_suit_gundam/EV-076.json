@@ -1,10 +1,10 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"name": "Minovsky Particles",
-	"price": "2",
-	"number": "EV-076",
-	"effect": "Void the effect of Event cards requiring you to send cards from your hand to the Dry Dock.",
-	"corps_symbol": "EF",
-	"rarity": "U",
-	"type": "Event"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "name": "Minovsky Particles",
+    "price": "2",
+    "number": "EV-076",
+    "effect": "Void the effect of Event cards requiring you to send cards from your hand to the Dry Dock.",
+    "corps_symbol": "EF",
+    "rarity": "U",
+    "type": "Event"
 }

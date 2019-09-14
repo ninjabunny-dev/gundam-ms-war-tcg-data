@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Loner",
-	"price": "2",
-	"number": "EV-042",
-	"effect": "Increase the Clash Points of a M.S. card with no Pilot attached by 2.",
-	"corps_symbol": "OZ",
-	"rarity": "U",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Loner",
+    "price": "2",
+    "number": "EV-042",
+    "effect": "Increase the Clash Points of a M.S. card with no Pilot attached by 2.",
+    "corps_symbol": "OZ",
+    "rarity": "U",
+    "type": "Event"
 }

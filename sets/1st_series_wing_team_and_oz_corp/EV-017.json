@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "The Peacecrafts",
-	"price": "2",
-	"number": "EV-017",
-	"effect": "Void an Event card's effect.",
-	"corps_symbol": "WG",
-	"rarity": "R",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "The Peacecrafts",
+    "price": "2",
+    "number": "EV-017",
+    "effect": "Void an Event card's effect.",
+    "corps_symbol": "WG",
+    "rarity": "R",
+    "type": "Event"
 }

@@ -1,17 +1,17 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"requirements": "More than 1 OZ Pilot card.",
-	"battle_scars": "Destroy one of your OZ M.S. Cards.",
-	"price": "2",
-	"effect": {
-		"phase": [
-			"Attack Phase"
-		],
-		"text": "An opponent's M.S. card with no Pilot attached can't Attack."
-	},
-	"number": "BF-018",
-	"corps_symbol": "OZ",
-	"rarity": "R",
-	"type": "Battlefield",
-	"name": "The Treize Fleet"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "requirements": "More than 1 OZ Pilot card.",
+    "battle_scars": "Destroy one of your OZ M.S. Cards.",
+    "price": "2",
+    "effect": {
+        "phase": [
+            "Attack Phase"
+        ],
+        "text": "An opponent's M.S. card with no Pilot attached can't Attack."
+    },
+    "number": "BF-018",
+    "corps_symbol": "OZ",
+    "rarity": "R",
+    "type": "Battlefield",
+    "name": "The Treize Fleet"
 }

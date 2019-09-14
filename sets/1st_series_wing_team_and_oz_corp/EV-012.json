@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Mobile Doll",
-	"price": "2",
-	"number": "EV-012",
-	"effect": "All M.S. cards are considered to have Pilots for this turn.",
-	"corps_symbol": "OZ",
-	"rarity": "C",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Mobile Doll",
+    "price": "2",
+    "number": "EV-012",
+    "effect": "All M.S. cards are considered to have Pilots for this turn.",
+    "corps_symbol": "OZ",
+    "rarity": "C",
+    "type": "Event"
 }

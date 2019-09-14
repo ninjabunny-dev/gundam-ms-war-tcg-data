@@ -1,17 +1,17 @@
 {
-	"set_name": "Promos",
-	"requirements": "Tallgeese III in play.",
-	"battle_scars": "Discard 3 Supply Base cards.",
-	"price": "1",
-	"effect": {
-		"phase": [
-			"Attack Phase"
-		],
-		"text": "Increase Tallgeese III cards' Clash Points by 2."
-	},
-	"number": "BF-P25",
-	"corps_symbol": "WG",
-	"rarity": "H",
-	"type": "Battlefield",
-	"name": "Sacramento, CA"
+    "set_name": "Promos",
+    "requirements": "Tallgeese III in play.",
+    "battle_scars": "Discard 3 Supply Base cards.",
+    "price": "1",
+    "effect": {
+        "phase": [
+            "Attack Phase"
+        ],
+        "text": "Increase Tallgeese III cards' Clash Points by 2."
+    },
+    "number": "BF-P25",
+    "corps_symbol": "WG",
+    "rarity": "H",
+    "type": "Battlefield",
+    "name": "Sacramento, CA"
 }

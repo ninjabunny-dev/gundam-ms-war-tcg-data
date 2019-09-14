@@ -1,9 +1,9 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rebel_forces_name": "White Fang",
-	"rebel_forces_effect": "Rebel Forces become Active when you've scored 3 War Experience Points",
-	"number": "MO-002",
-	"objective": "Score 5 War Experience Points",
-	"team_name": "Wing Gundam Team",
-	"type": "Mission Objective"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rebel_forces_name": "White Fang",
+    "rebel_forces_effect": "Rebel Forces become Active when you've scored 3 War Experience Points",
+    "number": "MO-002",
+    "objective": "Score 5 War Experience Points",
+    "team_name": "Wing Gundam Team",
+    "type": "Mission Objective"
 }

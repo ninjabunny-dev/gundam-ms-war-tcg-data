@@ -1,13 +1,12 @@
 {
-	"set_name": "2nd Series: Endless Waltz",
-	"rarity": "H",
-	"name": "MMS-01 Serpent",
-	"weapon": "Double Gatling Guns",
-	"ms_type": [],
-	"effect": "Increase Clash Points by 2 when Attacking.",
-	"number": "MS-080",
-	"corps_symbol": "OZ",
-	"clash_points": "4",
-	"type": "Mobile Suit",
-	"price": "5"
+    "set_name": "2nd Series: Endless Waltz",
+    "rarity": "H",
+    "name": "MMS-01 Serpent",
+    "weapon": "Double Gatling Guns",
+    "effect": "Increase Clash Points by 2 when Attacking.",
+    "number": "MS-080",
+    "corps_symbol": "OZ",
+    "clash_points": "4",
+    "type": "Mobile Suit",
+    "price": "5"
 }

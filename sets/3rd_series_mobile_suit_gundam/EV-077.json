@@ -1,10 +1,10 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"name": "Supply Corps",
-	"price": "1",
-	"number": "EV-077",
-	"effect": "Send a card from your hand to the Dry Dock to draw a card from your Supply Base.",
-	"corps_symbol": "EF",
-	"rarity": "C",
-	"type": "Event"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "name": "Supply Corps",
+    "price": "1",
+    "number": "EV-077",
+    "effect": "Send a card from your hand to the Dry Dock to draw a card from your Supply Base.",
+    "corps_symbol": "EF",
+    "rarity": "C",
+    "type": "Event"
 }

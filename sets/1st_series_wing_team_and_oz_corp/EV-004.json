@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Support of Maganac Corps",
-	"price": "2",
-	"number": "EV-004",
-	"effect": "Increase your Clash Points by 2.",
-	"corps_symbol": "WG",
-	"rarity": "C",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Support of Maganac Corps",
+    "price": "2",
+    "number": "EV-004",
+    "effect": "Increase your Clash Points by 2.",
+    "corps_symbol": "WG",
+    "rarity": "C",
+    "type": "Event"
 }

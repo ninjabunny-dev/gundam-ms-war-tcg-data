@@ -1,10 +1,10 @@
 {
-	"set_name": "2nd Series: Endless Waltz",
-	"name": "Escape From Satellite MO-III",
-	"price": "1",
-	"number": "EV-062",
-	"effect": "Destroy your Battlefield card return 3 Pilot cards of your choice from the Dry Dock to your hand.",
-	"corps_symbol": "OZ",
-	"rarity": "U",
-	"type": "Event"
+    "set_name": "2nd Series: Endless Waltz",
+    "name": "Escape From Satellite MO-III",
+    "price": "1",
+    "number": "EV-062",
+    "effect": "Destroy your Battlefield card return 3 Pilot cards of your choice from the Dry Dock to your hand.",
+    "corps_symbol": "OZ",
+    "rarity": "U",
+    "type": "Event"
 }

@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Memory Loss",
-	"price": "1",
-	"number": "EV-025",
-	"effect": "Send any 2 cards of your opponent's choice from your opponent's hand to the Dry Dock.",
-	"corps_symbol": "WG",
-	"rarity": "U",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Memory Loss",
+    "price": "1",
+    "number": "EV-025",
+    "effect": "Send any 2 cards of your opponent's choice from your opponent's hand to the Dry Dock.",
+    "corps_symbol": "WG",
+    "rarity": "U",
+    "type": "Event"
 }

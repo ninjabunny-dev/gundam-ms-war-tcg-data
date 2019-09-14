@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "H",
-	"name": "XXXG-01D2 Gundam Deathscythe H.",
-	"weapon": "Twin Beam Scythe",
-	"ms_type": [],
-	"effect": "Gundam Deathscythe H. may be placed on the M.S. Dock before your Attack phase.",
-	"number": "MS-027",
-	"corps_symbol": "WG",
-	"clash_points": "4",
-	"type": "Mobile Suit",
-	"price": "4"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "H",
+    "name": "XXXG-01D2 Gundam Deathscythe H.",
+    "weapon": "Twin Beam Scythe",
+    "effect": "Gundam Deathscythe H. may be placed on the M.S. Dock before your Attack phase.",
+    "number": "MS-027",
+    "corps_symbol": "WG",
+    "clash_points": "4",
+    "type": "Mobile Suit",
+    "price": "4"
 }

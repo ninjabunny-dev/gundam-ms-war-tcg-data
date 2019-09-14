@@ -1,11 +1,10 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"name": "Kai Shiden",
-	"price": "2",
-	"effect": "Increase your Clash Points by 2. A M.S. card with this Pilot attached must pay 1 Price to Attack.",
-	"number": "PL-055",
-	"pilot_type": [],
-	"corps_symbol": "EF",
-	"rarity": "U",
-	"type": "Pilot"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "name": "Kai Shiden",
+    "price": "2",
+    "effect": "Increase your Clash Points by 2. A M.S. card with this Pilot attached must pay 1 Price to Attack.",
+    "number": "PL-055",
+    "corps_symbol": "EF",
+    "rarity": "U",
+    "type": "Pilot"
 }

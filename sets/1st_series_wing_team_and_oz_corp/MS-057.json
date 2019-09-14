@@ -1,15 +1,15 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "U",
-	"name": "OZ-09MMS Pisces (Cruising Mode)",
-	"weapon": "Torpedo Launcher",
-	"ms_type": [
-		"Sea"
-	],
-	"effect": "Only M.S. Type 'Sea' cards can Defend against Pisces.",
-	"number": "MS-057",
-	"corps_symbol": "OZ",
-	"clash_points": "3",
-	"type": "Mobile Suit",
-	"price": "2"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "U",
+    "name": "OZ-09MMS Pisces (Cruising Mode)",
+    "weapon": "Torpedo Launcher",
+    "ms_type": [
+        "Sea"
+    ],
+    "effect": "Only M.S. Type 'Sea' cards can Defend against Pisces.",
+    "number": "MS-057",
+    "corps_symbol": "OZ",
+    "clash_points": "3",
+    "type": "Mobile Suit",
+    "price": "2"
 }

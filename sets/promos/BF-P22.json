@@ -1,17 +1,17 @@
 {
-	"set_name": "Promos",
-	"requirements": "Gundam Sandrock in play.",
-	"battle_scars": "Discard 3 Supply Base cards.",
-	"price": "1",
-	"effect": {
-		"phase": [
-			"Attack Phase"
-		],
-		"text": "Increase all Gundam Sandrock cards' Clash Points by 2."
-	},
-	"number": "BF-P22",
-	"corps_symbol": "WG",
-	"rarity": "H",
-	"type": "Battlefield",
-	"name": "Denver, CO"
+    "set_name": "Promos",
+    "requirements": "Gundam Sandrock in play.",
+    "battle_scars": "Discard 3 Supply Base cards.",
+    "price": "1",
+    "effect": {
+        "phase": [
+            "Attack Phase"
+        ],
+        "text": "Increase all Gundam Sandrock cards' Clash Points by 2."
+    },
+    "number": "BF-P22",
+    "corps_symbol": "WG",
+    "rarity": "H",
+    "type": "Battlefield",
+    "name": "Denver, CO"
 }

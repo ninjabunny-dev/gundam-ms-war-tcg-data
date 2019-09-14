@@ -1,11 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Muller",
-	"price": "1",
-	"number": "PL-037",
-	"effect": "Destroy this Pilot to destroy an attached Pilot card of your choice on opponent's M.S. Dock.",
-	"pilot_type": [],
-	"corps_symbol": "OZ",
-	"rarity": "C",
-	"type": "Pilot"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Muller",
+    "price": "1",
+    "number": "PL-037",
+    "effect": "Destroy this Pilot to destroy an attached Pilot card of your choice on opponent's M.S. Dock.",
+    "corps_symbol": "OZ",
+    "rarity": "C",
+    "type": "Pilot"
 }

@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "C",
-	"name": "XXXG-01W Wing Gundam (Bird Mode)",
-	"weapon": "Beam Buster Rifle",
-	"ms_type": [],
-	"effect": "Destroy this card to move your Wing Gundam from your Supply Base to the M.S. Dock.",
-	"number": "MS-002",
-	"corps_symbol": "WG",
-	"clash_points": "3",
-	"type": "Mobile Suit",
-	"price": "3"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "C",
+    "name": "XXXG-01W Wing Gundam (Bird Mode)",
+    "weapon": "Beam Buster Rifle",
+    "effect": "Destroy this card to move your Wing Gundam from your Supply Base to the M.S. Dock.",
+    "number": "MS-002",
+    "corps_symbol": "WG",
+    "clash_points": "3",
+    "type": "Mobile Suit",
+    "price": "3"
 }

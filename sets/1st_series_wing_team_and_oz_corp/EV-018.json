@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "High Power Combat",
-	"price": "2",
-	"number": "EV-018",
-	"effect": "M.S. cards with 3 Clash Points or less can't Attack.",
-	"corps_symbol": "WG",
-	"rarity": "U",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "High Power Combat",
+    "price": "2",
+    "number": "EV-018",
+    "effect": "M.S. cards with 3 Clash Points or less can't Attack.",
+    "corps_symbol": "WG",
+    "rarity": "U",
+    "type": "Event"
 }

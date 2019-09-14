@@ -1,11 +1,10 @@
 {
-	"set_name": "Promos",
-	"name": "Gihren Zabi",
-	"price": "3",
-	"effect": "Place this Pilot on your M.S. Dock. You may use an PZ Event card at the end of every turn without paying a Price.",
-	"number": "PL-P06",
-	"pilot_type": [],
-	"corps_symbol": "PZ",
-	"rarity": "H",
-	"type": "Pilot"
+    "set_name": "Promos",
+    "name": "Gihren Zabi",
+    "price": "3",
+    "effect": "Place this Pilot on your M.S. Dock. You may use an PZ Event card at the end of every turn without paying a Price.",
+    "number": "PL-P06",
+    "corps_symbol": "PZ",
+    "rarity": "H",
+    "type": "Pilot"
 }

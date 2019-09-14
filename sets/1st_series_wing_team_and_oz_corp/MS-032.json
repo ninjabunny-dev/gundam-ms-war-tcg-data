@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "U",
-	"name": "XXXG-01W Wing Gundam (Bird Mode)",
-	"weapon": "Buster Rifle",
-	"ms_type": [],
-	"effect": "Preemptive Strike.",
-	"number": "MS-032",
-	"corps_symbol": "WG",
-	"clash_points": "3",
-	"type": "Mobile Suit",
-	"price": "3"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "U",
+    "name": "XXXG-01W Wing Gundam (Bird Mode)",
+    "weapon": "Buster Rifle",
+    "effect": "Preemptive Strike.",
+    "number": "MS-032",
+    "corps_symbol": "WG",
+    "clash_points": "3",
+    "type": "Mobile Suit",
+    "price": "3"
 }

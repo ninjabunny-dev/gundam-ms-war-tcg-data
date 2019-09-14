@@ -1,11 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Quatre Raberba Winner",
-	"price": "1",
-	"number": "PL-004",
-	"effect": "A M.S. card with this Pilot attached can Defend with an additional M.S. card.",
-	"pilot_type": [],
-	"corps_symbol": "WG",
-	"rarity": "U",
-	"type": "Pilot"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Quatre Raberba Winner",
+    "price": "1",
+    "number": "PL-004",
+    "effect": "A M.S. card with this Pilot attached can Defend with an additional M.S. card.",
+    "corps_symbol": "WG",
+    "rarity": "U",
+    "type": "Pilot"
 }

@@ -1,11 +1,10 @@
 {
-	"set_name": "2nd Series: Endless Waltz",
-	"name": "Master O",
-	"price": "2",
-	"number": "PL-051",
-	"effect": "Place this Pilot on your M.S. Dock. Pay 1 Price to move a Shenlong Gundam or an Altron Gundam from the Dry Dock to the top of your Supply Base. This card remains in effect until destroyed.",
-	"pilot_type": [],
-	"corps_symbol": "WG",
-	"rarity": "R",
-	"type": "Pilot"
+    "set_name": "2nd Series: Endless Waltz",
+    "name": "Master O",
+    "price": "2",
+    "number": "PL-051",
+    "effect": "Place this Pilot on your M.S. Dock. Pay 1 Price to move a Shenlong Gundam or an Altron Gundam from the Dry Dock to the top of your Supply Base. This card remains in effect until destroyed.",
+    "corps_symbol": "WG",
+    "rarity": "R",
+    "type": "Pilot"
 }

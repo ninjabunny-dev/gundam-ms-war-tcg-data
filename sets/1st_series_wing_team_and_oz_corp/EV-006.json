@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Nation of Total Pacifism",
-	"price": "1",
-	"number": "EV-006",
-	"effect": "Play before opponent's Attack Phase. Opponent must skip Attack Phase.",
-	"corps_symbol": "WG",
-	"rarity": "C",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Nation of Total Pacifism",
+    "price": "1",
+    "number": "EV-006",
+    "effect": "Play before opponent's Attack Phase. Opponent must skip Attack Phase.",
+    "corps_symbol": "WG",
+    "rarity": "C",
+    "type": "Event"
 }

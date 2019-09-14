@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "H",
-	"name": "XXXG-01S2 Altron Gundam",
-	"weapon": "Twin Beam Trident",
-	"ms_type": [],
-	"effect": "Increase Clash Points by 1 each time you discard from your Supply Base. (Maximum 3 cards)",
-	"number": "MS-030",
-	"corps_symbol": "WG",
-	"clash_points": "4",
-	"type": "Mobile Suit",
-	"price": "4"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "H",
+    "name": "XXXG-01S2 Altron Gundam",
+    "weapon": "Twin Beam Trident",
+    "effect": "Increase Clash Points by 1 each time you discard from your Supply Base. (Maximum 3 cards)",
+    "number": "MS-030",
+    "corps_symbol": "WG",
+    "clash_points": "4",
+    "type": "Mobile Suit",
+    "price": "4"
 }

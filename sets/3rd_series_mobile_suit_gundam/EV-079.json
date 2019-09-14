@@ -1,10 +1,10 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"name": "Mass Production",
-	"price": "1",
-	"number": "EV-079",
-	"effect": "Reduce the Price of a M.S. card by 1 if a M.S. card with exactly the same name is in play.",
-	"corps_symbol": "EF",
-	"rarity": "C",
-	"type": "Event"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "name": "Mass Production",
+    "price": "1",
+    "number": "EV-079",
+    "effect": "Reduce the Price of a M.S. card by 1 if a M.S. card with exactly the same name is in play.",
+    "corps_symbol": "EF",
+    "rarity": "C",
+    "type": "Event"
 }

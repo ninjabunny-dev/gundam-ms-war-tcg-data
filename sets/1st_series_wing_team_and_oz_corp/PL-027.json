@@ -1,11 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Instructor H",
-	"price": "2",
-	"number": "PL-027",
-	"effect": "Place this Pilot on your M.S. Dock. Send 3 cards from your Supply Base to the Dry Dock to move a Pilot card of your choile to the bottom of your Supply Base. This card remains in effect until destroyed.",
-	"pilot_type": [],
-	"corps_symbol": "WG",
-	"rarity": "R",
-	"type": "Pilot"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Instructor H",
+    "price": "2",
+    "number": "PL-027",
+    "effect": "Place this Pilot on your M.S. Dock. Send 3 cards from your Supply Base to the Dry Dock to move a Pilot card of your choile to the bottom of your Supply Base. This card remains in effect until destroyed.",
+    "corps_symbol": "WG",
+    "rarity": "R",
+    "type": "Pilot"
 }

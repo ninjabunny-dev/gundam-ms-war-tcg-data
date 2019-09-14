@@ -1,17 +1,17 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"requirements": "Gundam Sandrock in play.",
-	"battle_scars": "Destroy one your Pilot cards.",
-	"price": "1",
-	"effect": {
-		"phase": [
-			"Attack Phase"
-		],
-		"text": "Only M.S. Type 'Sand' cards can Defend against Attacking M.S. Type 'Sand' cards."
-	},
-	"number": "BF-014",
-	"corps_symbol": "WG",
-	"rarity": "R",
-	"type": "Battlefield",
-	"name": "The Winners' Villa Basement"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "requirements": "Gundam Sandrock in play.",
+    "battle_scars": "Destroy one your Pilot cards.",
+    "price": "1",
+    "effect": {
+        "phase": [
+            "Attack Phase"
+        ],
+        "text": "Only M.S. Type 'Sand' cards can Defend against Attacking M.S. Type 'Sand' cards."
+    },
+    "number": "BF-014",
+    "corps_symbol": "WG",
+    "rarity": "R",
+    "type": "Battlefield",
+    "name": "The Winners' Villa Basement"
 }

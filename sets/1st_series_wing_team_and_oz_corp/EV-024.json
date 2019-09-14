@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Birthday Party",
-	"price": "1",
-	"number": "EV-024",
-	"effect": "Void any effects of a Pilot card placed on the M.S. Dock for this turn.",
-	"corps_symbol": "WG",
-	"rarity": "C",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Birthday Party",
+    "price": "1",
+    "number": "EV-024",
+    "effect": "Void any effects of a Pilot card placed on the M.S. Dock for this turn.",
+    "corps_symbol": "WG",
+    "rarity": "C",
+    "type": "Event"
 }

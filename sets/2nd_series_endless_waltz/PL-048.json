@@ -1,11 +1,10 @@
 {
-	"set_name": "2nd Series: Endless Waltz",
-	"name": "The Real Trowa Barton",
-	"price": "2",
-	"number": "PL-048",
-	"effect": "Increase your Clash Points by 1. A Pilot card of your choice may be attached to a M.S. card of your choice without paying a Price when this Pilot is destroyed.",
-	"pilot_type": [],
-	"corps_symbol": "OZ",
-	"rarity": "C",
-	"type": "Pilot"
+    "set_name": "2nd Series: Endless Waltz",
+    "name": "The Real Trowa Barton",
+    "price": "2",
+    "number": "PL-048",
+    "effect": "Increase your Clash Points by 1. A Pilot card of your choice may be attached to a M.S. card of your choice without paying a Price when this Pilot is destroyed.",
+    "corps_symbol": "OZ",
+    "rarity": "C",
+    "type": "Pilot"
 }

@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "C",
-	"name": "OZ-12SMS Taurus",
-	"weapon": "Taurus Cannon",
-	"ms_type": [],
-	"effect": "Taurus can't Defend M.S. cards with attached Pilots.",
-	"number": "MS-061",
-	"corps_symbol": "OZ",
-	"clash_points": "4",
-	"type": "Mobile Suit",
-	"price": "3"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "C",
+    "name": "OZ-12SMS Taurus",
+    "weapon": "Taurus Cannon",
+    "effect": "Taurus can't Defend M.S. cards with attached Pilots.",
+    "number": "MS-061",
+    "corps_symbol": "OZ",
+    "clash_points": "4",
+    "type": "Mobile Suit",
+    "price": "3"
 }

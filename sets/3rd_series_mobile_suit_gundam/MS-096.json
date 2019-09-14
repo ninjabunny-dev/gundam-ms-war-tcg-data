@@ -1,13 +1,12 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"rarity": "C",
-	"name": "MS-05 Zaku I",
-	"weapon": "105mm Machine Gun",
-	"ms_type": [],
-	"effect": "Thing card can't Attack without a Pilot.",
-	"number": "MS-096",
-	"corps_symbol": "PZ",
-	"clash_points": "1",
-	"type": "Mobile Suit",
-	"price": "1"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "rarity": "C",
+    "name": "MS-05 Zaku I",
+    "weapon": "105mm Machine Gun",
+    "effect": "Thing card can't Attack without a Pilot.",
+    "number": "MS-096",
+    "corps_symbol": "PZ",
+    "clash_points": "1",
+    "type": "Mobile Suit",
+    "price": "1"
 }

@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Emergency Escape",
-	"price": "1",
-	"number": "EV-010",
-	"effect": "Return a Pilot card in play to your hand.",
-	"corps_symbol": "OZ",
-	"rarity": "C",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Emergency Escape",
+    "price": "1",
+    "number": "EV-010",
+    "effect": "Return a Pilot card in play to your hand.",
+    "corps_symbol": "OZ",
+    "rarity": "C",
+    "type": "Event"
 }

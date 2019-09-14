@@ -1,9 +1,9 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rebel_forces_name": "The World Nation Forces",
-	"rebel_forces_effect": "Rebel Forces become Active when you meet one of the two Mission Objectives.",
-	"number": "MO-004",
-	"objective": "Score 4 War Experience Points and destroy 1 Battlefield cards.",
-	"team_name": "OZ Team",
-	"type": "Mission Objective"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rebel_forces_name": "The World Nation Forces",
+    "rebel_forces_effect": "Rebel Forces become Active when you meet one of the two Mission Objectives.",
+    "number": "MO-004",
+    "objective": "Score 4 War Experience Points and destroy 1 Battlefield cards.",
+    "team_name": "OZ Team",
+    "type": "Mission Objective"
 }

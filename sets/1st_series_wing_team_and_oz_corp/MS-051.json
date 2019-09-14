@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "U",
-	"name": "OZ-06MS Leo",
-	"weapon": "Beam Saber",
-	"ms_type": [],
-	"effect": "Preemptive Strike.",
-	"number": "MS-051",
-	"corps_symbol": "OZ",
-	"clash_points": "2",
-	"type": "Mobile Suit",
-	"price": "2"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "U",
+    "name": "OZ-06MS Leo",
+    "weapon": "Beam Saber",
+    "effect": "Preemptive Strike.",
+    "number": "MS-051",
+    "corps_symbol": "OZ",
+    "clash_points": "2",
+    "type": "Mobile Suit",
+    "price": "2"
 }

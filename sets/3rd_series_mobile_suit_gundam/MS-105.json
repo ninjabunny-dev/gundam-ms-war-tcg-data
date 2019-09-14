@@ -1,13 +1,12 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"rarity": "C",
-	"name": "Dopp",
-	"weapon": "Vulcan Cannon",
-	"ms_type": [],
-	"effect": "If this card is destroyed when Gau M.S. card is in play, return this card to your hand.",
-	"number": "MS-105",
-	"corps_symbol": "PZ",
-	"clash_points": "1",
-	"type": "Mobile Suit",
-	"price": "1"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "rarity": "C",
+    "name": "Dopp",
+    "weapon": "Vulcan Cannon",
+    "effect": "If this card is destroyed when Gau M.S. card is in play, return this card to your hand.",
+    "number": "MS-105",
+    "corps_symbol": "PZ",
+    "clash_points": "1",
+    "type": "Mobile Suit",
+    "price": "1"
 }

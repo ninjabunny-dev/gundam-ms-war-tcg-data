@@ -1,11 +1,6 @@
 {
-	"set_name": "Promos",
-	"name": "Anavel Gato",
-	"price": "",
-	"effect": "",
-	"number": "PL-P11",
-	"pilot_type": [],
-	"corps_symbol": "",
-	"rarity": "",
-	"type": "Pilot"
+    "set_name": "Promos",
+    "name": "Anavel Gato",
+    "number": "PL-P11",
+    "type": "Pilot"
 }

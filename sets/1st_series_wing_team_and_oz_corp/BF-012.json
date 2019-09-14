@@ -1,17 +1,17 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"requirements": "More than 1 WG Pilot card.",
-	"battle_scars": "Discard 2 Suppy Base cards.",
-	"price": "2",
-	"effect": {
-		"phase": [
-			"Attack Phase"
-		],
-		"text": "Increase a M.S. card's Clash Points by 1 each time you send 1 card from your Supply Base to the Dry Dock."
-	},
-	"number": "BF-012",
-	"corps_symbol": "WG",
-	"rarity": "U",
-	"type": "Battlefield",
-	"name": "L5 Colony"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "requirements": "More than 1 WG Pilot card.",
+    "battle_scars": "Discard 2 Suppy Base cards.",
+    "price": "2",
+    "effect": {
+        "phase": [
+            "Attack Phase"
+        ],
+        "text": "Increase a M.S. card's Clash Points by 1 each time you send 1 card from your Supply Base to the Dry Dock."
+    },
+    "number": "BF-012",
+    "corps_symbol": "WG",
+    "rarity": "U",
+    "type": "Battlefield",
+    "name": "L5 Colony"
 }

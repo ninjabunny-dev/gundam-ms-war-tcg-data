@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "G",
-	"name": "XXXG-00W0 Wing Gundam Zero",
-	"weapon": "Twin Beam Buster Rifles",
-	"ms_type": [],
-	"effect": "Destroy an opponent's Battlefield card if this card is not destroyed when Attacking.",
-	"number": "MS-025",
-	"corps_symbol": "WG",
-	"clash_points": "5",
-	"type": "Mobile Suit",
-	"price": "5"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "G",
+    "name": "XXXG-00W0 Wing Gundam Zero",
+    "weapon": "Twin Beam Buster Rifles",
+    "effect": "Destroy an opponent's Battlefield card if this card is not destroyed when Attacking.",
+    "number": "MS-025",
+    "corps_symbol": "WG",
+    "clash_points": "5",
+    "type": "Mobile Suit",
+    "price": "5"
 }

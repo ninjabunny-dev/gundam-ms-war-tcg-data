@@ -1,11 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Duo Maxwell",
-	"price": "1",
-	"number": "PL-002",
-	"effect": "Draw one card from your Supply Base when a M.S. card with this Pilot attached is not Defended.",
-	"pilot_type": [],
-	"corps_symbol": "WG",
-	"rarity": "U",
-	"type": "Pilot"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Duo Maxwell",
+    "price": "1",
+    "number": "PL-002",
+    "effect": "Draw one card from your Supply Base when a M.S. card with this Pilot attached is not Defended.",
+    "corps_symbol": "WG",
+    "rarity": "U",
+    "type": "Pilot"
 }

@@ -1,17 +1,17 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"requirements": "More than 1 OZ Pilot card.",
-	"battle_scars": "Destroy all your Pilot cards.",
-	"price": "2",
-	"effect": {
-		"phase": [
-			"Preliminary Phase"
-		],
-		"text": "Return a M.S. card of your choice from the Dry Dock to the bottom of your Supply Base at the beginning of each turn."
-	},
-	"number": "BF-006",
-	"corps_symbol": "OZ",
-	"rarity": "C",
-	"type": "Battlefield",
-	"name": "Lake Victoria Base"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "requirements": "More than 1 OZ Pilot card.",
+    "battle_scars": "Destroy all your Pilot cards.",
+    "price": "2",
+    "effect": {
+        "phase": [
+            "Preliminary Phase"
+        ],
+        "text": "Return a M.S. card of your choice from the Dry Dock to the bottom of your Supply Base at the beginning of each turn."
+    },
+    "number": "BF-006",
+    "corps_symbol": "OZ",
+    "rarity": "C",
+    "type": "Battlefield",
+    "name": "Lake Victoria Base"
 }

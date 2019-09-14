@@ -1,13 +1,12 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"rarity": "C",
-	"name": "Medea",
-	"weapon": "Anti-Air Machine Gun",
-	"ms_type": [],
-	"effect": "Reduse Clash Points damage (except by Attack) to M.S. Type 'Battleship' cards by 1 when this card is in play.",
-	"number": "MS-094",
-	"corps_symbol": "EF",
-	"clash_points": "1",
-	"type": "Mobile Suit",
-	"price": "1"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "rarity": "C",
+    "name": "Medea",
+    "weapon": "Anti-Air Machine Gun",
+    "effect": "Reduse Clash Points damage (except by Attack) to M.S. Type 'Battleship' cards by 1 when this card is in play.",
+    "number": "MS-094",
+    "corps_symbol": "EF",
+    "clash_points": "1",
+    "type": "Mobile Suit",
+    "price": "1"
 }

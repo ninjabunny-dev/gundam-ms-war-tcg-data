@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "H",
-	"name": "XXXG-01W Wing Gundam",
-	"weapon": "Machine Gun",
-	"ms_type": [],
-	"effect": "Only M.S. cards with 4 Clash Poins and above can Defend against Wing Gundam.",
-	"number": "MS-031",
-	"corps_symbol": "WG",
-	"clash_points": "4",
-	"type": "Mobile Suit",
-	"price": "4"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "H",
+    "name": "XXXG-01W Wing Gundam",
+    "weapon": "Machine Gun",
+    "effect": "Only M.S. cards with 4 Clash Poins and above can Defend against Wing Gundam.",
+    "number": "MS-031",
+    "corps_symbol": "WG",
+    "clash_points": "4",
+    "type": "Mobile Suit",
+    "price": "4"
 }

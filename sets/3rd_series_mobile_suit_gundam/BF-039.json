@@ -1,17 +1,17 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"requirements": "More than 3 PZ M.S. cards.",
-	"battle_scars": "Opponent scores 1 War Experience Point.",
-	"price": "4",
-	"effect": {
-		"phase": [
-			"Strategic Phase"
-		],
-		"text": "Reduce all PZ M.S. and Event cards' Price by 1."
-	},
-	"number": "BF-039",
-	"corps_symbol": "PZ",
-	"rarity": "R",
-	"type": "Battlefield",
-	"name": "Odessa"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "requirements": "More than 3 PZ M.S. cards.",
+    "battle_scars": "Opponent scores 1 War Experience Point.",
+    "price": "4",
+    "effect": {
+        "phase": [
+            "Strategic Phase"
+        ],
+        "text": "Reduce all PZ M.S. and Event cards' Price by 1."
+    },
+    "number": "BF-039",
+    "corps_symbol": "PZ",
+    "rarity": "R",
+    "type": "Battlefield",
+    "name": "Odessa"
 }

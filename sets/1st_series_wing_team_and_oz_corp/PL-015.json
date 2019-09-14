@@ -1,11 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Heero Yuy",
-	"price": "2",
-	"number": "PL-015",
-	"effect": "Increase your Clash Points by 1. Decrease Clas Points of any cards Defending a M.S. card with this Pilot attached by 1.",
-	"pilot_type": [],
-	"corps_symbol": "WG",
-	"rarity": "H",
-	"type": "Pilot"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Heero Yuy",
+    "price": "2",
+    "number": "PL-015",
+    "effect": "Increase your Clash Points by 1. Decrease Clas Points of any cards Defending a M.S. card with this Pilot attached by 1.",
+    "corps_symbol": "WG",
+    "rarity": "H",
+    "type": "Pilot"
 }

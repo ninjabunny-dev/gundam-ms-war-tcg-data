@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Operation Meteor",
-	"price": "3",
-	"number": "EV-001",
-	"effect": "Return 3 card of your choic from the Dry Dock to your Supply Base and reshuffle.",
-	"corps_symbol": "WG",
-	"rarity": "R",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Operation Meteor",
+    "price": "3",
+    "number": "EV-001",
+    "effect": "Return 3 card of your choic from the Dry Dock to your Supply Base and reshuffle.",
+    "corps_symbol": "WG",
+    "rarity": "R",
+    "type": "Event"
 }

@@ -1,11 +1,10 @@
 {
-	"set_name": "2nd Series: Endless Waltz",
-	"name": "Quatre Raberba Winner",
-	"price": "3",
-	"number": "PL-042",
-	"effect": "Return a M.S. card of your choice from the Dry Dock to your hand each time a M.S. card with this Pilot attached is not destroyed when Attacking.",
-	"pilot_type": [],
-	"corps_symbol": "WG",
-	"rarity": "U",
-	"type": "Pilot"
+    "set_name": "2nd Series: Endless Waltz",
+    "name": "Quatre Raberba Winner",
+    "price": "3",
+    "number": "PL-042",
+    "effect": "Return a M.S. card of your choice from the Dry Dock to your hand each time a M.S. card with this Pilot attached is not destroyed when Attacking.",
+    "corps_symbol": "WG",
+    "rarity": "U",
+    "type": "Pilot"
 }

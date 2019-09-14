@@ -1,17 +1,17 @@
 {
-	"set_name": "Promos",
-	"requirements": "Gundam Epyon in play.",
-	"battle_scars": "Discard 3 Supply Base cards.",
-	"price": "1",
-	"effect": {
-		"phase": [
-			"Attack Phase"
-		],
-		"text": "Increase all Gundam Epyon cards' Clash Points by 2."
-	},
-	"number": "BF-P12",
-	"corps_symbol": "OZ",
-	"rarity": "H",
-	"type": "Battlefield",
-	"name": "Philadelphia, PA"
+    "set_name": "Promos",
+    "requirements": "Gundam Epyon in play.",
+    "battle_scars": "Discard 3 Supply Base cards.",
+    "price": "1",
+    "effect": {
+        "phase": [
+            "Attack Phase"
+        ],
+        "text": "Increase all Gundam Epyon cards' Clash Points by 2."
+    },
+    "number": "BF-P12",
+    "corps_symbol": "OZ",
+    "rarity": "H",
+    "type": "Battlefield",
+    "name": "Philadelphia, PA"
 }

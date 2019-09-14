@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "H",
-	"name": "OZ-13MSX1 Vayeate",
-	"weapon": "Beam Cannon",
-	"ms_type": [],
-	"effect": "Void an opposing M.S. card's effect when Vayeate is Defended. Any attached Pilot's effects are also voided.",
-	"number": "MS-063",
-	"corps_symbol": "OZ",
-	"clash_points": "4",
-	"type": "Mobile Suit",
-	"price": "4"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "H",
+    "name": "OZ-13MSX1 Vayeate",
+    "weapon": "Beam Cannon",
+    "effect": "Void an opposing M.S. card's effect when Vayeate is Defended. Any attached Pilot's effects are also voided.",
+    "number": "MS-063",
+    "corps_symbol": "OZ",
+    "clash_points": "4",
+    "type": "Mobile Suit",
+    "price": "4"
 }

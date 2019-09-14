@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "M.S. Transport",
-	"price": "2",
-	"number": "EV-050",
-	"effect": "Move an OZ M.S. card from the Dry Dock to the top of your Supply Deck.",
-	"corps_symbol": "OZ",
-	"rarity": "C",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "M.S. Transport",
+    "price": "2",
+    "number": "EV-050",
+    "effect": "Move an OZ M.S. card from the Dry Dock to the top of your Supply Deck.",
+    "corps_symbol": "OZ",
+    "rarity": "C",
+    "type": "Event"
 }

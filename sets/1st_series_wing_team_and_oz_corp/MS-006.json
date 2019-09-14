@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "U",
-	"name": "XXXG-01S Shenlong Gundam",
-	"weapon": "Dragon Fang",
-	"ms_type": [],
-	"effect": "Increase Clash Points by 2 when Shenlong Gundam Attacks alone.",
-	"number": "MS-006",
-	"corps_symbol": "WG",
-	"clash_points": "3",
-	"type": "Mobile Suit",
-	"price": "3"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "U",
+    "name": "XXXG-01S Shenlong Gundam",
+    "weapon": "Dragon Fang",
+    "effect": "Increase Clash Points by 2 when Shenlong Gundam Attacks alone.",
+    "number": "MS-006",
+    "corps_symbol": "WG",
+    "clash_points": "3",
+    "type": "Mobile Suit",
+    "price": "3"
 }

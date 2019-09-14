@@ -1,17 +1,17 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"requirements": "More than 1 WG M.S. card.",
-	"battle_scars": "Destroy one of your M.S. Cards.",
-	"price": "1",
-	"effect": {
-		"phase": [
-			"Attack Phase"
-		],
-		"text": "Increase a M.S. card's Clash Points by 1."
-	},
-	"number": "BF-016",
-	"corps_symbol": "WG",
-	"rarity": "C",
-	"type": "Battlefield",
-	"name": "The Old Alliance's Space Colony"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "requirements": "More than 1 WG M.S. card.",
+    "battle_scars": "Destroy one of your M.S. Cards.",
+    "price": "1",
+    "effect": {
+        "phase": [
+            "Attack Phase"
+        ],
+        "text": "Increase a M.S. card's Clash Points by 1."
+    },
+    "number": "BF-016",
+    "corps_symbol": "WG",
+    "rarity": "C",
+    "type": "Battlefield",
+    "name": "The Old Alliance's Space Colony"
 }

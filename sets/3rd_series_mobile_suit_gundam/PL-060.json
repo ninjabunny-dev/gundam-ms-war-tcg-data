@@ -1,11 +1,10 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"name": "Matilda Ajan",
-	"price": "1",
-	"effect": "When a M.S. card with this Pilot attached is not destroyed when Defending, send 1 card of your choice from the Dry Dock to your hand.",
-	"number": "PL-060",
-	"pilot_type": [],
-	"corps_symbol": "EF",
-	"rarity": "C",
-	"type": "Pilot"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "name": "Matilda Ajan",
+    "price": "1",
+    "effect": "When a M.S. card with this Pilot attached is not destroyed when Defending, send 1 card of your choice from the Dry Dock to your hand.",
+    "number": "PL-060",
+    "corps_symbol": "EF",
+    "rarity": "C",
+    "type": "Pilot"
 }

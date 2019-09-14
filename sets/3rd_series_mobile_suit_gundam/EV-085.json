@@ -1,10 +1,10 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"name": "Spy",
-	"price": "2",
-	"number": "EV-085",
-	"effect": "Send an opponent's Event card of your choice from opponent's hand to the Dry Dock.",
-	"corps_symbol": "PZ",
-	"rarity": "U",
-	"type": "Event"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "name": "Spy",
+    "price": "2",
+    "number": "EV-085",
+    "effect": "Send an opponent's Event card of your choice from opponent's hand to the Dry Dock.",
+    "corps_symbol": "PZ",
+    "rarity": "U",
+    "type": "Event"
 }

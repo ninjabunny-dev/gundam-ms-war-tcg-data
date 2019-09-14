@@ -1,11 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Tubarov",
-	"price": "2",
-	"number": "PL-033",
-	"effect": "Increase youe Clash Points by 2 when this Pilot is attached with Taurus, Taurus (Flying Mode) or Virgo.",
-	"pilot_type": [],
-	"corps_symbol": "OZ",
-	"rarity": "U",
-	"type": "Pilot"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Tubarov",
+    "price": "2",
+    "number": "PL-033",
+    "effect": "Increase youe Clash Points by 2 when this Pilot is attached with Taurus, Taurus (Flying Mode) or Virgo.",
+    "corps_symbol": "OZ",
+    "rarity": "U",
+    "type": "Pilot"
 }

@@ -1,10 +1,10 @@
 {
-	"set_name": "2nd Series: Endless Waltz",
-	"name": "Power Transfer",
-	"price": "2",
-	"number": "EV-059",
-	"effect": "Take the effect from an Attacking M.S. card and apply it to the Defending M.S. card for this turn only.",
-	"corps_symbol": "OZ",
-	"rarity": "C",
-	"type": "Event"
+    "set_name": "2nd Series: Endless Waltz",
+    "name": "Power Transfer",
+    "price": "2",
+    "number": "EV-059",
+    "effect": "Take the effect from an Attacking M.S. card and apply it to the Defending M.S. card for this turn only.",
+    "corps_symbol": "OZ",
+    "rarity": "C",
+    "type": "Event"
 }

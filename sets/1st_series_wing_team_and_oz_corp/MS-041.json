@@ -1,15 +1,15 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "C",
-	"name": "OZ-07AMS Aries",
-	"weapon": "Hand-held Chain Gun",
-	"ms_type": [
-		"Sand"
-	],
-	"effect": "Preemptive Strike.",
-	"number": "MS-041",
-	"corps_symbol": "WG",
-	"clash_points": "3",
-	"type": "Mobile Suit",
-	"price": "3"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "C",
+    "name": "OZ-07AMS Aries",
+    "weapon": "Hand-held Chain Gun",
+    "ms_type": [
+        "Sand"
+    ],
+    "effect": "Preemptive Strike.",
+    "number": "MS-041",
+    "corps_symbol": "WG",
+    "clash_points": "3",
+    "type": "Mobile Suit",
+    "price": "3"
 }

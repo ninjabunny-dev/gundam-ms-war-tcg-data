@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "C",
-	"name": "OZ-07AMS Aries (Flying Mode)",
-	"weapon": "Hand-held Chain Gun",
-	"ms_type": [],
-	"effect": "Preemptive Strike. Reduce Clash Points by 1 when Defending.",
-	"number": "MS-017",
-	"corps_symbol": "OZ",
-	"clash_points": "3",
-	"type": "Mobile Suit",
-	"price": "3"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "C",
+    "name": "OZ-07AMS Aries (Flying Mode)",
+    "weapon": "Hand-held Chain Gun",
+    "effect": "Preemptive Strike. Reduce Clash Points by 1 when Defending.",
+    "number": "MS-017",
+    "corps_symbol": "OZ",
+    "clash_points": "3",
+    "type": "Mobile Suit",
+    "price": "3"
 }

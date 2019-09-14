@@ -1,17 +1,17 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"requirements": "More than 1 PZ M.S. Type 'Mobile Armor' card.",
-	"battle_scars": "Keep one card of your choice and discard the rest of your hand.",
-	"price": "3",
-	"effect": {
-		"phase": [
-			"Preliminary Phase"
-		],
-		"text": "You may draw a card from your Supply Base at each player's Preliminary Phase."
-	},
-	"number": "BF-038",
-	"corps_symbol": "PZ",
-	"rarity": "U",
-	"type": "Battlefield",
-	"name": "The Zeon Mining Region"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "requirements": "More than 1 PZ M.S. Type 'Mobile Armor' card.",
+    "battle_scars": "Keep one card of your choice and discard the rest of your hand.",
+    "price": "3",
+    "effect": {
+        "phase": [
+            "Preliminary Phase"
+        ],
+        "text": "You may draw a card from your Supply Base at each player's Preliminary Phase."
+    },
+    "number": "BF-038",
+    "corps_symbol": "PZ",
+    "rarity": "U",
+    "type": "Battlefield",
+    "name": "The Zeon Mining Region"
 }

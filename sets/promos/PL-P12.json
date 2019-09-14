@@ -1,11 +1,6 @@
 {
-	"set_name": "Promos",
-	"name": "Aiguille Delaz",
-	"price": "",
-	"effect": "",
-	"number": "PL-P12",
-	"pilot_type": [],
-	"corps_symbol": "",
-	"rarity": "",
-	"type": "Pilot"
+    "set_name": "Promos",
+    "name": "Aiguille Delaz",
+    "number": "PL-P12",
+    "type": "Pilot"
 }

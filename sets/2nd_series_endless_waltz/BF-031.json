@@ -1,17 +1,17 @@
 {
-	"set_name": "2nd Series: Endless Waltz",
-	"requirements": "More that 1 WG M.S. card.",
-	"battle_scars": "Return a M.S. card from the M.S. Dock to the bottom of Supply Base.",
-	"price": "3",
-	"effect": {
-		"phase": [
-			"Attack Phase"
-		],
-		"text": "All Attacking WG M.S. cards add Preemptive Strike."
-	},
-	"number": "BF-031",
-	"corps_symbol": "WG",
-	"rarity": "U",
-	"type": "Battlefield",
-	"name": "In the Satellite's Orbit"
+    "set_name": "2nd Series: Endless Waltz",
+    "requirements": "More that 1 WG M.S. card.",
+    "battle_scars": "Return a M.S. card from the M.S. Dock to the bottom of Supply Base.",
+    "price": "3",
+    "effect": {
+        "phase": [
+            "Attack Phase"
+        ],
+        "text": "All Attacking WG M.S. cards add Preemptive Strike."
+    },
+    "number": "BF-031",
+    "corps_symbol": "WG",
+    "rarity": "U",
+    "type": "Battlefield",
+    "name": "In the Satellite's Orbit"
 }

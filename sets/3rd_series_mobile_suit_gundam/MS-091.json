@@ -1,15 +1,15 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"rarity": "R",
-	"name": "White Base",
-	"weapon": "Double 580mm Main Cannon",
-	"ms_type": [
-		"Battleship"
-	],
-	"effect": "Opponents must Defend when this card Attacks. If opponent cannot Defend, they take Battle Damage.",
-	"number": "MS-091",
-	"corps_symbol": "EF",
-	"clash_points": "4",
-	"type": "Mobile Suit",
-	"price": "3"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "rarity": "R",
+    "name": "White Base",
+    "weapon": "Double 580mm Main Cannon",
+    "ms_type": [
+        "Battleship"
+    ],
+    "effect": "Opponents must Defend when this card Attacks. If opponent cannot Defend, they take Battle Damage.",
+    "number": "MS-091",
+    "corps_symbol": "EF",
+    "clash_points": "4",
+    "type": "Mobile Suit",
+    "price": "3"
 }

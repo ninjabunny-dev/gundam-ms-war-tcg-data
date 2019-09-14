@@ -1,13 +1,12 @@
 {
-	"set_name": "2nd Series: Endless Waltz",
-	"rarity": "U",
-	"name": "Serpent Transport Ship",
-	"weapon": "-------",
-	"ms_type": [],
-	"effect": "Destroy this card to move a Serpent M.S. card from the Dry Dock to your hand.",
-	"number": "MS-082",
-	"corps_symbol": "OZ",
-	"clash_points": "1",
-	"type": "Mobile Suit",
-	"price": "1"
+    "set_name": "2nd Series: Endless Waltz",
+    "rarity": "U",
+    "name": "Serpent Transport Ship",
+    "weapon": "-------",
+    "effect": "Destroy this card to move a Serpent M.S. card from the Dry Dock to your hand.",
+    "number": "MS-082",
+    "corps_symbol": "OZ",
+    "clash_points": "1",
+    "type": "Mobile Suit",
+    "price": "1"
 }

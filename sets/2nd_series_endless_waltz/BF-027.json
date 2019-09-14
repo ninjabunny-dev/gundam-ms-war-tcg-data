@@ -1,17 +1,17 @@
 {
-	"set_name": "2nd Series: Endless Waltz",
-	"requirements": "More that 1 WG Pilot card.",
-	"battle_scars": "Destroy a Pilot card of your opponent's choice.",
-	"price": "3",
-	"effect": {
-		"phase": [
-			"Preliminary Phase"
-		],
-		"text": "Return a WG Pilot card of your choice from the Dry Dock to your hand at the beginning of each turn."
-	},
-	"number": "BF-027",
-	"corps_symbol": "WG",
-	"rarity": "C",
-	"type": "Battlefield",
-	"name": "L1 Colony"
+    "set_name": "2nd Series: Endless Waltz",
+    "requirements": "More that 1 WG Pilot card.",
+    "battle_scars": "Destroy a Pilot card of your opponent's choice.",
+    "price": "3",
+    "effect": {
+        "phase": [
+            "Preliminary Phase"
+        ],
+        "text": "Return a WG Pilot card of your choice from the Dry Dock to your hand at the beginning of each turn."
+    },
+    "number": "BF-027",
+    "corps_symbol": "WG",
+    "rarity": "C",
+    "type": "Battlefield",
+    "name": "L1 Colony"
 }

@@ -1,10 +1,10 @@
 {
-	"set_name": "3rd Series: Mobile Suit Gundam",
-	"name": "The Solar System",
-	"price": "5",
-	"number": "EV-080",
-	"effect": "Destroy an opponent's Battlefield card and M.S. card of your choice.",
-	"corps_symbol": "EF",
-	"rarity": "R",
-	"type": "Event"
+    "set_name": "3rd Series: Mobile Suit Gundam",
+    "name": "The Solar System",
+    "price": "5",
+    "number": "EV-080",
+    "effect": "Destroy an opponent's Battlefield card and M.S. card of your choice.",
+    "corps_symbol": "EF",
+    "rarity": "R",
+    "type": "Event"
 }

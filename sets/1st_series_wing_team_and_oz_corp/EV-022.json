@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "OZ Corps Infiltration",
-	"price": "2",
-	"number": "EV-022",
-	"effect": "Assuome control of an opponent's M.S. card with attached OZ Pilot during this turn. Return the card to its original position after your turn (if it's not destroyed).",
-	"corps_symbol": "WG",
-	"rarity": "U",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "OZ Corps Infiltration",
+    "price": "2",
+    "number": "EV-022",
+    "effect": "Assuome control of an opponent's M.S. card with attached OZ Pilot during this turn. Return the card to its original position after your turn (if it's not destroyed).",
+    "corps_symbol": "WG",
+    "rarity": "U",
+    "type": "Event"
 }

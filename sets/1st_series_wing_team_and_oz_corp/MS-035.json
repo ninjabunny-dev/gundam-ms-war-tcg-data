@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "U",
-	"name": "XXXG-01SR Gundam Sandrock",
-	"weapon": "Cross Clasher",
-	"ms_type": [],
-	"effect": "Increase Clash Points by 1 when your Battlefield card is placed in play.",
-	"number": "MS-035",
-	"corps_symbol": "WG",
-	"clash_points": "3",
-	"type": "Mobile Suit",
-	"price": "3"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "U",
+    "name": "XXXG-01SR Gundam Sandrock",
+    "weapon": "Cross Clasher",
+    "effect": "Increase Clash Points by 1 when your Battlefield card is placed in play.",
+    "number": "MS-035",
+    "corps_symbol": "WG",
+    "clash_points": "3",
+    "type": "Mobile Suit",
+    "price": "3"
 }

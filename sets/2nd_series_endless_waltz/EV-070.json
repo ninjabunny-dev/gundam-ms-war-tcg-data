@@ -1,10 +1,10 @@
 {
-	"set_name": "2nd Series: Endless Waltz",
-	"name": "People's Action",
-	"price": "3",
-	"number": "EV-070",
-	"effect": "All M.S. cards (even your own) can't Attack for this turn.",
-	"corps_symbol": "WG",
-	"rarity": "R",
-	"type": "Event"
+    "set_name": "2nd Series: Endless Waltz",
+    "name": "People's Action",
+    "price": "3",
+    "number": "EV-070",
+    "effect": "All M.S. cards (even your own) can't Attack for this turn.",
+    "corps_symbol": "WG",
+    "rarity": "R",
+    "type": "Event"
 }

@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "C",
-	"name": "OZ Transport Plane",
-	"weapon": "-------",
-	"ms_type": [],
-	"effect": "Destroy this card to Return a M.S. card of your choice from the Dry Dock to the bottom of your Supply Base.",
-	"number": "MS-044",
-	"corps_symbol": "WG",
-	"clash_points": "1",
-	"type": "Mobile Suit",
-	"price": "2"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "C",
+    "name": "OZ Transport Plane",
+    "weapon": "-------",
+    "effect": "Destroy this card to Return a M.S. card of your choice from the Dry Dock to the bottom of your Supply Base.",
+    "number": "MS-044",
+    "corps_symbol": "WG",
+    "clash_points": "1",
+    "type": "Mobile Suit",
+    "price": "2"
 }

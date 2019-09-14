@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "C",
-	"name": "Transport Trailer",
-	"weapon": "-------",
-	"ms_type": [],
-	"effect": "Destroy this card to Return a M.S. card of your choice from the Dry Dock to the top of your Supply Base.",
-	"number": "MS-045",
-	"corps_symbol": "WG",
-	"clash_points": "1",
-	"type": "Mobile Suit",
-	"price": "1"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "C",
+    "name": "Transport Trailer",
+    "weapon": "-------",
+    "effect": "Destroy this card to Return a M.S. card of your choice from the Dry Dock to the top of your Supply Base.",
+    "number": "MS-045",
+    "corps_symbol": "WG",
+    "clash_points": "1",
+    "type": "Mobile Suit",
+    "price": "1"
 }

@@ -1,11 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Doctor J",
-	"price": "1",
-	"number": "PL-008",
-	"effect": "Place this Pilot on your M.S. Dock to reduce a WG M.S. card's Price by 1. This card remains in effect until destroyed.",
-	"pilot_type": [],
-	"corps_symbol": "WG",
-	"rarity": "C",
-	"type": "Pilot"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Doctor J",
+    "price": "1",
+    "number": "PL-008",
+    "effect": "Place this Pilot on your M.S. Dock to reduce a WG M.S. card's Price by 1. This card remains in effect until destroyed.",
+    "corps_symbol": "WG",
+    "rarity": "C",
+    "type": "Pilot"
 }

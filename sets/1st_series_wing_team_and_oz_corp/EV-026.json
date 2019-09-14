@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Mercenary",
-	"price": "1",
-	"number": "EV-026",
-	"effect": "Increase Clash Points by 1.",
-	"corps_symbol": "WG",
-	"rarity": "C",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Mercenary",
+    "price": "1",
+    "number": "EV-026",
+    "effect": "Increase Clash Points by 1.",
+    "corps_symbol": "WG",
+    "rarity": "C",
+    "type": "Event"
 }

@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Assassination",
-	"price": "2",
-	"number": "EV-009",
-	"effect": "destroy all Pilot cards in play (even your own).",
-	"corps_symbol": "OZ",
-	"rarity": "R",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Assassination",
+    "price": "2",
+    "number": "EV-009",
+    "effect": "destroy all Pilot cards in play (even your own).",
+    "corps_symbol": "OZ",
+    "rarity": "R",
+    "type": "Event"
 }

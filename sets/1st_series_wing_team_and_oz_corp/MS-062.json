@@ -1,13 +1,12 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"rarity": "U",
-	"name": "OZ-12SMS Taurus (Flying Mode)",
-	"weapon": "Beam Rifle",
-	"ms_type": [],
-	"effect": "Preemptive Strike. Taurus (Flying Mode) can't Defend M.S. cards with attached Pilots.",
-	"number": "MS-062",
-	"corps_symbol": "OZ",
-	"clash_points": "3",
-	"type": "Mobile Suit",
-	"price": "3"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "rarity": "U",
+    "name": "OZ-12SMS Taurus (Flying Mode)",
+    "weapon": "Beam Rifle",
+    "effect": "Preemptive Strike. Taurus (Flying Mode) can't Defend M.S. cards with attached Pilots.",
+    "number": "MS-062",
+    "corps_symbol": "OZ",
+    "clash_points": "3",
+    "type": "Mobile Suit",
+    "price": "3"
 }

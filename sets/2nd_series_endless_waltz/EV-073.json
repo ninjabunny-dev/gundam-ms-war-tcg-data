@@ -1,10 +1,10 @@
 {
-	"set_name": "2nd Series: Endless Waltz",
-	"name": "End of Waltz",
-	"price": "6",
-	"number": "EV-073",
-	"effect": "Destroy all M.S. cards in play (even your own). This card must be used during the Strategic Phase.",
-	"corps_symbol": "WG",
-	"rarity": "H",
-	"type": "Event"
+    "set_name": "2nd Series: Endless Waltz",
+    "name": "End of Waltz",
+    "price": "6",
+    "number": "EV-073",
+    "effect": "Destroy all M.S. cards in play (even your own). This card must be used during the Strategic Phase.",
+    "corps_symbol": "WG",
+    "rarity": "H",
+    "type": "Event"
 }

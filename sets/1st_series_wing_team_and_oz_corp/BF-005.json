@@ -1,17 +1,17 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"requirements": "Destroy one of your OZ M.S. cards.",
-	"battle_scars": "More than 2 OZ M.S. cards.",
-	"price": "2",
-	"effect": {
-		"phase": [
-			"Attack Phase"
-		],
-		"text": "Increase Clash Points by 1 when Defending."
-	},
-	"number": "BF-005",
-	"corps_symbol": "OZ",
-	"rarity": "C",
-	"type": "Battlefield",
-	"name": "New Edwards Base"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "requirements": "Destroy one of your OZ M.S. cards.",
+    "battle_scars": "More than 2 OZ M.S. cards.",
+    "price": "2",
+    "effect": {
+        "phase": [
+            "Attack Phase"
+        ],
+        "text": "Increase Clash Points by 1 when Defending."
+    },
+    "number": "BF-005",
+    "corps_symbol": "OZ",
+    "rarity": "C",
+    "type": "Battlefield",
+    "name": "New Edwards Base"
 }

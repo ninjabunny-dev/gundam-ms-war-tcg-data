@@ -1,10 +1,10 @@
 {
-	"set_name": "1st Series: Wing Team & Oz Corp",
-	"name": "Zero System",
-	"price": "5",
-	"number": "EV-023",
-	"effect": "Increase the Clash Points of a M.S. card of your choice with an attached Pilot by 5.",
-	"corps_symbol": "WG",
-	"rarity": "R",
-	"type": "Event"
+    "set_name": "1st Series: Wing Team & Oz Corp",
+    "name": "Zero System",
+    "price": "5",
+    "number": "EV-023",
+    "effect": "Increase the Clash Points of a M.S. card of your choice with an attached Pilot by 5.",
+    "corps_symbol": "WG",
+    "rarity": "R",
+    "type": "Event"
 }
